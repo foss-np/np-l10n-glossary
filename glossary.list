@@ -1,2 +1,673 @@
-home n. 								गृह
-home page n.							गृह पृष्ठ
+3d: त्रि-आयामिक(adj) #math
+abbreviation: संक्षिप्त रूप(n)
+ability: क्षमाता, सामर्थ्य, निपूर्णता
+abort: परित्याग(v), रद्द
+about: बारेमा, बिषयमा
+absolute: निश्चित (adj)
+abstract: अमूर्त(n), संक्षेप(n)
+accelerator: गतिवर्धक
+accent: जोर(n)
+accepted: स्वीकृत(adj)
+accept: स्वीकार(n), मन्जुर
+accessibility: पहुँचता(n)
+accessible: पहुँचयोग्य(adj)
+accessory: सहायक उपकरण(n)
+access: पहुँच, सर्वसुलभ
+accountable: जवाफदेहि
+account: खाता(n)
+across: वारपार
+action: कार्य(n), गतिविधि
+active: सक्रिय
+activity: गतिविधि(n)
+actor: कर्ता
+actuarial: प्रवर्तकिय
+actuator: प्रवर्तक
+adaptor: संयोजन(n)
+adapt: अनुकूल
+addressee: प्रापक(n)
+address: ठेगाना(n), सम्बोधन
+add: थप्नुहोस्, जोङ्नुहोस्
+adjacent: निकटवर्ती(adj)
+adjust: बन्दवस्त, समायोजन
+administrate: प्रबन्ध
+administration: प्रशासन(n)
+administrator: व्यवस्थापक, संचालक, प्रबन्धक, प्रशासक(n)
+advance: जटिल, उच्च, पेश्की, उन्नत(adj)
+advertise: प्रचार
+advisor: सल्लाहकार(n)
+after: पछि, उप्रान्त
+agenda: लक्ष्य
+agent: अभिकर्ता(n)
+aggregate: समष्टि
+agreement: सम्झौता(n)
+agree: सहमति, राजी
+air: हावा
+alarm: सचेतक
+alert: सावधान(n), होसियार
+algebra: बीजगणित #math
+alias: उपनाम
+align: पङ्क्तिबद्ध गर्नुहोस्
+allowance: भत्ता
+allow: अनुमति
+all: सबै
+alphabetical: वर्णानुक्रम(adj)
+alternative: विकल्प, वैकल्पिक(adj)
+alter: परिवर्तन, हेरफेर
+always: सधैं
+ambient: परिवेशी(adv), चारैतिर
+amortization: अवक्षयण
+amount: मात्रा, रकम
+am: उत्तरार्ध #time
+analysis: विश्लेषण(n)
+analyst: विश्लेषक(n)
+ancient: पौराणिक
+angle: कोण(n) #math
+announce: घोषणा
+annoy: दु:ख दिनु
+annual: वार्षिक
+annuity: वार्षिकी
+anonymous: बेनामी
+another: अर्को
+answer: जवाफ(n)
+appearance: देखावट(n)
+appear: देखापर्नु, प्रकट
+append: थप्नुहोस्
+apple: स्याउ
+application: अनुप्रयोग(n), निबेदन, उपयोग
+apply: लागू
+approach: द्रिष्टीकोण
+approve: अनुमोदन, स्विक्रित, प्रमाणित
+approximate: अन्दाजी(adj)
+archive: अभिलेख, सङ्ग्रह(n)
+arc: चाप(n) #math
+area: क्षेत्र
+argument: तर्क(n)
+arithmetic: अंकगणितिय #math
+arrangement: बन्दबस्त
+arrange: मिलाउनुहोस्(v)
+arrow: बाण(n), तिर(n)
+article: लेख(n)
+artificial: कृत्रिम(n)
+artist: कलाकार
+art: कला
+ascendancy: हैकम(n)
+ascending: बढ्दो(adj)
+ask: सोध्नुहोस्
+aspect ratio: आकार अनुपात(n)
+assemble: एकत्रित(n)
+asset: सम्पत्ति
+assignment: कार्य(n), गृहकार्य(n)
+assign: मानाङ्कन
+assistive: प्रलम्बित(adj)
+associated: सहयोगी(adj)
+asynchronous: अतुल्यकालिन(adj)
+as: जस्तो
+attach: अनुलग्न, संलग्न, गाँसिएको(adj)
+attempt: प्रयास
+attitude: भाव
+audience: दर्शक, श्रोता
+audio: श्रब्य
+audit: लेखा परिक्षण
+authenticate: प्रमाणीकरण
+authorized: आधिकारिक(adj)
+author: लेखक(n)
+automatic: स्वचालित
+autonomous: स्वचालित
+auto: स्वतः
+available: उपलब्ध(adj)
+average: औसत(n)
+aware: चेतना
+axial: अक्षीय(adj)
+axis: अक्ष(n)
+background: पृष्ठभूमि(n)
+backup: जगेडा(n), प्रतिलिपी प्रति
+backward: पछिल्तिर, पछिल्लो(adv)
+back: पछाडि(n)
+balance: सन्तुलन
+base: आधार
+basic: प्रथमिक, प्रारंभिक, मुलभुत, आधारभूत(n), मौलिक
+batch: समूह(n)
+bat: चमेरो
+before: अघि
+begin: सुरुआत
+behavior: व्यवहार(n)
+behind: पछाडि(prep/adv)
+belong: स्वामित्व
+below: तल(adv)
+bend: मोड्नु(n)
+between: बीचमा
+beveled: प्रवणित(adj)
+biaise: पक्षपात
+bibliography: सन्दर्भ सूची(n)
+binomial: द्विपद(n)
+black: कालो(adj)
+blank: रिक्त(adj), खाली(adj)
+blast: विस्फोट(n)
+blend: मिसावट(n)
+blink: झिमझिम(n)
+block: बन्द(n)
+blue: नीलो
+blur: अस्पष्ट
+body: मुख्य(n), शरीर
+bold: बाक्लो(adj)
+bookmark: चिन्ह हाल्नुस्, पुस्तक चिन्ह
+book: पुस्तक(n)
+border: किनारा
+bottom: मुनी, फेद, तल
+bounce: उफार्नुहोस्(v)
+boundary: सीमा(n)
+bound: बाँधिएको
+box: बाकस(n)
+brace: जोडा(n)
+bracket: कोष्ठक(n)
+braille: अन्धलिपि(n)
+branch: शाखा
+break: विच्छेदन(n), विच्छेद गर्नुहोस्(v)
+brick: ईंटा
+brief: छोटकरी(n), संक्षेप(adj)
+bright: चम्किलो(adj)
+bring: ल्याउनुहोस्
+brochure: पुस्तिका(n)
+brown: खैरो(adj)
+brush: ब्रुस(n)
+bubble: फोका(n)
+build:निर्माण
+bulb: चिम
+bullet: गोली(n), बुँदा
+business: व्यवसाय(n)
+busy: व्यस्त
+bus: बस(n)
+button: टाँख(n)
+by: द्वारा
+calculate: गणना(n)
+calculation: गनित, गणना
+calculator: गणकयन्त्र(n)
+calendar: पात्रो(n)
+call: बोलाउनु(n), आह्वान
+campaign: अभियान
+cancel: रद्द(v)
+capability: क्षमता(n)
+capable: सार्थक
+capital: पूँजी(n), राजधानी
+cap: टोपी
+cardinal number: आधारभूत सङ्ख्या #math
+card: पत्र
+care: सम्हाल
+carrier: वृत्ति(n)
+catalog: विवरणिका(n)
+category: कोटि(n)
+cat: बिरालो
+caution: होसियार
+cell: कक्ष(n), कोशिका, जेल, झ्यालखाना, फोन
+census: जनगणना
+centered: केन्द्रित(adj)
+center: केन्द्र
+centimeter: सेन्टिमिटर(n) #unit
+certificate: प्रमाणपत्र(n)
+changed: परिवर्तित(adj)
+change: परिवर्तन(n)
+channel: माध्यम(n)
+chapter: अध्याय(n)
+charcoal: कोइला(n)
+chart: चित्रपट(n)
+chat: कुराकानी
+check: जाँच(n), परीक्षण
+cheers: भाव(n)
+chemical: रासायनिक
+child: शाखा, बच्चा
+china: चीन
+chinese: चिनीयाँ
+choice: रोजाइ(n)
+cinema: चलचित्र(n)
+circle: घेरा ,वृत्त (n) #math
+citation: वृत्तान्त
+city: शहर(n)
+classic: शास्त्रीय(adj)
+classification: वर्गीकरण(n)
+class: वर्ग(n)
+clean: सफा:
+clear: खाली(v)
+climate: हावापानी(n), मैसम
+clock: धडी
+cloud: बादल(n)
+cm: सेन्टिमिटर #unit
+code: सङ्केत(n)
+collaboration: सहकार्य
+collapse: संकुचन, संक्षिप्त
+collect: सङ्कलन
+color: रङ(n)
+column: स्तम्भ
+col: स्तम्भ
+come: आउँ
+commence: सुरु
+comment: टिप्पणी
+commercial: व्यावसायिक
+common: आम
+commuinity: समाज, समुदाय
+compatibile: मिल्दो, सुचारुक्ता
+component: भाग. पुर्जा
+compose: रचना
+conform: सुनिस्चित
+connect: जडान, सम्पर्क
+consequence: परिणाम, फल
+conservation: आरक्षण
+content: सामग्री
+contrast: व्यतिरेक
+copying: प्रतिलिपकरण
+copyright: प्रतिलिपि अधिकार
+copy: प्रतिलिपी
+correct: सुधार
+correspondence: चिठीपत्र(n)
+cost: लागत, मुल्य
+count: गन्ती, गणना
+cover: आवरण
+create: सिर्जना
+creation: कीर्ति
+currency: मुद्रा
+current: वर्तमान, हाल
+cursor: कर्सर
+custom: रिवाज, प्रचलन, रिति, अनुकूलन, मौलिक
+damage: क्षती, हानी , नोक्शानी
+danger: खतरा
+data: तथ्याङ्क
+date: मिति
+deadline: म्याद
+deal: कारोबार
+decoration: सजावट
+default: पूर्वनिर्धारित
+delete: नष्ट, हटाईयो, मेट्नु
+delimiter: विभाजक
+denied: अस्वीकार
+departs: प्रस्थान
+development: विकाश
+deviation: विचलन
+device: यन्त्र(n)
+diagonal: विकर्ण #math
+dialog: संवाद(n)
+direct: प्रत्यक्ष
+disable: अक्षम, असक्षम
+discard: त्याग
+disclaimer: अस्वीकार, छाड्नु
+discovere: आविष्कार(n)
+dismiss: खारेज
+distribute: वितरण
+divorce: पर पचुरो
+documentation: कागजीकरण
+document: कागजात
+dog: कुकुर
+domain: प्रयोगक्षेत्र
+done: सम्पन्न
+door: ढोका(n)
+down: तल
+earning: कीर्ति
+effect: प्रभाव(n)
+elements: तत्वहरू(n)
+elephant: हात्ती
+eligible: लायक, योग्य
+email: पत्र, पत्राचार, सन्देश
+embed: गाभ्न
+enable: लागु, सुचारु
+engagement: टीकाटालो, सम्बन्धन
+environment: पर्यावरण, वातावरण
+error: भूल, गल्ती, त्रुटी
+estimate: अनुमान
+event: घटना
+exact: ठ्याक्कै
+excerpt: अंश(n)
+exchange rate: बिनिमय दर
+execute: कार्यान्वयन
+existing: चल्ति
+exist: उपलब्ध
+expand: विस्तृत
+expected: अपेक्षित
+expect: अपेक्षित
+experimental: प्रयोगात्मक, परीक्षण
+expire: म्याद
+exploits: शोषण
+exploit: उपयोग गर्नु, शोषण गर्नु, अन्वेषण
+explore: अन्वेषण
+export: निर्यात
+facilitate: सजिलो बनाउनु, अगाडि लैजानु, सुगम पार्नु
+factory: कारखाना
+feedback: प्रतिक्रिया
+field: क्षेत्र, फाँट(n)
+file: फाईल
+fire: अागो
+fish: माछा
+fit: ठिक्क
+floor: भूईँ
+follow: अनुसरण, पालना
+force: बाध्यता
+format: ढाँचा, प्रारूप
+formula: सुत्र, विधी
+forum: फोरम
+forward mail: अग्रेषित
+foundation: जग, संस्थापन
+function: प्रकार्य
+game: खेल
+generation: पिढी
+generic: सामान्य, साधारण, व्यापक
+good: राम्रो, उत्तम
+go: जानुहोस्
+granularity: विघटन
+group: समूह(n)
+guarantee: जिम्मेवारी
+gun: बन्दुक
+header: शीर्षक
+height: उँचाई
+hello: नमस्कार
+help: सहयोग, मद्दत, गुहार
+historical: ऐतिहासिक
+history: ईतिहस
+holder: वाहक
+home: घर, गृह
+horizontal: तेर्सो
+hosting: सेवा प्रदायक
+hover: प्रतिगत
+icon: प्रतिमा
+idea: विचार(n)
+identity: परिचय
+id: परिचय
+illegal: गयर कानुनी
+image: छवि(n)
+immediate: तत्काल
+impact: असर
+impliment: लागु, कार्यान्वयन
+import: आयात
+improve: परिमार्जिन
+inbox: पत्र टोकरी
+include: समावेश
+incomplete: अधूरो
+increase: वृद्धि
+indent: ठाँउ छोड्नुस्
+index: अनुक्रमणिका
+indicate: सूचक
+information: सूचना
+infrastructure: पुर्वाधारमा
+infringe: उल्लंधन
+initialization: थालनी
+ink: मसि
+input: निवेश, दिखिल
+integrate: एकीकरण
+interact: अन्तर्क्रिया
+interest: व्याज
+interfere: हस्तक्षेप
+intuitive: सहज ज्ञान
+invalid: अबैध
+issuer: वितरक
+italic: छड्के
+join: जोड
+keyword: मुख्य शब्द
+key: कुञ्जी, साँचो
+kite: चँगा
+lamp: बत्ती
+landing: अवतर्ण
+land: भुमी, घरती, जमीन
+language: भाषा
+layout: रूपरेखा
+left: बाँया
+legacy: विभुती, विरासत
+length: लम्बाई
+letter: चिठ्ठी(n)
+level: स्तर, श्रेणी
+liable: जबाफदेही, उत्तरदायी
+library: पुस्तकालय
+licence: अनुमतिपत्र, अनुज्ञा
+life: जीवन
+line: रेखा
+list: सुची
+live: प्रत्यक्ष
+local: स्थानीय
+location: स्थान
+logarithm: लघुगणक #math
+log: दर्ता प्रतिबेदन
+look: आवरण, देखाई, हेर्नु
+main: मुख्य
+make: बनाउनु
+manage: समायोजन, व्यवस्थापन
+manual: हातले गरेको, अस्वचालित, निर्देशन पुस्तिका
+man: मान्छे, मानिस
+margin: सिमाना
+mark: अङ्कित, चिन्ह
+maximize: वृद्धि
+memory: स्मृति
+message: सन्देश
+me: म
+middle: मध्य
+migration: प्रवास, सर्नु, सार्नु
+minimize: न्यूनिकरण
+miscellaneous: विविधता
+model: नमुना
+modify: परिमार्जन
+motive: प्रेरणा, उद्देश्य
+mount: चढाउनु
+move: चाल, सर्नु, स्थानन्तरण
+must: निक्ष्चित
+name: नाम(n)
+navigate: पथ प्रदर्शक
+navigation: दिशानिर्देश
+negative: कम, नराम्रो, होईन, फोटो रिल, नकारात्मक
+network: संजाल, सञ्जाल(n)
+nice: राम्रो
+none: कुनै पनि होइन
+nose: नाक
+notice: सुचना
+notification: अधिसूचना
+numbering: क्रमाङ्कन(n)
+number: अंक, सङ्ख्या
+numeric: संङ्यात्मक
+objective: लक्ष्य
+object: भैतिक, वस्तु
+occupy: ओगट्नु
+offer: प्रस्ताव
+off: निस्क्रिय 
+on: सक्रिय
+operation: सञ्चालन, कार्य संचालन
+operator: सञ्चालक
+option: विकल्प
+organization: संस्था
+organized: व्यवस्थित
+organize: व्यवस्थापन
+or: अथवा
+outline: रुपरेखा
+output: निकास
+ownership: स्वामित्व
+ox: साँडे
+package: पोका
+page: पृष्ठ
+paper: कागज
+paragraph: अनुच्छेद(n)
+parameter: सिमा
+parent: अभिभावक
+part: हिस्सा, खण्ड
+path: मार्ग
+pattern: ढाँचा
+pause: रोक्नु
+pending: थाँति
+people: मानिसहरु
+percentage: प्रतिशत
+period: अवधि
+permission: स्वीकृति, अनुमति, ईजाजत
+phrase: पदावली
+picture: तस्वीर
+pie: वृत्तांश(n) #math
+piracy: चोरि पैठारि
+plain: साधारण
+plan: योजना
+play: चलाउनु
+pm: अपरान्ह
+point: बिन्दु
+police: प्रहरि
+policy: बिधान, नीति
+polygon: बहुभुज(n) #math
+positive: थप, हुन्छ, सहमति, राम्रो
+powered: संचालित
+preference: वरियता
+presentation: प्रस्तुती, प्रस्तुतिकरण
+preview: पूर्ववलोकन
+print: छपाइ
+priority: प्राथमिकता
+private: निजी
+privilege: विशेषाधिकार(n)
+probability: सम्भावयता
+procedural: कार्यविधीसम्बन्धी
+process: प्रणाली, पद्दति, प्रक्रिया
+product: उत्पादन
+profit: नाफा
+project: परियोजना
+property: विशेषता, गुण
+proportionally: समानुपातिक
+protection: सुरक्षा
+public: सार्वजनिक
+pure: शुद्ध
+purpose: प्रयोजन
+quality: कोटि
+queen: रानि
+query: जिज्ञासा
+quote: उद्वरण
+random: आकस्मिक
+range: दायरा
+rate : मूल्याङ्कन, दर
+raw: कोरा, कच्ची, अप्रशोधित
+recent: हालै, बर्तामान, भरखरै
+recommend: सिफारिस
+record: अभिलेख, कागजपत्र
+recover: पुन:प्राप्ति
+recycle: पुन:प्रयोग
+redeem: प्रायस्चित, निविकरण
+reference: सन्दर्भ
+regards: सम्मान
+register: दर्ता, पंजीकरण(कृत)
+reject: अस्वीकृत(n)
+relevance: सम्बन्धी
+remove: निष्कासन
+replace: बदल्नुहोस्, प्रतिस्थापन
+report: उजुरी, प्रतिवेदन
+representative: प्रतिनिधित्व
+represent: प्रतिनिध, देखाउनु
+restore: पुन:स्थापना, बहाल, पूर्वावस्थामा ल्याउन
+resume: पुन: थाल्नु, जारी राख्नुहोस्
+reveal: प्रकट
+revenue: आय
+review: समीक्षा, पुन:अवलोकन
+revision: संशोधन
+revoke: रद्द, खारेज
+revolution: क्रान्ति
+rights: अधिकार
+right: दाँया
+room: कोठा
+rose: गुलाफ
+rotation: परिक्रमण
+round: गोलाकार
+row: पंक्ति, पङ्क्ति(n)
+royalty: राजस्व
+runtime: चालु अवधि
+run: सञ्चालन(n)
+save: बचत(n), संचय, संग्रह
+scalable:  मापनयोग्य
+scene: दृश्य
+schedule: समय तालिका
+search: खोज
+sector: भाग(n)
+see: हेर्नु
+segment: खण्ड(n)
+selection: छनौट
+select: चयन
+sensitive: सम्वेदनशील
+session: सत्र
+shade: छायाँ(n)
+shadow: छायाँ
+share: साझेदारी, बाँड्नु
+shipping: धुवाणी
+shirt: कमिज
+simple: साधारण
+size: अाकार
+solid: ठोस
+solution: समाधन
+sort: क्रमबद्ध
+space: खाली, स्थान
+spare: जगेडा
+special: विशेष
+specific: निष्चित
+speed: गति(n)
+spell: हिज्जे
+split: विभाजन
+square: वर्ग
+standard: स्तर
+started: आरम्भ
+state: राज्य
+status: वस्तुस्थिति(n)
+stop: बन्द गर्नु
+store: भन्डार
+stream: प्रसारण
+string: अक्षर, घागो
+style: ढाँचा, शैली
+subject: विषय
+submit: पेश
+subscription: सदस्यता
+suggestion: सुझाव
+summary: सारांश
+summer: ग्रीष्म ऋतु
+supervise: निगरानी
+support: समर्थण, थाम्नु
+sure: पक्का
+suspend: निलम्बित
+swap: साट्नु
+symbol: चिन्ह
+synchronize: संयोजन, एकत्तित्र गरि बँड्नुहोस्, समिकरण
+system: प्रणाली(n), पद्दति
+table: तालिका
+tamper: अनधिकार फेरबदल, बहकाउनु, भ्रष्ट
+team: टोली
+technology: प्रविधि(n)
+television: टेलिभिजन
+template: नमुना
+test: परिक्ष, जाँच
+theme: सामग्री, आवरण
+time: समय
+title: शीर्षक
+tool: उपकरण, औजार
+top: माथि, शीर्ष
+touch: स्पर्श
+tour: भ्रमण, पर्यटन
+traditional: परम्परागत
+transfer: स्थानान्तर
+transparency: पारदर्शिता
+trapezoid: चतुर्भुज
+trend: प्रचलन, चलन, प्रवृत्ति
+truncate: काटछाँट
+try: प्रयास
+tutorial: पाठ्य सामग्रीहरू, पाठ्य क्रम
+type: प्रकार
+unexpected: अनुपेक्षित
+unit: एकाइ
+unusual: असाधारण
+update: परिमार्जन, अद्यावधि
+up: माथी
+user: प्रयोगकर्ता
+validate: सदर गर्नु, थाम्नु, कायम गर्नु, प्रमाणिकरण
+valid: मनासीब, सदर, जायज, पुष्टि
+value: मुल्य, महत्व, मान
+verify: प्रमाणित, रुजु, जाँच, निरीक्षण
+version: संस्करण
+vertical: ठाडो
+video: दृश्य
+view: अबलोकन, दृश्य
+visitor: अगान्तुक
+voila: ओहो
+warranty: जमानत
+waste: खेर
+water: पानी
+welcome: स्वागत
+white: सेतो
+whole number: पूर्णाङ्क
+whoops: लाऽऽ
+width: चौडाइ
+wind: हावा
+wing: पखेटा
+word: शब्द
+work: कम, कार्य
+world: विश्व, संसार
+yield: प्रतिफल
+you: तपाईँ
+zone: क्षेत्र
