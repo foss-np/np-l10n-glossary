@@ -3,19 +3,22 @@ abbreviation: संक्षिप्त रूप(n)
 ability: क्षमाता, सामर्थ्य, निपूर्णता
 abort: परित्याग(v), रद्द
 about: बारेमा, बिषयमा
+above: माथि
 absolute: निश्चित (adj)
-abstract: अमूर्त(n), संक्षेप(n)
+abstract: अमूर्त(n), संक्षेप(n), सार
 accelerator: गतिवर्धक
 accent: जोर(n)
 accept: स्वीकार(n), मन्जुर
 accepted: स्वीकृत(adj)
-access: पहुँच, सर्वसुलभ
+access: पहुँच, सर्वसुलभ, उपयोग
 accessibility: पहुँचता(n)
-accessible: पहुँचयोग्य(adj)
+accessible: पहुँचयोग्य(adj), उपलव्धता
 accessory: सहायक उपकरण(n)
 account: खाता(n)
 accountable: जवाफदेहि
+accurate: सटीक
 across: वारपार
+act: अभिनय
 action: कार्य(n), गतिविधि
 active: सक्रिय
 activity: गतिविधि(n)
@@ -33,16 +36,20 @@ administrate: प्रबन्ध
 administration: प्रशासन(n)
 administrator: व्यवस्थापक, संचालक, प्रबन्धक, प्रशासक(n)
 advance: जटिल, उच्च, पेश्की, उन्नत(adj)
+adventure: साहासीक
 advertise: प्रचार
 advisor: सल्लाहकार(n)
 after: पछि, उप्रान्त
-agenda: लक्ष्य
+afternoon: साँझ #time
+ageing: पाको, पुरानो
+agenda: लक्ष्य, कार्यसूची
 agent: अभिकर्ता(n)
 aggregate: समष्टि
 agree: सहमति, राजी
 agreement: सम्झौता(n)
 air: हावा
-alarm: सचेतक
+airport: विमानस्थल
+alarm: सचेतक, खतरासूचक
 alert: सावधान(n), होसियार
 algebra: बीजगणित #math
 alias: उपनाम
@@ -50,8 +57,10 @@ align: पङ्क्तिबद्ध गर्नुहोस्
 all: सबै
 allow: अनुमति
 allowance: भत्ता
+alphabetic: वर्णक्रम
 alphabetical: वर्णानुक्रम(adj)
 alter: परिवर्तन, हेरफेर
+alternate: वैकल्पिक
 alternative: विकल्प, वैकल्पिक(adj)
 always: सधैं
 am: उत्तरार्ध #time
@@ -73,7 +82,7 @@ appear: देखापर्नु, प्रकट
 appearance: देखावट(n)
 append: थप्नुहोस्
 apple: स्याउ
-application: अनुप्रयोग(n), निबेदन, उपयोग
+application: अनुप्रयोग(n), निबेदन, उपयोग. आवेदन
 apply: लागू
 approach: द्रिष्टीकोण
 approve: अनुमोदन, स्विक्रित, प्रमाणित
@@ -94,6 +103,7 @@ as: जस्तो
 ascendancy: हैकम(n)
 ascending: बढ्दो(adj)
 ask: सोध्नुहोस्
+asparagus: निगालो #food
 aspect ratio: आकार अनुपात(n)
 assemble: एकत्रित(n)
 asset: सम्पत्ति
@@ -117,6 +127,7 @@ autonomous: स्वचालित
 available: उपलब्ध(adj)
 average: औसत(n)
 aware: चेतना
+awesome: भव्य
 axial: अक्षीय(adj)
 axis: अक्ष(n)
 back: पछाडि(n)
@@ -139,18 +150,20 @@ between: बीचमा
 beveled: प्रवणित(adj)
 biaise: पक्षपात
 bibliography: सन्दर्भ सूची(n)
+billing: हिसाब
 binomial: द्विपद(n)
-black: कालो(adj)
+black: कालो(adj) #color
 blank: रिक्त(adj), खाली(adj)
 blast: विस्फोट(n)
 blend: मिसावट(n)
 blink: झिमझिम(n)
 block: बन्द(n)
-blue: नीलो
+blue: नीलो #color
 blur: अस्पष्ट
 body: मुख्य(n), शरीर
 bold: बाक्लो(adj)
 book: पुस्तक(n)
+booking: आरकक्षण
 bookmark: चिन्ह हाल्नुस्, पुस्तक चिन्ह
 border: किनारा
 bottom: मुनी, फेद, तल
@@ -168,7 +181,7 @@ brief: छोटकरी(n), संक्षेप(adj)
 bright: चम्किलो(adj)
 bring: ल्याउनुहोस्
 brochure: पुस्तिका(n)
-brown: खैरो(adj)
+brown: खैरो(adj) #color
 brush: ब्रुस(n)
 bubble: फोका(n)
 build:निर्माण
@@ -180,7 +193,7 @@ busy: व्यस्त
 button: टाँख(n)
 by: द्वारा
 calculate: गणना(n)
-calculation: गनित, गणना
+calculation: गणित, गणना
 calculator: गणकयन्त्र(n)
 calendar: पात्रो(n)
 call: बोलाउनु(n), आह्वान
@@ -192,8 +205,9 @@ capable: सार्थक
 capital: पूँजी(n), राजधानी
 card: पत्र
 cardinal number: आधारभूत सङ्ख्या #math
+cardinal: सिम्रिक रंग #color
 care: सम्हाल
-carrier: वृत्ति(n)
+carrier: वृत्ति(n), वाहक
 cat: बिरालो
 catalog: विवरणिका(n)
 category: कोटि(n)
@@ -215,104 +229,150 @@ check: जाँच(n), परीक्षण
 cheers: भाव(n)
 chemical: रासायनिक
 child: शाखा, बच्चा
-china: चीन
+china: चीन #country
 chinese: चिनीयाँ
 choice: रोजाइ(n)
 cinema: चलचित्र(n)
 circle: घेरा ,वृत्त (n) #math
 citation: वृत्तान्त
 city: शहर(n)
+claim: दावी
 class: वर्ग(n)
 classic: शास्त्रीय(adj)
 classification: वर्गीकरण(n)
+classify: वर्गीकरण
 clean: सफा:
 clear: खाली(v)
 climate: हावापानी(n), मैसम
 clock: धडी
+clone: दुरुस्त
 cloud: बादल(n)
 cm: सेन्टिमिटर #unit
 code: सङ्केत(n)
 col: स्तम्भ
+collaborate: सहकार्य
 collaboration: सहकार्य
 collapse: संकुचन, संक्षिप्त
 collect: सङ्कलन
 color: रङ(n)
 column: स्तम्भ
 come: आउँ
+comma: अल्पविराम #punctuation
 commence: सुरु
 comment: टिप्पणी
 commercial: व्यावसायिक
 common: आम
 commuinity: समाज, समुदाय
+communication: सञ्चार
 compatibile: मिल्दो, सुचारुक्ता
+complete: पूर्ण
 component: भाग. पुर्जा
 compose: रचना
+compress: सङ्कुचित
+concert: सङ्गीतक कार्यक्रम
 conform: सुनिस्चित
 connect: जडान, सम्पर्क
+consecutive: यथाक्रम
 consequence: परिणाम, फल
 conservation: आरक्षण
 content: सामग्री
+continue: जारी
 contrast: व्यतिरेक, भिन्नता, अन्तर
+control: नियन्त्रण
+convert: रूपान्तर, परिवर्तित, बदलिनु
 copy: प्रतिलिपी
 copying: प्रतिलिपकरण
 copyright: प्रतिलिपि अधिकार
-correct: सुधार
+correct: सुधार, सहि
 correspondence: चिठीपत्र(n)
 cost: लागत, मुल्य
 count: गन्ती, गणना
 cover: आवरण
 create: सिर्जना
 creation: कीर्ति
+crop: काट छाँट, बाली
 currency: मुद्रा
 current: वर्तमान, हाल
 cursor: कर्सर
 custom: रिवाज, प्रचलन, रिति, अनुकूलन, मौलिक
+daily: दैनिक
 damage: क्षती, हानी , नोक्शानी
 danger: खतरा
 data: तथ्याङ्क
 date: मिति
+day: दिन
 deadline: म्याद
 deal: कारोबार
 debut: सुरुवात
+decision: निर्णय
 decoration: सजावट
 default: पूर्वनिर्धारित
 delete: नष्ट, हटाईयो, मेट्नु
 delimiter: विभाजक
+deliver: बुझाउनु, सुम्पनु
 denied: अस्वीकार
 departs: प्रस्थान
+deprecate: निषेद, प्रचलनमा नभएको, बेमञ्जूरी, पुरानो भएको छ
+depreciate: तुच्छ, ह्रास, घाटा, मूल्यापकर्ष, अपकर्ष,मोल घट्नु
+describe: वर्णन
+destination: गन्तव्य
+detail: विवरण
 development: विकाश
 deviation: विचलन
-device: यन्त्र(n)
+device: यन्त्र(n), उपकरण
 diagonal: विकर्ण #math
 dialog: संवाद(n)
+direct: निर्देशन
 direct: प्रत्यक्ष
+director: निर्देशक
 disable: अक्षम, असक्षम
+disallow: बन्देज
 discard: त्याग
 disclaimer: अस्वीकार, छाड्नु
 discovere: आविष्कार(n)
 dismiss: खारेज
 distribute: वितरण
+dividend: लाभांश #math
+divisor: भाजक #math
 divorce: पर पचुरो
 document: कागजात
 documentation: कागजीकरण
-dog: कुकुर
+dog: कुकुर #animal
 domain: प्रयोगक्षेत्र
 done: सम्पन्न
 door: ढोका(n)
+dot: थोप्ला
 down: तल
+draft: मस्यौंदा
+drop: खसाल्नु
+during: दौरानमा
 earning: कीर्ति
+earthworm: गड्यौंला #animal
+edge: किनारा
+editor: सम्पादक
 effect: प्रभाव(n)
+eggplant: भाण्टा #food
+electronic: विद्युतीय
 elements: तत्वहरू(n)
-elephant: हात्ती
+elephant: हात्ती #animal
 eligible: लायक, योग्य
 email: पत्र, पत्राचार, सन्देश
 embed: गाभ्न
+empty: खाली
 enable: लागु, सुचारु
+end: समाप्त, अन्त्य
+energy: उर्जा
 engagement: टीकाटालो, सम्बन्धन
+english: अंग्रेजी #language
 environment: पर्यावरण, वातावरण
+equal: उतिकै, समान
+erase: मेटाउनु
 error: भूल, गल्ती, त्रुटी
 estimate: अनुमान
+evaluate: मूल्यांकन
+evening: बेलुका, सन्ध्या
 event: घटना
+every: सबै, प्रतेक
 exact: ठ्याक्कै
 excerpt: अंश(n)
 exchange rate: बिनिमय दर
@@ -323,144 +383,214 @@ expand: विस्तृत
 expect: अपेक्षित
 expected: अपेक्षित
 experimental: प्रयोगात्मक, परीक्षण
-expire: म्याद
+expire: म्याद #time
 exploit: उपयोग गर्नु, शोषण गर्नु, अन्वेषण
 exploits: शोषण
 explore: अन्वेषण
 export: निर्यात
 exposure: खुल्ला गरिएको समय
+extention: लम्ब्याउनु
+extreme: चरम
 facilitate: सजिलो बनाउनु, अगाडि लैजानु, सुगम पार्नु
 factory: कारखाना
+fade: बिलिन
+fail: विफल, अनउत्तिर्ण, असमर्थ
+failure: असफल
+feature: विशेषता
 feedback: प्रतिक्रिया
 field: क्षेत्र, फाँट(n)
 file: फाईल
+financial: वित्तीय
 fire: अागो
+first: पहिलो
 fish: माछा
 fit: ठिक्क
+flight: उडान
 floor: भूईँ
 follow: अनुसरण, पालना
 force: बाध्यता
+foreground: अग्रभूमि
+forever: सदाका लागि
 format: ढाँचा, प्रारूप
 formula: सुत्र, विधी
 forum: फोरम
 forward mail: अग्रेषित
 foundation: जग, संस्थापन
+fourth: चौंथो
+free: स्वतन्त्र, निशुल्क, मुक्त
+freedom: स्वतन्त्रता
+friday: शुक्रवार
+frozen: स्तिर
+fullstop: पूर्णविराम #punctuation
 function: प्रकार्य
 game: खेल
 generation: पिढी
 generic: सामान्य, साधारण, व्यापक
+glossary: कम्प्युटर सम्बन्धी शब्दकोश
 go: जानुहोस्
-good: राम्रो, उत्तम
+good: राम्रो, उत्तम, शुभ
 granularity: विघटन
+gray: खरानी #color
+green: हरियो #color
 group: समूह(n)
 guarantee: जिम्मेवारी
+guardian: संरक्षक
+guide: सलाकार, मार्गदर्शक मार्गदर्शी
 gun: बन्दुक
+handwriting: हस्तलेख
 header: शीर्षक
 health: स्वास्थ
 height: उँचाई
 hello: नमस्कार
 help: सहयोग, मद्दत, गुहार
+high: उच्च
 historical: ऐतिहासिक
 history: ईतिहस
+hold: पकड, समात्नु
 holder: वाहक
 home: घर, गृह
 horizontal: तेर्सो
 hosting: सेवा प्रदायक
 hover: प्रतिगत
+ice: बरफ
 icon: प्रतिमा
 id: परिचय
 idea: विचार(n)
-identity: परिचय
+identify: पहिचान, परिचय
+ignore: उपेक्षा, बेवास्ता
 illegal: गयर कानुनी
 image: छवि(n)
 immediate: तत्काल
 impact: असर
 impliment: लागु, कार्यान्वयन
 import: आयात
+important: महत्वपूर्ण
 improve: परिमार्जिन
 inbox: पत्र टोकरी
 include: समावेश
+incoming: आगमन
 incomplete: अधूरो
+incorrect: गलत
 increase: वृद्धि
 indent: ठाँउ छोड्नुस्
 index: अनुक्रमणिका
 indicate: सूचक
+infinity: अनन्त
 information: सूचना
 infrastructure: पुर्वाधारमा
 infringe: उल्लंधन
 initialization: थालनी
 ink: मसि
+inning: पारी
 input: निवेश, दिखिल
+insert: सम्मिलित, घुसाउनु
 integrate: एकीकरण
 interact: अन्तर्क्रिया
-interest: व्याज
+interest: व्याज, रुची
+interface: अवरण प्रणाली
 interfere: हस्तक्षेप
+intersect: प्रतिच्छेद
 introduction: परिचय
 intuitive: सहज ज्ञान
 invalid: अबैध
+invite: निम्तो
 issuer: वितरक
 italic: छड्के
 join: जोड
+journey: यात्रा
 key: कुञ्जी, साँचो
 keyword: मुख्य शब्द
 kite: चँगा
 lamp: बत्ती
 land: भुमी, घरती, जमीन
 landing: अवतर्ण
+landscape: परिदृश्य
 language: भाषा
+last: पोहोर, अन्तिम
+later: पछि
+launch: प्रक्षपण
 layout: रूपरेखा
+leader: नाइके, नायकक, अगुवा, नेता
 left: बाँया
 legacy: विभुती, विरासत
 length: लम्बाई
-letter: चिठ्ठी(n)
+letter: चिठ्ठी(n), वर्ण
 level: स्तर, श्रेणी
 liable: जबाफदेही, उत्तरदायी
 library: पुस्तकालय
 licence: अनुमतिपत्र, अनुज्ञा
 life: जीवन
+like: इछुक्क
 line: रेखा
 list: सुची
 live: प्रत्यक्ष
 local: स्थानीय
+locale: स्थानीय
 location: स्थान
 log: दर्ता प्रतिबेदन
 logarithm: लघुगणक #math
 look: आवरण, देखाई, हेर्नु
+loop: फेरी
 lucky: भाग्यमानी
 main: मुख्य
 make: बनाउनु
-man: मान्छे, मानिस
+malware: हानिकारक अनुप्रयोग
+man: मान्छे, मानिस #animal
 manage: समायोजन, व्यवस्थापन
 manual: हातले गरेको, अस्वचालित, निर्देशन पुस्तिका
+map: नक्सा
 margin: सिमाना
 mark: अङ्कित, चिन्ह
+math: गणित #math
+mature: परिपक्व
 maximize: वृद्धि
-maybe: सायद
+may: सायद
+maybe: सायद, सम्भाव्य
 me: म
+medicine: अौषधी
 medium: मध्यम
 memory: स्मृति
+merge: विलय
 message: सन्देश
+micro: सूक्षम
 middle: मध्य
 migration: प्रवास, सर्नु, सार्नु
+mine: मेरो
 minimize: न्यूनिकरण
 miscellaneous: विविधता
+mislead: भ्रामिक
+miss: हराएको
+mode: प्रकार
 model: नमुना
 moderate: मध्यस्थकर्ता, परिमार्जन
 modify: परिमार्जन
-mood: भाव
+monday: सोमवार #time
+monitor: अनुगमन, निगरानी
+month: माहिना #time
+monthly: मासिक #time
+mood: भाव, अवस्था
+morning: बिहान, प्रभात #time
 motive: प्रेरणा, उद्देश्य
 mount: चढाउनु
 move: चाल, सर्नु, स्थानन्तरण
+movie: चलचित्र
 must: निक्ष्चित
+mute: मौन
 name: नाम(n)
-navigate: पथ प्रदर्शक
-navigation: दिशानिर्देश
+natural: प्राकृतिक
+navigate: पथ प्रदर्शक, निर्देशन
+navigation: दिशानिर्देश, निर्देशन
 negative: कम, नराम्रो, होईन, फोटो रिल, नकारात्मक
 network: संजाल, सञ्जाल(n)
 never mind: छाडिदेउ
+new: नयाँ
+news: समाचार
+next: अर्को
 nice: राम्रो
+night: राती #time
 none: कुनै पनि होइन
 nose: नाक
+notable: चर्चित
 notice: सुचना
 notification: अधिसूचना
 number: अंक, सङ्ख्या
@@ -471,74 +601,101 @@ objective: लक्ष्य
 occupy: ओगट्नु
 off: निस्क्रिय
 offer: प्रस्ताव
+oh no!: लौं न नि
+old: पुरानो
 on: सक्रिय
 operation: सञ्चालन, कार्य संचालन
 operator: सञ्चालक
 option: विकल्प
 or: अथवा
+orange: सुन्तला
+order: क्रमबद्ध, शासन
 organization: संस्था
-organize: व्यवस्थापन
+organize: व्यवस्थापन, संगठित
 organized: व्यवस्थित
+orientation: अभिमुखिकरण
 outline: रुपरेखा
-output: निकास
+output: निकास, निक्‍‍र्योल
 ownership: स्वामित्व
-ox: साँडे
+ox: साँडे #animal
 package: पोका
 page: पृष्ठ
+panel: पट्टी
 paper: कागज
 paragraph: अनुच्छेद(n)
 parameter: सिमा
 parent: अभिभावक
 part: हिस्सा, खण्ड
+partially: आंशिक
+paste: टाँस्नु
 path: मार्ग
 pattern: ढाँचा
 pause: रोक्नु
+pay: तिर्नु, बदला, मुल्य
+payment: भुक्तानी
 pending: थाँति
 people: मानिसहरु
 percentage: प्रतिशत
+perform: सम्पन्न
 period: अवधि
 permission: स्वीकृति, अनुमति, ईजाजत
+phishing: छक्काउनु
 phrase: पदावली
 picture: तस्वीर
-pie: वृत्तांश(n) #math
+pie: वृत्तांश(n) #math #food
+pink: गुलाबी #color
 piracy: चोरि पैठारि
 plain: साधारण
 plan: योजना
 play: चलाउनु
-pm: अपरान्ह
-point: बिन्दु
+pm: अपरान्ह #time
+point: बिन्दु #math
 police: प्रहरि
 policy: बिधान, नीति
 polygon: बहुभुज(n) #math
+popular: चर्चित
+popularity: लोकप्रियता
+position: स्थान
 positive: थप, हुन्छ, सहमति, राम्रो
 powered: संचालित
 preference: वरियता
+present: अहिले, उपहार
 presentation: प्रस्तुती, प्रस्तुतिकरण
+press: पत्रकार, थिच्नु
 preview: पूर्ववलोकन
-print: छपाइ
+previous: अघिल्लो
+principles: सिद्धान्त
+print: छपाइ, मुद्रण
 priority: प्राथमिकता
 private: निजी
 privilege: विशेषाधिकार(n)
 probability: सम्भावयता
+problem: सम्स्या
 procedural: कार्यविधीसम्बन्धी
 process: प्रणाली, पद्दति, प्रक्रिया
 product: उत्पादन
-profit: नाफा
+profit: नाफा, लाभांश
+progress: प्रगति
 project: परियोजना
+promise: क्रिया
+promotion: प्रचार
 property: विशेषता, गुण
 proportionally: समानुपातिक
 protection: सुरक्षा
+provider: प्रदाता
 public: सार्वजनिक
 punch: मुक्का
 pure: शुद्ध
+purple: बैजनी, प्याजी
 purpose: प्रयोजन
-quality: कोटि
+quality: गुणस्तर
 queen: रानि
-query: जिज्ञासा
+query: जिज्ञासा, प्रश्‍न
+quick: द्रुत
 quote: उद्वरण
 random: आकस्मिक
-range: दायरा
-rate : मूल्याङ्कन, दर
+range: दायरा, श्रृंखला
+rate: मूल्याङ्कन, दर
 raw: कोरा, कच्ची, अप्रशोधित
 recent: हालै, बर्तामान, भरखरै
 recommend: सिफारिस
@@ -547,80 +704,112 @@ recover: पुन:प्राप्ति
 recycle: पुन:प्रयोग
 redeem: प्रायस्चित, निविकरण
 reference: सन्दर्भ
+refresh: नविकरण
+refurbished: राम्रो बनाउनु
 regards: सम्मान
 register: दर्ता, पंजीकरण(कृत)
 reject: अस्वीकृत(n)
 relevance: सम्बन्धी
+reminder: अनुस्मारक
 remove: निष्कासन
 render: प्रतिपादन
-replace: बदल्नुहोस्, प्रतिस्थापन
+renovate: जिर्नसम्भार
+rent: भाँडा
+repair: मर्मत
+repeat: दोहर्याउ
+replace: बदल्नुहोस्, प्रतिस्थापन, विस्थापित
 report: उजुरी, प्रतिवेदन
+reposition: पुनस्थानाकरण
 represent: प्रतिनिध, देखाउनु
 representative: प्रतिनिधित्व
-resolution: संकल्प
-restore: पुन:स्थापना, बहाल, पूर्वावस्थामा ल्याउन
+request: अनुरोध
+reset: पुन:स्थापना
+resolution: संकल्प, समाधान
+response: प्रतिक्रिया
+restore: पुनर्स्थापना,बहाल, पूर्वावस्थामा ल्याउन
+result: परिणाम
 resume: पुन: थाल्नु, जारी राख्नुहोस्
-reveal: प्रकट
+reveal: प्रकट, प्रस्फुटन
 revenue: आय
 review: समीक्षा, पुन:अवलोकन
 revision: संशोधन
 revoke: रद्द, खारेज
 revolution: क्रान्ति
-right: दाँया
+right: दाँया, ठिक
 rights: अधिकार
 room: कोठा
-rose: गुलाफ
+rose: गुलाफ #plant
 rotation: परिक्रमण
 round: गोलाकार
 row: पंक्ति, पङ्क्ति(n)
 royalty: राजस्व
-run: सञ्चालन(n)
+rsvp: असमर्थताको लागी
+run: सञ्चालन(n), चालु
 runtime: चालु अवधि
-save: बचत(n), संचय, संग्रह
+saturday: शनिवार #time
+save: बचत(n), संचय, संग्रह, सुरक्षित
 scalable:  मापनयोग्य
 scene: दृश्य
-schedule: समय तालिका
+schedule: समय तालिका #time
+science: विज्ञान
+script: लिपि
 search: खोज
+second: दोस्रो, सेकेण्ड #time
+section: खण्ड
 sector: भाग(n)
 see: हेर्नु
+seed: पुञ्ज
 segment: खण्ड(n)
 select: चयन
 selection: छनौट
 sensitive: सम्वेदनशील
+series: श्रृंखला
+service: सेवा
 session: सत्र
+set: स्थापना, मिलाउनु
 shade: छायाँ(n)
 shadow: छायाँ
+shape: आकृति
 share: साझेदारी, बाँड्नु
 shipping: धुवाणी
 shirt: कमिज
+shopping: किनमेल
 simple: साधारण
 size: अाकार
+social: सामाजिक
 solid: ठोस
 solution: समाधन
 sort: क्रमबद्ध
+soundtrack: ध्वनिट्रयाक
 space: खाली, स्थान
 spare: जगेडा
-special: विशेष
+special: विशेष, विशिष्ट
 specific: निष्चित
 speed: गति(n)
 spell: हिज्जे
 split: विभाजन
 square: वर्ग
-standard: स्तर
+standard: स्तर, मानक
 started: आरम्भ
-state: राज्य
+state: राज्य, अवध
+stats: तथ्याङ्क
 status: वस्तुस्थिति(n)
+step: पाइला, कदम
 stop: बन्द गर्नु
 store: भन्डार
 stream: प्रसारण
 string: अक्षर, घागो
+study: शिक्षा
 style: ढाँचा, शैली
+sub: उप #subsection
 subject: विषय
 submit: पेश
 subscription: सदस्यता
+substance: तत्त्व
 suggestion: सुझाव
 summary: सारांश
 summer: ग्रीष्म ऋतु
+sunday: आइतवार #time
 supervise: निगरानी
 support: समर्थण, थाम्नु
 sure: पक्का
@@ -631,29 +820,51 @@ synchronize: संयोजन, एकत्तित्र गरि बँड
 system: प्रणाली(n), पद्दति
 table: तालिका
 tamper: अनधिकार फेरबदल, बहकाउनु, भ्रष्ट
+tap: छुनु, घारा
+target: लक्ष्य
 team: टोली
 technology: प्रविधि(n)
 television: टेलिभिजन
 template: नमुना
+term: शब्द
 test: परिक्ष, जाँच
-theme: सामग्री, आवरण
-time: समय
+text: पाठ
+theme: सामग्री, आवरण, विषयवस्तु
+thick: बाक्लो
+third: तेस्रो
+thursday: बिहिबार #time
+time: समय #time
 title: शीर्षक
+toggle: फेर बदल
 tool: उपकरण, औजार
 top: माथि, शीर्ष
 touch: स्पर्श
 tour: भ्रमण, पर्यटन
+track: अनुगमन
 traditional: परम्परागत
+transaction: लेनदेन
 transfer: स्थानान्तर
+transition: फेर्ने क्रम
 transparency: पारदर्शिता
 trapezoid: चतुर्भुज
+trash: रद्दीटोकरी, फोहर
 trend: प्रचलन, चलन, प्रवृत्ति
+trip: यात्रा
 truncate: काटछाँट
-try: प्रयास
+trust: विश्वस
+trusted: विश्वसनीय
+try: प्रयास, प्रयत्न
+tuesday: मङ्गलवार #time
 tutorial: पाठ्य सामग्रीहरू, पाठ्य क्रम
 type: प्रकार
+undo: पूर्ववत
 unexpected: अनुपेक्षित
+uninstall: विस्थापना
 unit: एकाइ
+university: विश्वविद्यालय
+unknown: अज्ञात
+until: सम्म
+untitled: शीर्षक विहिन
 unusual: असाधारण
 up: माथी
 update: परिमार्जन, अद्यावधि
@@ -661,17 +872,27 @@ user: प्रयोगकर्ता
 valid: मनासीब, सदर, जायज, पुष्टि
 validate: सदर गर्नु, थाम्नु, कायम गर्नु, प्रमाणिकरण
 value: मुल्य, महत्व, मान
+velvet: मखमली
 verify: प्रमाणित, रुजु, जाँच, निरीक्षण
 version: संस्करण
 vertical: ठाडो
+vibrate: काम्पना
 video: दृश्य
 view: अबलोकन, दृश्य
 visitor: अगान्तुक
 voila: ओहो
+wallpaper: भित्ते कागज
 warranty: जमानत
 waste: खेर
+watch: हेर्नु, घडी
 water: पानी
+wave: तरंग
+weather: मौसम
+wednesday: बुधवार #time
+week: हप्ता, सप्ताह #time
+weekly: साप्ताहिक #time
 welcome: स्वागत
+wepond: हतियार
 white: सेतो
 whole number: पूर्णाङ्क #math
 whoops: लाऽऽ
@@ -681,6 +902,9 @@ wing: पखेटा
 word: शब्द
 work: कम, कार्य
 world: विश्व, संसार
+year: वर्ष #time
+yearly: वार्षिक #time
+yellow: पहेंलो #color
 yield: प्रतिफल
 you: तपाईँ
 zone: क्षेत्र
