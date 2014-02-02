@@ -1,1156 +1,1251 @@
-3d: त्रि-आयामिक(adj) #math
-abbreviation: संक्षिप्त रूप
-ability: क्षमाता, सामर्थ्य, निपूर्णता
-abort: परित्याग(v), रद्द
-about: बारेमा, बिषयमा
-above: माथि
-absolute: निश्चित (adj), निरपेक्ष #math
-abstract: अमूर्त(n), संक्षेप(n), सार
-accelerator: गतिवर्धक
-accent: जोर(n)
-accept: स्वीकार(n), मन्जुर
-accepted: स्वीकृत(adj)
-access: पहुँच, सर्वसुलभ, उपयोग
-accessibility: पहुँचता(n)
-accessible: पहुँचयोग्य(adj), उपलव्धता
-accessory: सहायक उपकरण(n)
-account: खाता(n), लेखा(n)
-accountable: जवाफदेहि
-accurate: सटीक, शुद्ध
-across: वारपार
-act: अभिनय
-action: कार्य(n), गतिविधि
-active: सक्रिय
-activity: गतिविधि(n)
-actor: कर्ता
-actuarial: प्रवर्तकिय
-actuator: प्रवर्तक
-adapt: अनुकूल
-adaptor: संयोजन(n)
-add: थप्नुहोस्, जोङ्नुहोस्
-address: ठेगाना(n), सम्बोधन
-addressee: प्रापक(n)
-adjacent: निकटवर्ती(adj)
-adjust: बन्दवस्त, समायोजन
-administrate: प्रबन्ध
-administration: प्रशासन(n)
-administrator: व्यवस्थापक, संचालक, प्रबन्धक, प्रशासक(n)
-advance: जटिल, उच्च, पेश्की, उन्नत(adj)
-adventure: साहासीक
-advertise: प्रचार
-advisor: सल्लाहकार(n)
-afternoon: साँझ #time
-ageing: पाको, पुरानो
-agenda: लक्ष्य, कार्यसूची
-agent: अभिकर्ता(n)
-aggregate: समष्टि
-agree: सहमति, राजी
-agreement: सम्झौता(n)
-air: हावा
-airport: विमानस्थल
-alarm: सचेतक, खतरासूचक
-alert: सावधान(n), होसियार
-algebra: बीजगणित #math
-alias: उपनाम
-align: पङ्क्तिबद्ध गर्नुहोस्
-all: सबै
-allow: अनुमति
-allowance: भत्ता
-alphabetic: वर्णक्रम
-alphabetical: वर्णानुक्रम(adj)
-alter: परिवर्तन, हेरफेर
-alternate: वैकल्पिक
-alternative: विकल्प, वैकल्पिक(adj)
-always: सधैं
-ambient: परिवेशी(adv), चारैतिर
-amortization: अवक्षयण
-analysis: विश्लेषण(n)
-analyst: विश्लेषक(n)
-ancient: पौराणिक
-angle: कोण(n) #math
-announce: घोषणा
-annoy: दु:ख दिनु
-annual: वार्षिक
-annuity: वार्षिकी
-anonymous: बेनामी
-another: अर्को
-answer: जवाफ(n)
-appear: देखापर्नु, प्रकट
-appearance: देखावट(n)
-append: थप्नुहोस्
-apple: स्याउ
-application: अनुप्रयोग(n), निबेदन, उपयोग. आवेदन
-apply: लागू
-approach: द्रिष्टीकोण
-approve: अनुमोदन, स्विक्रित, प्रमाणित
-approximate: अन्दाजी(adj)
-arc: चाप(n) #math
-archive: अभिलेख, सङ्ग्रह(n)
-area: क्षेत्र
-argument: तर्क(n)
-arithmetic: अंकगणितिय #math
-arrange: मिलाउनुहोस्(v)
-arrangement: बन्दबस्त
-arrow: बाण(n), तिर(n)
-art: कला
-article: लेख(n)
-artificial: कृत्रिम(n)
-artist: कलाकार
-as: जस्तो
-ascendancy: हैकम(n)
-ascending: बढ्दो(adj)
-ask: सोध्नुहोस्
-asparagus: निगालो(n) #food
-assemble: एकत्रित(n)
-asset: सम्पत्ति(n), माल, चल अचल धन
-assign: मानाङ्कन
-assignment: कार्य(n), गृहकार्य(n)
-assistive: प्रलम्बित(adj)
-associated: सहयोगी(adj)
-asynchronous: अतुल्यकालिन(adj)
-attach: अनुलग्न, संलग्न, गाँसिएको(adj)
-attempt: प्रयास
-attitude: भाव
-audience: दर्शक, श्रोता
-audio: श्रब्य
-audit: लेखा परिक्षण
-authenticate: प्रमाणीकरण
-author: लेखक(n)
-authorized: आधिकारिक(adj)
-auto: स्वतः
-automatic: स्वचालित
-autonomous: स्वचालित
-available: उपलब्ध(adj)
-average: औसत(n)
-aware: चेतना
-awesome: भव्य
-axial: अक्षीय(adj)
-axis: अक्ष(n)
-back: पछाडि(n)
-background: पृष्ठभूमि(n)
-backup: जगेडा(n), सुरक्षित् प्रतिलिपी प्रति, सुरक्षित् प्रति
-backward: पछिल्तिर, पछिल्लो(adv)
-base: आधार
-basic: प्रथमिक, प्रारंभिक, मुलभुत, आधारभूत(n), मौलिक
-bat: चमेरो
-batch: समूह(n)
-before: अघि
-begin: सुरुआत
-behavior: व्यवहार(n)
-behind: पछाडि(prep/adv)
-belong: स्वामित्व
-below: तल(adv)
-bend: मोड्नु(n)
-between: बीचमा
-beveled: प्रवणित(adj)
-biaise: पक्षपात
-bibliography: सन्दर्भ सूची(n)
-billing: हिसाब
-binomial: द्विपद(n)
-black: कालो(adj) #color
-blank: रिक्त(adj), खाली(adj)
-blast: विस्फोट(n)
-blend: मिसावट(n)
-blink: झिमझिम(n)
-block: बन्द(n)
-blue: नीलो #color
-blur: अस्पष्ट, धमिलो
-body: मुख्य(n), शरीर
-bold: बाक्लो(adj)
-book: पुस्तक(n)
-booking: आरकक्षण
-bookmark: चिन्ह हाल्नुस्, पुस्तक चिन्ह
-border: किनारा,
-bottom: मुनी, फेद, तल
-bounce: उफार्नुहोस्(v)
-bound: बाँधिएको
-boundary: सीमा(n)
-box: बाकस(n)
-brace: जोडा(n)
-bracket: कोष्ठक(n)
-braille: अन्धलिपि(n)
-branch: शाखा
-break: विच्छेदन(n), विच्छेद गर्नुहोस्(v)
-brick: ईंटा
-brief: छोटकरी(n), संक्षेप(adj)
-bright: चम्किलो(adj)
-bring: ल्याउनुहोस्
-brochure: पुस्तिका(n)
-brown: खैरो(adj) #color
-brush: ब्रुस(n)
-bubble: फोका(n)
-build:निर्माण
-bulb: चिम
-bullet: गोली(n), बुँदा
-bus: बस(n)
-business: व्यवसाय(n)
-busy: व्यस्त
-button: टाँख(n)
-by: द्वारा
-calculate: गणना(n), हिसाब गर्नु
-calculation: गणित, गणना
-calculator: गणकयन्त्र(n)
-calendar: पात्रो(n)
-call: बोलाउनु(n), आह्वान
-campaign: अभियान
-cancel: रद्द(v)
-cap: टोपी
-capability: क्षमता(n)
-capable: सार्थक
-capital: पूँजी(n), राजधानी
-card: पत्र
-cardinal: सिम्रिक रंग #color
-care: सम्हाल
-carrier: वृत्ति(n), वाहक
-cat: बिरालो
-catalog: विवरणिका(n)
-category: कोटि(n)
-caution: होसियार
-cell: कक्ष(n), कोशिका, जेल, झ्यालखाना, फोन
-census: जनगणना
-center: केन्द्र
-centered: केन्द्रित(adj)
-centimeter: सेन्टिमिटर(n) #unit
-certificate: प्रमाणपत्र(n)
-change: परिवर्तन(n)
-changed: परिवर्तित(adj)
-channel: माध्यम(n)
-chapter: अध्याय(n)
-charcoal: कोइला(n)
-chart: चित्रपट(n)
-chat: कुराकानी
-check: जाँच(n), परीक्षण
-cheers: भाव(n)
-chemical: रासायनिक
-child: शाखा, बच्चा
-china: चीन #country
-chinese: चिनीयाँ
-choice: रोजाइ(n), छनौट, विकल्प
-cinema: चलचित्र(n)
-circle: घेरा ,वृत्त (n) #math
-citation: वृत्तान्त
-city: शहर(n)
-claim: दावी
-class: वर्ग(n)
-classic: शास्त्रीय(adj)
-classification: वर्गीकरण(n)
-classify: वर्गीकरण
-clean: सफा:
-clear: खाली(v)
-climate: हावापानी(n), मैसम
-clock: धडी
-clone: दुरुस्त
-cloud: बादल(n)
-cm: सेन्टिमिटर #unit
-code: सङ्केत(n)
-col: स्तम्भ
-collaborate: सहकार्य
-collaboration: सहकार्य
-collapse: संकुचन, संक्षिप्त
-collect: सङ्कलन
-color: रङ(n)
-column: स्तम्भ
-come: आउँ
-comma: अल्पविराम #punctuation
-commence: सुरु
-comment: टिप्पणी
-commercial: व्यावसायिक
-common: आम
-commuinity: समाज, समुदाय
-communication: सञ्चार
-compatibile: मिल्दो, सुचारुक्ता
-complete: पूर्ण
-component: भाग. पुर्जा
-compose: रचना
-compress: सङ्कुचित
-concert: सङ्गीतक कार्यक्रम
-conform: सुनिस्चित
-connect: जडान, सम्पर्क
-consecutive: यथाक्रम
-consequence: परिणाम, फल
-conservation: आरक्षण
-content: सामग्री
-continue: जारी
-contrast: व्यतिरेक, भिन्नता, अन्तर
-control: नियन्त्रण
-convert: रूपान्तर, परिवर्तित, बदलिनु
-copy: प्रतिलिपी, टिप्न
-copying: प्रतिलिपकरण
-copyright: प्रतिलिपि अधिकार
-correct: सुधार, सहि
-correspondence: चिठीपत्र(n)
-cost: लागत, मुल्य
-count: गन्ती, गणना
-cover: आवरण
-create: सिर्जना
-creation: कीर्ति
-crop: काट छाँट, बाली
-currency: मुद्रा
-current: वर्तमान, हाल
-cursor: कर्सर
-custom: रिवाज, प्रचलन, रिति, अनुकूलन, मौलिक
-daily: दैनिक
-damage: क्षती, हानी , नोक्शानी
-danger: खतरा
-data: तथ्याङ्क
-date: मिति, तारीख
-day: दिन
-deadline: म्याद
-deal: कारोबार
-debut: सुरुवात
-decision: निर्णय
-decoration: सजावट
-default: पूर्वनिर्धारित
-delete: नष्ट, हटाईयो, मेट्नु
-delimiter: विभाजक
-deliver: बुझाउनु, सुम्पनु
-denied: अस्वीकार
-departs: प्रस्थान
-deprecate: निषेद, प्रचलनमा नभएको, बेमञ्जूरी, पुरानो भएको छ
-depreciate: तुच्छ, ह्रास, घाटा, मूल्यापकर्ष, अपकर्ष,मोल घट्नु
-describe: वर्णन
-destination: गन्तव्य
-detail: विस्तृत, खुलस्त, बेलीविस्तार, नालीवेली
-development: विकाश
-deviation: विचलन
-device: यन्त्र(n), उपकरण
-diagonal: विकर्ण #math
-dialog: संवाद(n)
-direct: निर्देशन, प्रत्यक्ष
-director: निर्देशक
-disable: अक्षम, असक्षम
-disallow: बन्देज
-discard: त्याग
-disclaimer: अस्वीकार, छाड्नु, अस्वीकार्त्व
-discovere: आविष्कार(n)
-dismiss: खारेज
-distribute: वितरण
-dividend: लाभांश #finance, भाजक #math
-divisor: भाजक #math, भाज्य #math
-divorce: पर पचुरो
-document: कागजात
-documentation: कागजीकरण
-dog: कुकुर #animal
-domain: प्रयोगक्षेत्र
-done: सम्पन्न
-door: ढोका(n)
-dot: थोप्ला
-down: तल
-draft: मस्यौंदा
-drop: खसाल्नु
-during: दौरानमा
-earning: कीर्ति
-earthworm: गड्यौंला #animal
-edge: किनारा
-editor: सम्पादक
-effect: प्रभाव(n)
-eggplant: भाण्टा #food
-electronic: विद्युतीय
-elephant: हात्ती #animal
-eligible: लायक, योग्य
-email: पत्र, पत्राचार, सन्देश
-embed: गाभ्न
-empty: खाली
-enable: लागु, सुचारु
-end: समाप्त, अन्त्य
-energy: उर्जा
-engagement: टीकाटालो, सम्बन्धन
-english: अंग्रेजी #language
-environment: पर्यावरण, वातावरण
-equal: उतिकै, समान
-erase: मेटाउनु
-error: भूल, गल्ती, त्रुटी
-estimate: अनुमान
-evaluate: मूल्यांकन
-evening: बेलुका, सन्ध्या
-event: घटना
-every: सबै, प्रतेक
-exact: ठ्याक्कै
-excerpt: अंश(n)
-execute: कार्यान्वयन
-exist: उपलब्ध, विद्यमान
-existing: चल्ति
-expand: विस्तृत
-expect: अपेक्षित
-expected: अपेक्षित
-experimental: प्रयोगात्मक, परीक्षण
-expire: म्याद #time
-exploit: उपयोग गर्नु, शोषण गर्नु, अन्वेषण
-exploits: शोषण
-explore: अन्वेषण
-export: निर्यात
-exposure: खुल्ला गरिएको समय
-extention: लम्ब्याउनु
-extreme: चरम
-facilitate: सजिलो बनाउनु, अगाडि लैजानु, सुगम पार्नु
-factory: कारखाना
-fade: बिलिन
-fail: विफल, अनउत्तिर्ण, असमर्थ
-failure: असफल
-feature: विशेषता, सुविधा
-feedback: प्रतिक्रिया
-field: क्षेत्र, फाँट(n)
-file: फाईल
-financial: वित्तीय
-fire: अागो
-first: पहिलो
-fish: माछा
-flight: उडान
-floor: भूईँ
-follow: अनुसरण, पालना
-force: बाध्यता
-foreground: अग्रभूमि
-forever: सदाका लागि
-format: ढाँचा, प्रारूप
-formula: सुत्र, विधी
-forum: फोरम
-foundation: जग, संस्थापन
-fourth: चौंथो
-free: स्वतन्त्र, निशुल्क, मुक्त
-freedom: स्वतन्त्रता
-friday: शुक्रवार
-frozen: स्तिर
-fullstop: पूर्णविराम #punctuation
-function: प्रकार्य
-game: खेल
-generation: पिढी
-generic: सामान्य, साधारण, व्यापक
-glossary: कम्प्युटर सम्बन्धी शब्दकोश
-go: जानुहोस्
-good: राम्रो, उत्तम, शुभ
-granularity: विघटन
-gray: खरानी #color
-green: हरियो #color
-group: समूह(n)
-guarantee: जिम्मेवारी
-guardian: संरक्षक
-guide: सलाकार, मार्गदर्शक मार्गदर्शी
-gun: बन्दुक
-handwriting: हस्तलेख
-header: शीर्षक
-health: स्वास्थ
-height: उँचाई
-hello: नमस्कार
-help: सहयोग, मद्दत, गुहार
-high: उच्च
-historical: ऐतिहासिक
-history: ईतिहस
-hold: पकड, समात्नु
-holder: वाहक
-home: घर, गृह
-horizontal: तेर्सो
-hosting: सेवा प्रदायक
-hover: प्रतिगत, माउस लानुहोस्
-ice: बरफ
-icon: प्रतिमा
-id: परिचय
-idea: विचार(n)
-identify: पहिचान, परिचय
-ignore: उपेक्षा, बेवास्ता
-illegal: गयर कानुनी, अनियमित
-image: छवि(n)
-immediate: तत्काल
-impact: असर
-impliment: लागु, कार्यान्वयन
-import: आयात
-important: महत्वपूर्ण
-improve: सुधार
-inbox: पत्र टोकरी
-include: समावेश
-incoming: आगमन
-incomplete: अधूरो
-incorrect: गलत
-increase: वृद्धि
-indent: ठाँउ छोड्नुस्
-index: अनुक्रमणिका
-indicate: सूचक, देखाउनु, जनाउनु, खुट्याउनु, औंल्याउनु
-infinity: अनन्त,  अनगिन्ती, असंख्य, अगण्य
-information: सूचना
-infrastructure: पुर्वाधारमा
-infringe: उल्लंधन
-initialization: थालनी
-ink: मसि
-inning: पारी
-input: निवेश, दिखिल
-insert: सम्मिलित, घुसाउनु
-integrate: एकीकरण
-interact: अन्तर्क्रिया
-interest: [इन्'टरिस्ट्] ना. र क्रि, स्वार्थ, हित, चाख, लाभ, हक, अधिकार, सरोकार, रुचि, कुतूहल, ब्याज, मतलव, वास्ता, चासो, परवाह, रोचक
-interface: अवरण प्रणाली
-interfere: हस्तक्षेप
-intersect: प्रतिच्छेद
-introduction: परिचय
-intuitive: सहज ज्ञान
-invalid: अबैध
-invite: निम्तो
-issuer: वितरक
-italic: छड्के
-join: जोड
-journey: यात्रा
-keyword: मुख्य शब्द
-kite: चँगा
-lamp: बत्ती
-land: भुमी, घरती, जमीन
-landing: अवतर्ण
-landscape: परिदृश्य
-language: भाषा
-last: पोहोर, अन्तिम
-later: पछि
-launch: प्रक्षपण
-layout: रूपरेखा
-leader: नाइके, नायकक, अगुवा, नेता
-left: बाँया
-legacy: विभुती, विरासत
-length: लम्बाई
-letter: चिठ्ठी(n), वर्ण
-level: स्तर, श्रेणी, तह
-liable: जबाफदेही, उत्तरदायी
-library: पुस्तकालय
-licence: अनुमतिपत्र, अनुज्ञा
-life: जीवन
-like: इछुक्क, चाहना, मेल खाने
-line: रेखा
-list: सुची
-live: प्रत्यक्ष
-local: स्थानीय
-locale: स्थानीय
-location: स्थान
-log: दर्ता प्रतिबेदन
-logarithm: लघुगणक #math
-look: आवरण, देखाई, हेर्नु
-loop: फेरी
-lucky: भाग्यमानी
-main: मुख्य
-make: बनाउनु
-malware: हानिकारक अनुप्रयोग
-man: मान्छे, मानिस #animal
-manage: समायोजन, व्यवस्थापन
-manual: हातले गरेको, अस्वचालित, निर्देशन पुस्तिका
-margin: सिमाना, सीमान्त
-mark: अङ्कित, चिन्ह
-math: गणित #math
-mature: परिपक्व
-maximize: वृद्धि
-may: सायद
-maybe: सायद, सम्भाव्य
-me: म
-medicine: अौषधी
-medium: मध्यम
-memory: स्मृति
-merge: विलय
-message: सन्देश
-micro: सूक्षम
-middle: मध्य
-migration: प्रवास, सर्नु, सार्नु
-mine: मेरो
-minimize: न्यूनिकरण
-miscellaneous: विविधता
-mislead: भ्रामिक
-miss: हराएको
-mode: प्रकार
-model: नमुना
-moderate: मध्यस्थकर्ता, परिमार्जन
-modify: परिमार्जन, संसोधन
-monday: सोमवार #time
-monitor: अनुगमन, निगरानी
-month: माहिना #time
-monthly: मासिक #time
-mood: भाव, अवस्था
-morning: बिहान, प्रभात #time
-motive: प्रेरणा, उद्देश्य
-mount: चढाउनु
-move: चाल, सर्नु, स्थानन्तरण
-movie: चलचित्र
-must: निक्ष्चित
-mute: मौन, शान्त गर्नुहोस्
-name: नाम(n)
-natural: प्राकृतिक
-navigate: पथ प्रदर्शक, निर्देशन
-navigation: दिशानिर्देश, निर्देशन
-negative: कम, नराम्रो, होईन, फोटो रिल, नकारात्मक
-network: संजाल, सञ्जाल(n)
-new: नयाँ
-news: समाचार, खबरहरु
-next: अर्को
-nice: राम्रो
-night: राती #time
-none: कुनै पनि होइन
-nose: नाक
-notable: चर्चित
-notice: सुचना
-notification: अधिसूचना
-numbering: क्रमाङ्कन(n)
-numeric: संङ्यात्मक
-object: भैतिक, वस्तु
-objective: लक्ष्य
-occupy: ओगट्नु
-off: निस्क्रिय
-offer: प्रस्ताव
-old: पुरानो
-on: सक्रिय
-operation: सञ्चालन, कार्य संचालन
-operator: सञ्चालक, परिचालक, कारवाई
-option: विकल्प
-or: अथवा
-orange: सुन्तला
-order: क्रमबद्ध, शासन, अनुक्रम
-organization: संस्था
-organize: व्यवस्थापन, संगठित
-organized: व्यवस्थित
-orientation: अभिमुखिकरण
-outline: रुपरेखा
-output: निकास, निक्‍‍र्योल
-ownership: स्वामित्व
-ox: साँडे #animal
-package: पोका
-page: पृष्ठ
-panel: पट्टी
-paper: कागज
-paragraph: अनुच्छेद(n)
-parent: अभिभावक
-part: हिस्सा, खण्ड, अंश
-partially: आंशिक
-paste: टाँस्नु
-path: मार्ग
-pattern: ढाँचा
-pause: रोक्नु
-pay: [पे], बदला, मुल्य, दान, किस्ता, तलब
-payback: तिर्नु
-payoff: भुक्तानी, चुक्ती, चुक्ता
-payment: भुक्तानी(n), चुक्ता, चुक्ती
-pending: थाँति
-people: मानिसहरु
-percentage: प्रतिशत
-perform: सम्पन्न
-permission: स्वीकृति, अनुमति, ईजाजत
-phishing: छक्काउनु
-phrase: पदावली
-picture: तस्वीर
-pie: वृत्तांश(n) #math #food
-pink: गुलाबी #color
-piracy: चोरि पैठारि
-plain: साधारण
-plan: योजना
-play: चलाउनु
-point: बिन्दु #math
-police: प्रहरि
-policy: बिधान, नीति
-polygon: बहुभुज(n) #math
-popular: चर्चित
-popularity: लोकप्रियता
-position: स्थान
-positive: थप, हुन्छ, सहमति, राम्रो
-powered: संचालित
-preference: वरियता, प्राथमिक्ता
-presentation: प्रस्तुती, प्रस्तुतिकरण
-press: पत्रकार, थिच्नु
-preview: पूर्ववलोकन
-previous: अघिल्लो
-principles: सिद्धान्त
-print: छपाइ, मुद्रण
-priority: प्राथमिकता
-private: निजी
-privilege: विशेषाधिकार(n)
-probability: सम्भावयता
-problem: सम्स्या
-procedural: कार्यविधीसम्बन्धी
-process: प्रणाली, पद्दति, प्रक्रिया
-product: उत्पादन
-profit: नाफा, लाभांश
-progress: प्रगति
-project: परियोजना
-promise: क्रिया
-promotion: प्रचार
-property: विशेषता, गुण
-proportionally: समानुपातिक
-protection: सुरक्षा
-provider: प्रदाता
-public: सार्वजनिक
-punch: मुक्का
-pure: शुद्ध
-purple: बैजनी, प्याजी
-purpose: प्रयोजन
-quality: गुणस्तर
-queen: रानि
-query: जिज्ञासा, प्रश्‍न
-quick: द्रुत, छरितो
-quote: उद्वरण
-random: आकस्मिक
-rate: मूल्याङ्कन, दर
-raw: कोरा, कच्ची, अप्रशोधित
-recent: हालै, बर्तामान, भरखरै
-recommend: सिफारिस
-record: अभिलेख, कागजपत्र
-recover: पुन:प्राप्ति
-recycle: पुन:प्रयोग
-redeem: प्रायस्चित, निविकरण
-reference: सन्दर्भ
-refresh: नविकरण
-refurbished: राम्रो बनाउनु
-regards: सम्मान
-register: दर्ता, पंजीकरण(कृत)
-reject: अस्वीकृत(n)
-relevance: सम्बन्धी
-reminder: अनुस्मारक
-remove: निष्कासन
-render: प्रतिपादन
-renovate: जिर्नसम्भार
-rent: भाँडा
-repair: मर्मत
-repeat: दोहर्याउ
-replace: बदल्नुहोस्, प्रतिस्थापन, विस्थापित
-report: उजुरी, प्रतिवेदन
-reposition: पुनस्थानाकरण
-represent: प्रतिनिध, देखाउनु
-representative: प्रतिनिधित्व
-request: अनुरोध
-reset: पुन:स्थापना
-resolution: संकल्प, समाधान
-response: प्रतिक्रिया
-restore: पुनर्स्थापना,बहाल, पूर्वावस्थामा ल्याउन
-result: परिणाम
-resume: पुन: थाल्नु, जारी राख्नुहोस्
-reveal: प्रकट, प्रस्फुटन
-revenue: आय
-review: समीक्षा, पुन:अवलोकन
-revision: संशोधन
-revoke: रद्द, खारेज
-revolution: क्रान्ति
-right: दाँया, ठिक
-rights: अधिकार
-room: कोठा
-rose: गुलाफ #plant
-rotation: परिक्रमण
-round: गोलाकार
-row: पंक्ति, पङ्क्ति(n)
-royalty: राजस्व
-rsvp: असमर्थताको लागी
-run: सञ्चालन(n), चालु
-runtime: चालु अवधि
-saturday: शनिवार #time
-save: बचत(n), संचय, संग्रह, सुरक्षित
-scalable: मापनयोग्य
-scene: दृश्य
-schedule: समय तालिका #time
-science: विज्ञान
-script: लिपि
-search: खोज
-second: दोस्रो, सेकेण्ड #time
-section: खण्ड
-sector: भाग(n)
-see: हेर्नु
-seed: पुञ्ज
-segment: खण्ड(n)
-select: चयन
-selection: छनौट
-sensitive: सम्वेदनशील
-series: श्रृंखला
-service: सेवा
-session: सत्र
-set: स्थापना, मिलाउनु
-shade: छायाँ(n)
-shadow: छायाँ
-shape: आकृति
-share: साझेदारी, बाँड्नु
-shipping: धुवाणी
-shirt: कमिज
-shopping: किनमेल
-simple: साधारण
-size: अाकार
-social: सामाजिक
-solid: ठोस
-solution: समाधन
-sort: क्रमबद्ध, अनुक्रम
-soundtrack: ध्वनिट्रयाक
-space: खाली, स्थान
-spare: जगेडा
-special: विशेष, विशिष्ट
-specific: निष्चित, निर्दिष्ट, उल्लेख
-speed: गति(n)
-spell: हिज्जे
-split: विभाजन
-square: वर्ग
-standard: स्तर, मानक
-start: आरम्भ
-state: राज्य, अवध
-stats: तथ्याङ्क
-status: वस्तुस्थिति(n)
-step: पाइला, कदम
-stop: बन्द गर्नु, रद्द
-store: भन्डार
-stream: प्रसारण
-string: अक्षर, घागो
-study: शिक्षा
-style: ढाँचा, शैली
-sub: उप #subsection
-subject: विषय
-submit: पेश
-subscription: सदस्यता
-substance: तत्त्व
-suggestion: सुझाव
-summary: सारांश
-summer: ग्रीष्म ऋतु
-sunday: आइतवार #time
-supervise: निगरानी
-support: समर्थण, थाम्नु
-sure: पक्का, निश्चित, ठोकुवा, नि:संशय, पक्कापक्की, निरापद, भरपर्दो, बिश्वानिय, नि:संदेह
-suspend: निलम्बित
-swap: साट्नु
-symbol: चिन्ह
-synchronize: संयोजन, एकत्तित्र गरि बँड्नुहोस्, समिकरण
-system: प्रणाली(n), पद्दति
-table: तालिका
-tamper: अनधिकार फेरबदल, बहकाउनु, भ्रष्ट
-tap: छुनु, घारा, टक्टकाउनुहोस्
-target: लक्ष्य
-team: टोली
-technology: प्रविधि(n)
-television: टेलिभिजन
-template: नमुना
-term: शब्द
-test: परिक्ष, जाँच
-text: पाठ
-theme: सामग्री, आवरण, विषयवस्तु
-thick: बाक्लो
-third: तेस्रो
-thursday: बिहिबार #time
-time: समय #time
-title: शीर्षक
-toggle: फेर बदल
-tool: उपकरण, औजार
-top: माथि, शीर्ष
-touch: स्पर्श
-tour: भ्रमण, पर्यटन
-track: अनुगमन
-traditional: परम्परागत
-transaction: लेनदेन
-transfer: स्थानान्तर
-transition: फेर्ने क्रम
-transparency: पारदर्शिता
-trapezoid: चतुर्भुज
-trash: रद्दीटोकरी, फोहर
-trend: प्रचलन, चलन, प्रवृत्ति
-trip: यात्रा
-truncate: काटछाँट
-trust: विश्वस
-trusted: विश्वसनीय
-try: प्रयास, प्रयत्न
-tuesday: मङ्गलवार #time
-tutorial: पाठ्य सामग्रीहरू, पाठ्य क्रम
-type: प्रकार
-undo: पूर्ववत
-unexpected: अनुपेक्षित
-uninstall: विस्थापना
-university: विश्वविद्यालय
-unknown: अज्ञात
-until: सम्म
-untitled: शीर्षक विहिन
-unusual: असाधारण
-up: माथी
-update: परिमार्जन, अद्यावधि
-user: प्रयोगकर्ता
-valid: मनासीब, सदर, जायज, पुष्टि
-validate: सदर गर्नु, थाम्नु, कायम गर्नु, प्रमाणिकरण
-value: [भ्या'ल्यू], मुल्य(n), महत्व(n), मान(n), भाउ, दर. मोल
-price: [प्राइस्], मुल्य(n), मान(n), भाउ, दर. मोल
-velvet: मखमली
-verify: प्रमाणित, रुजु, जाँच, निरीक्षण
-version: संस्करण
-vertical: ठाडो
-vibrate: काम्पना
-video: दृश्य
-view: अबलोकन, दृश्य
-visitor: अगान्तुक
-voila: ओहो
-wallpaper: भित्ते कागज
-warranty: जमानत
-waste: खेर
-watch: हेर्नु, घडी
-water: पानी
-wave: तरंग
-weather: मौसम
-wednesday: बुधवार #time
-week: हप्ता, सप्ताह #time
-weekly: साप्ताहिक #time
-welcome: स्वागत
-wepond: हतियार
-white: सेतो
-whoops: लाऽऽ
-width: चौडाइ
-wind: हावा
-wing: पखेटा
-word: शब्द
-work: कम, कार्य
-world: विश्व, संसार
-year: वर्ष #time
-yearly: वार्षिक #time
-yellow: पहेंलो #color
-yield: प्रतिफल
-you: तपाईँ
-zone: क्षेत्र
-synthesis: संश्लेषण
-determine: निर्धारण
-deploy: वितरण
-personal: व्यक्तिगत
-font: वर्ण
-organizer: आयोजक
-keyboard: कुञ्जीपाटी
-emotion: भाव
-ray: किरण
-beam: किरण, दलिन
-sun: सुर्य, घाम
-instruction: निर्देशन
-owner: घनी, मालिक
-survey: सर्वेक्षण, नापी
-meeting: बैठक
-driving: हाँक्नु
-transit: परागमन
-decimal: दशमलव #math
-binary: दोवर, द्विगुनीय #math
-octal: अष्ट अाधार #math
-hexadecimal: षोडश आधार, सोह्रनिय #math
-drawing: चित्रण
-mail: पत्र
-party: पक्ष
-acceleration: द्रुत सन्चालन
-age: बर्ष
-vegetable: तरकारी
-milk: दुध
-rice: घान, भात, चमल
-bid: बोलपत्र
-hell: नरक
-significance: अर्थ, महत्त्व, सार्थता
-significant: सार्थ, अर्थयुक्त
-silence: मौन, मौनता, चुप
-dandruff: चाया
-condition: अवस्था, शर्त, हालचाल, नियम
-brave: विर
-bear: भालु
-bag: भोला
-define: परिभाषा, व्याख्या, किटान
-degree: पद, श्रेणी, दर्जा, उपाधि, मात्रा, तापमान
-either: कुनै पनि
-array: बिन्यास, रचना
-more: थप, अतिरिक्त, बढि
-direction: दिशा
-flag: झण्डा
-kitten: ङ्याउरो, बिरालोको छाउरो
-issue: जारी, निर्णय, प्रश्‍न, विषय, मामला, मुद्दा
-settlement: समझौता
-security: सुरक्षा, धितो #finance
-protect: सुरक्षा, बचाउनु
-maturity: परिपक्वता
-indicator: सुचक
-principle: साँवा #finance
-separate: बिभाजित
-protocol: कूटनैतिक लेख, सन्धित्र, मसौदा, बडापत्र, लालमोहर, प्रशस्ति
-conference: सम्मेलन
-please: कृपया
-band: बन्देज
-great: बडा, बिशाल, महा, माहान्, बृहत, हपार, ठूलो, श्रेष्ठता, बडाइ
-return: फर्काउनु, प्रत्यावर्तन, बदला, तिर्नु
-discount: छूट #finance
-divide: भाग, बिभाजन #math
-quotation: उद्धरण
-appreciating: अधिमूल्यन
-complementary: पूरक
-maximum: अधिकतम
-minimum: न्यूनतम
-multiply: गुणा(n) #math, गुणन(v) #math, बढाउनु,
-sum: योगफल, जम्मा
-varience: असंगति #math #stats
-wireless: बेतार, तार रहित
-wire: तार(n)
-witch: बोक्सी(n)
-whole: सम्पुर्ण, समग्र, सिंगो, पूर्ण, पूरा
-otherwise: अन्यथा
-compare: दाँज्न, तौलनु, तुलना
-strict: तीक्ष्ण, तीब्र, कडा, कट्टर, दह्रो, दृढ
-serious: सख्त
-minister: मन्त्री
-different: फरक
-optional: वैकल्पिक
-rules: प्रावधान
-request: अनुरोध, विनति, बिन्ति, प्रार्थना, माग, याचना, इच्छा, आकांक्षा
-route: जाने बाटो
-topic: विषय, प्रसंग, विषय वस्तु
-equation: समीकरण
-provision: प्रबन्ध, व्यवस्था, बन्दोबस्त, तयारी, विधान, कानुनी व्यवस्था, प्रावधान
-resource: आवश्यकता, स्रोत, उपाय, साधन
-unique: अनुपम(n), बेजोडा(n), अद्धितीय(n)
-master: मालिक(n), प्रभु(n), गुरु(n), स्वामी(n), हर्ताकर्ता(n), आचार्य(n), श्रेष्‍ठ(n), सानोकेटो(n), जित्‍नु(v), हराउनु(v), अधीनमा ल्याउनु(v), ज्ञान आर्जन गर्नु(v), निपुण हुनु(v)
-ascend: उक्लनु(v), चढ्नु(v), उकालो(n), उकाली(n)
-altitude: उचाई
-atomic: आणविक
-installment: किस्ता
-yeild: उपज
-purchase: खरीद
-present: अहिले, उपहार, प्रस्तुत, वर्तमान
-general: सामान्य
-bill: कागते नोट
-temporary: अस्थाई
-dark: गाढा
-anchor: आड
-bond: ऋणपत्र
-inverse: प्रतिलोम #math
-hyperbolic: अतिपरवलयिक #math
-period: अवधि, नियमित, पूर्णविराम #punctuation
-origin: ना (व /प्रा/ भू /ग), उद्‍‍भव, उत्पत्ति, आरम्भ, मूलबीज हेतु, उत्पत्तिसूत्र, आविर्भाव
-inclusive: निहित
-quartile: चतुर्थको
-minature: लघु
-odd: बिजोड
-factorial: क्रमागुणित
-compare: तुलना
-numeric: सांख्यिक
-non: गैर
-depretiation: अवमूल्यन
-expression: अभिव्यक्ति
-irregular: अनियमित
-death: शेष
-real: वास्तविक
-if: यदि
-else: अन्यथा
-opposite: उल्टो, बिपरित
-certainty: ना (ग), निश्‍चितता
-means: उपाय, चारा, साधन; आर्थक स्थिति, गल्छे, औकात, अर्थ
-amount: [अमाउण्ट्'], मात्रा, रकम(n), राशि(n), परिमाण(n), धन(n),  पूँजी
-annuity: [अन्यु'इटि], जीउनी(n), भत्ता(n), बार्षिकी
-number: [नम्'बर्], सङ्ख्या(n), अङ्क, गन्ती, गिनती, गणना, राशि, लगत, पटक
-salvage: [स्याल्'भज्], उद्धार, निस्तरण, माल जोगाउनु, बचाउनु
-periodic: [पअ^रिअ'डिक्], यथाक्रम, नित्य, सामयिक, आवधिकता, नियमित
-future: [फ्यू'चर्], भविष्‍य, पछि, परन्तु, कालकला, भावी
-invest: [इन्‌भेस्ट्'] लगानी
-investor: [इन्‌भेस्ट्‌र] लगानीकर्ता
-investment: [इन्‌भेस्ट्‌मेन्ट], प्रतिष्ठापन, निक्षेप
-effective: [एफेक्‌'टिभ्], घतलाग्दो, प्रभाकारी, कार्यसाधक, निष्पादक
-desire: [डिजायर्], कल्पनु, इच्छा, रहर, चाहनु, मनसाय, धीत,आकांक्षा, अभिलाषा
-cumulative: [क्यु'म्युलेटिभ्], सञ्चिति
-against: [अगेन्स्ट्'] उ, विपरीत, विरूद्ध, उल्टो, बाङगो
-after: [आफ्'टर] तत्पश्चात्, अनि, उपरान्त, पछि, उप्रान्त, भावी
-loan: [लोन्], रिन(n), ऋण(n), सापट(n), पैचो(n), कर्जी(n), उधार(n)
-buy: [बाइ], किन्नु
-buyer: [बाइयर्], क्रेता, खरिदकर्ता
-install: [इन्स्'‌टाल्'], स्थापना, स्थापित, प्रतिष्‍ठा
-parameter: [पञ्या'मिटर्], सिमा, परामिति
-treasury: [ट्र'झरि], ढुकुटी, भाण्डागार
-relative: [रि'लेटिभ्], वि, ना, सापेक्ष, सापेक्षिक, आपेक्षिक, अपेक्षाकृत, सम्बन्धित, नातावाल, साइनेहरू; बान्धव, सगोत्री, जाति बारादरी, कुल कुटुम्ब, नातागोता, स्वजन, आफन्त; (ने.) थथिति, फुकी।</Text>
-frequency: [फ्रि'क्वेन्सि], ना, नित्यता, बहुतायत, पटक, आवृति, छिटोछिटो, धाउनु, तारन्तार
-tournament: [टुअ^र्‌-,टुअ^र्‌'नमेन्ट्], ना, तमाशा, खेल, प्रतियोगिता
-round: [राउन्ड्], डल्लो, गोल, वर्तुल, वृत्ताकार, मण्डल, फन्को, वरिपरि, घुमाएर
-logic: [लजिक्], ना. तर्कशास्त्र, वैशेषिकशास्त्र, युक्ति, जोर, यौक्तिक
-compute: [कम्प्‍यूट्'] क्रि, गन्नु, हिसाब गर्नु, गणन(n)
-fit: [फिट्], ना, वि, क्रि, ठिक्क, लायक, सुहाँउदो; मिलाउनु, ठिक्क, छाँट्नु, योग्यता
-probability: [प्रँ' बबिलिज्म्], ना(ग/र/व), आर्षोक्तिवाद, सम्भाव्यता
-limit: [लि'मिट्], ना, क्रि, सीमा, हद, परिधि, दायरा, बन्देज, मात्रा, हुनसम्मको, पराकाष्‍ठा, हकबन्दी, असह्यय, म्याद, रोक, हदबन्दी
-mean: [मीन्], ना, वि, क्रि, मध्यमान,  मध्यम, बीचको, जाबो, तुच्छ
-correspond: [करेस्‌पण्ड्], ल्रि, अनुरूप हुनु, संगत हुनु, चिट्ठीपत्र, संवाददाता, सम्पर्क
-predict: [प्रिडिक्ट्'], क्रि, भविष्यवाणी
-skew: [स्क्यू], वि,ना, तेर्सो, बाङ्गो टाँड परेको
-duplicate: [डयू'प्‍लिकेट्], वि, ना, क्रि, नकल, दोहोरो,  नकल्ली(n)
-interpret: [इन्‌टअ^र्'प्रेट्], व्याख्‍या, अर्थाउनु, दोभाषे, विवेचन
-random:[र्‍यान्‌'डम्], ना, वि, फाटफुट, बेसुर, यादृच्छिकीकरण
-balance: [ब्या'लन्स्], ना, क्रि, तराजु, सन्तुलन, बाँकी, मौज्दात, पूँजी, वासलात #finance
-map: [म्याप्], ना, क्रि. नक्शा, मानचित्र
-interval: [इन्'टर्‌भल्], ना, मध्यान्तर, अंतर, विराम, अंतरावधि
-repeat: [रिपील्'], क्रि, ना, दोहोर्‍याउनु, घोक्नु,  पुनरावृति, वारंवार, लगातार
-constant: [कन'स्टयाण्ट्], वि, ना, स्थिर, अचल, स्थायी, शाश्‍वत, नियत, नित्य, स्थायी
-remainder: [रि'मेन्'डर्], ना (का), उबार, बाँकी, बक्यौता, मौजदात, बचेको
-remain: [रिमेन्'], क्रि, ना, बच्नु, बाँकी, जोगिनु; रहनु, वास गर्नु, हुनु, चलिरहनु, भइरहनु, बाँकी, बचत, अवशेष, लाश, मृत शरीर; कसर, थेग्रो, निचोड, जगेर्ना
-coerce: [कोअ^र्‌स्], क्रि, नत्थ्याउनु, करेप्नु, बलजफ्त, जवरजस्ती, करलगाउने
-notation: [नोटे'श्‍न्] ना, अङ्का, विद्दा; संख्या, परिमाण, संकेतलिपि
-element: [ऐलिमेन्‌'ट], वि,  तत्त्व, वायु, अग्‍नि, जलको; सारभूत, सरल, बिना यौगिक, निम्न, वस्तु
-unit: [यू'निट्] ना, समूह, एकाइ, इकाइ, अदत, टुकडी, टोली, परिणाम, संख्या, एकांकी #unit
-range: [रेञ्‍ज्], क्रि, ना. पर्वत, लाइन, खण्ड, श्रेणी, स्‍िथति, दूरी, ढाक्नु, दायरा, श्रृंखला, सीमा
-key: [की], ना, क्रि. साँचो, कुञ्जी, मुख्य
-he: उ
-she: उनी
-match: [म्याच्], ना, क्रि, जोडा, प्रतिद्वन्दी, सामान, प्रतियोगिता, खेल, मिलाउनु, जोडा सिद्ध हुनु, लडाउनु, जुधाउनु, बेजोडा, अजोड, मेल
-fact: तथ्यहरू
-consider: [कनसि्डर्], विचारशील, वास्ता
-provide: प्रदान
-mode: [मोड्], ना, रीति, विधि, काइदा, तरीका, पद्धति, ढाँचा
-separator: विभाजक
-case: खण्ड
-variance: असंगति
-pass: पार
-worst: चुत्थो
-best: सर्वोत्तम
-transparent: पारदर्शी
-inherit: वंशागत
-dictation: श्रुतिलेखन
-hate: निकृष्ट
-impression: अभिब्यक्ती
-remote: दुर्गम
-demo: छोटो प्रदर्शन गर्नु
-republic: गणराज्य
-better: सुधार
-proprietary: हकदावी
-configuration: विन्यास
-command: आदेश
-tax: कर
-income: आय
-example: उदाहरण
-scroll: सार्नु
-pocket: गोजी
-functional: कार्यात्मक
-super: अत्भुत
-pressure: दबाव
-convocation: दिक्षान्त
-initial: प्रारम्भिक
-verification: प्रमाणिकरण
-generate: निकाल्दा
-statistical: सांख्यिकीय #stats
-confuse: अलमलिनु(v), रल्ल्याउनु, गोलमाल
-vote: मत
-constitution: संविधान
-election: निर्वाचन
-delivery: प्रसुत्ती
-hushed: नम्र हुँदै
-sweat: पसिना
-capture: खिच्दै
-disappointed: निराश #emotion
-flushed: चुरिफुरि #emotion
-scared: डराएको #emotion
-pouting: अमिलिदै
-grimacing: दाँह्राकिट्दै #emotion
-grinning: दाह्राकित्त्दै #emotion
-winking: झिम्काउँदै #emotion
-neutral: तटस्थ
-anguish: ना. बह, मर्म, विरह, वेदना, रनाहा #emotion
-dizzy: [डि'जि] वि. रिंगटा लागेको, ना. रिंगटा, चक्कर, भाउन्ना, रन्थनिनु 
-smirk: [स्मर्क्] क्रि, ना, नआएको हाँसो गर्नु, मसक्क पर्नु, मक्ख, स्वाँग पार्नु #emotion
-heart: हृदय, मन 
-raise: उठाउँनु 
-pensive: चिन्ताग्रस्त #emotion
-confound: अलमल्ल #emotion
-relieve: राहत #emotion
-unamuse: विच्किनु #emotion
-astonish: चकित #emotion
-scream: चिच्याँउनु #emotion
-worry: चिन्ता #emotion
-weary: थकित #emotion
-fearful: भयभीत #emotion
-sleep: सुत्दै 
-cry: रूनु #emotion
-angry : रिसाउनु #emotion
-confuse: दुबिधा #emotion
-keep: जारी, राख्नु
-multiplicand: गुण्य #math
-expression: अभिव्यञ्जन #math
-quotation: उद्धरण #math
-power: घाताङ्कमा #math
-minuend: वियोज्य #math
-derive: प्रत्युपादन
-product: गुणाफल #math
-logical: तार्किक #logic #math
-logarithm: लघुगणक #math
-retain: [रिटे'न्], कायम, थाम्नु, नहराउनु
-instance: [इन्'स्टन्स्] ना. र क्रि. दृष्‍टान्त, उदाहरण, अनुरोध
-pressure: [प्रे'श्‌र्] ना. पीडन, बल, शक्ति, भार, थिचाइ, चटारो, धपेडी, दवाव, चाप, कष्ट
-experience: [एक्सपि'य्‍िरएन्स्] अनुभूति, अनुभव, मेलो, अनुभोग, चेत. ज्ञान, पाको।
-extreme: [इक्स्ट्रीम्'] वि. उग्र, घनघोर, कट्टर, चरम, पराकाष्‍ठा
-occure: [अकअर्'] क्रि हुनु, पाइनु, रहनु, मनमा आउनु, घट्नु, पर्नु
-motion: [मो'शन्] ना. क्रि. चाल, प्रस्ताव
-track: [ट्रयाक्] ना क्रि, बाटो, मार्ग, गोरेटो
-inherit: [इन्‌हे'रिट्] क्रि. वंशागत, परम्परागत, उत्तराधिकार
+3d; त्रि-आयामिक(adj) #math
+abbreviation; संक्षिप्त रूप
+ability; क्षमाता, सामर्थ्य, निपूर्णता, दक्षता
+abort; परित्याग(v), रद्द
+about; बारेमा, बिषयमा
+above; माथि
+absolute; निश्चित (adj), निरपेक्ष #math
+abstract; अमूर्त(n), संक्षेप(n), सार
+accelerator; गतिवर्धक
+accent; जोर(n)
+accept; स्वीकार(n), मन्जुर
+accepted; स्वीकृत(adj)
+access; पहुँच, सर्वसुलभ, उपयोग
+accessibility; पहुँचता(n)
+accessible; पहुँचयोग्य(adj), उपलव्धता
+accessory; सहायक उपकरण(n)
+account; खाता(n), लेखा(n)
+accountable; जवाफदेहि
+accurate; सटीक, शुद्ध
+across; वारपार
+act; अभिनय
+action; कार्य(n), गतिविधि
+active; सक्रिय, सुचारू
+activity; गतिविधि(n)
+actor; कर्ता
+actuarial; प्रवर्तकिय
+actuator; प्रवर्तक
+adapt; अनुकूल
+adaptor; संयोजन(n)
+add; थप्नुहोस्, जोङ्नुहोस्
+address; ठेगाना(n), सम्बोधन
+addressee; प्रापक(n)
+adjacent; निकटवर्ती(adj)
+adjust; बन्दवस्त, समायोजन
+administrate; प्रबन्ध
+administration; प्रशासन(n)
+administrator; व्यवस्थापक, संचालक, प्रबन्धक, प्रशासक(n)
+advance; जटिल, उच्च, पेश्की, उन्नत(adj), विस्त्रित
+adventure; साहासीक
+advertise; प्रचार
+advisor; सल्लाहकार(n)
+afternoon; साँझ #time
+ageing; पाको, पुरानो
+agenda; लक्ष्य, कार्यसूची
+agent; अभिकर्ता(n)
+aggregate; समष्टि
+agree; सहमति, राजी
+agreement; सम्झौता(n)
+air; हावा
+airport; विमानस्थल
+alarm; सचेतक, खतरासूचक
+alert; सावधान(n), होसियार
+algebra; बीजगणित #math
+alias; उपनाम
+align; पङ्क्तिबद्ध गर्नुहोस्
+all; सबै
+allow; अनुमति
+allowance; भत्ता
+alphabetic; वर्णक्रम
+alphabetical; वर्णानुक्रम(adj)
+alter; परिवर्तन, हेरफेर
+alternate; वैकल्पिक
+alternative; विकल्प, वैकल्पिक(adj)
+always; सधैं
+ambient; परिवेशी(adv), चारैतिर
+amortization; अवक्षयण
+analysis; विश्लेषण(n)
+analyst; विश्लेषक(n)
+ancient; पौराणिक
+angle; कोण(n) #math
+announce; घोषणा
+annoy; दु:ख दिनु
+annual; वार्षिक
+annuity; वार्षिकी
+anonymous; बेनामी
+another; अर्को
+answer; जवाफ(n)
+appear; देखापर्नु, प्रकट
+appearance; देखावट(n)
+append; थप्नुहोस्
+apple; स्याउ
+application; अनुप्रयोग(n), निबेदन, उपयोग. आवेदन
+apply; लागू
+approach; द्रिष्टीकोण
+approve; अनुमोदन, स्विक्रित, प्रमाणित
+approximate; अन्दाजी(adj)
+arc; चाप(n) #math
+archive; अभिलेख, सङ्ग्रह(n)
+area; क्षेत्र
+argument; तर्क(n)
+arithmetic; अंकगणितिय #math
+arrange; मिलाउनुहोस्(v)
+arrangement; बन्दबस्त
+arrow; बाण(n), तिर(n)
+art; कला
+article; लेख(n)
+artificial; कृत्रिम(n)
+artist; कलाकार
+as; जस्तो
+ascendancy; हैकम(n)
+ascending; बढ्दो(adj)
+ask; सोध्नुहोस्
+asparagus; निगालो(n) #food
+assemble; एकत्रित(n)
+asset; सम्पत्ति(n), माल, चल अचल धन
+assign; मानाङ्कन
+assignment; कार्य(n), गृहकार्य(n)
+assistive; प्रलम्बित(adj)
+associated; सहयोगी(adj)
+asynchronous; अतुल्यकालिन(adj)
+attach; अनुलग्न, संलग्न, गाँसिएको(adj)
+attempt; प्रयास
+attitude; भाव
+audience; दर्शक, श्रोता
+audio; श्रब्य
+audit; लेखा परिक्षण
+authenticate; प्रमाणीकरण
+author; लेखक(n)
+authorized; आधिकारिक(adj)
+auto; स्वतः
+automatic; स्वचालित
+autonomous; स्वचालित
+available; उपलब्ध(adj)
+average; औसत(n)
+aware; चेतना
+awesome; भव्य
+axial; अक्षीय(adj)
+axis; अक्ष(n)
+back; पछाडि(n)
+background; पृष्ठभूमि(n)
+backup; जगेडा(n), सुरक्षित् प्रतिलिपी प्रति, सुरक्षित् प्रति
+backward; पछिल्तिर, पछिल्लो(adv)
+base; आधार
+basic; प्रथमिक, प्रारंभिक, मुलभुत, आधारभूत(n), मौलिक
+bat; चमेरो
+batch; समूह(n)
+before; अघि
+begin; सुरुआत
+behavior; व्यवहार(n)
+behind; पछाडि(prep/adv)
+belong; स्वामित्व
+below; तल(adv)
+bend; मोड्नु(n)
+between; बीचमा
+beveled; प्रवणित(adj)
+biaise; पक्षपात
+bibliography; सन्दर्भ सूची(n)
+billing; हिसाब
+binomial; द्विपद(n)
+black; कालो(adj) #color
+blank; रिक्त(adj), खाली(adj)
+blast; विस्फोट(n)
+blend; मिसावट(n)
+blink; झिमझिम(n)
+block; बन्द(n)
+blue; नीलो #color
+blur; अस्पष्ट, धमिलो
+body; मुख्य(n), शरीर
+bold; बाक्लो(adj)
+book; पुस्तक(n)
+booking; आरकक्षण
+bookmark; चिन्ह हाल्नुस्, पुस्तक चिन्ह
+border; किनारा,
+bottom; मुनी, फेद, तल
+bounce; उफार्नुहोस्(v)
+bound; बाँधिएको
+boundary; सीमा(n)
+box; बाकस(n)
+brace; जोडा(n)
+bracket; कोष्ठक(n)
+braille; अन्धलिपि(n)
+branch; शाखा
+break; विच्छेदन(n), विच्छेद गर्नुहोस्(v)
+brick; ईंटा
+brief; छोटकरी(n), संक्षेप(adj)
+bright; चम्किलो(adj)
+bring; ल्याउनुहोस्
+brochure; पुस्तिका(n)
+brown; खैरो(adj) #color
+brush; ब्रुस(n)
+bubble; फोका(n)
+build; निर्माण
+bulb; चिम
+bullet; गोली(n), बुँदा
+bus; बस(n)
+business; व्यवसाय(n)
+busy; व्यस्त
+button; टाँख(n)
+by; द्वारा
+calculate; गणना(n), हिसाब गर्नु
+calculation; गणित, गणना
+calculator; गणकयन्त्र(n)
+calendar; पात्रो(n)
+call; बोलाउनु(n), आह्वान
+campaign; अभियान
+cancel; रद्द(v)
+cap; टोपी
+capability; क्षमता(n)
+capable; सार्थक
+capital; पूँजी(n), राजधानी
+card; पत्र
+cardinal; सिम्रिक रंग #color
+care; सम्हाल
+carrier; वृत्ति(n), वाहक
+cat; बिरालो
+catalog; विवरणिका(n)
+category; कोटि(n), वर्ग
+caution; होसियार
+cell; कक्ष(n), कोशिका, जेल, झ्यालखाना, फोन
+census; जनगणना
+center; केन्द्र
+centered; केन्द्रित(adj)
+centimeter; सेन्टिमिटर(n) #unit
+certificate; प्रमाणपत्र(n)
+change; परिवर्तन(n)
+changed; परिवर्तित(adj)
+channel; माध्यम(n)
+chapter; अध्याय(n)
+charcoal; कोइला(n)
+chart; चित्रपट(n)
+chat; कुराकानी
+check; जाँच(n), परीक्षण
+cheers; भाव(n)
+chemical; रासायनिक
+child; शाखा, बच्चा
+china; चीन #country
+chinese; चिनीयाँ
+choice; रोजाइ(n), छनौट, विकल्प
+cinema; चलचित्र(n)
+circle; घेरा ,वृत्त (n) #math
+citation; वृत्तान्त
+city; शहर(n)
+claim; दावी
+class; वर्ग(n)
+classic; शास्त्रीय(adj)
+classification; वर्गीकरण(n)
+classify; वर्गीकरण
+clean; सफा:
+clear; खाली(v)
+climate; हावापानी(n), मैसम
+clock; धडी
+clone; दुरुस्त
+cloud; बादल(n)
+cm; सेन्टिमिटर #unit
+code; सङ्केत(n)
+col; स्तम्भ
+collaborate; सहकार्य
+collaboration; सहकार्य
+collapse; संकुचन, संक्षिप्त
+collect; सङ्कलन
+color; रङ(n)
+column; स्तम्भ
+come; आउँ
+comma; अल्पविराम #punctuation
+commence; सुरु
+comment; टिप्पणी
+commercial; व्यावसायिक
+common; आम
+commuinity; समाज, समुदाय
+communication; सञ्चार
+compatibile; मिल्दो, सुचारुक्ता
+complete; पूर्ण
+component; भाग. पुर्जा
+compose; रचना
+compress; सङ्कुचित
+concert; सङ्गीतक कार्यक्रम
+conform; सुनिस्चित
+connect; जडान, सम्पर्क
+consecutive; यथाक्रम
+consequence; परिणाम, फल
+conservation; आरक्षण
+content; सामग्री
+continue; जारी
+contrast; व्यतिरेक, भिन्नता, अन्तर
+control; नियन्त्रण
+convert; रूपान्तर, परिवर्तित, बदलिनु
+copy; प्रतिलिपी, टिप्न
+copying; प्रतिलिपकरण
+copyright; प्रतिलिपि अधिकार
+correct; सुधार, सहि
+correspondence; चिठीपत्र(n)
+cost; लागत, मुल्य
+cover; आवरण
+create; सिर्जना
+creation; कीर्ति
+crop; काट छाँट, बाली
+currency; मुद्रा
+current; वर्तमान, हाल
+cursor; कर्सर
+custom; रिवाज, प्रचलन, रिति, अनुकूलन, मौलिक
+daily; दैनिक, प्रतिदिन
+damage; क्षती, हानी , नोक्शानी
+danger; खतरा
+data; तथ्याङ्क
+date; मिति, तारीख
+day; दिन
+deadline; म्याद
+deal; कारोबार
+debut; सुरुवात
+decision; निर्णय
+decoration; सजावट
+default; पूर्वनिर्धारित
+delete; नष्ट, हटाईयो, मेट्नु
+delimiter; विभाजक
+deliver; बुझाउनु, सुम्पनु
+denied; अस्वीकार
+departs; प्रस्थान
+deprecate; निषेद, प्रचलनमा नभएको, बेमञ्जूरी, पुरानो भएको छ
+depreciate; तुच्छ, ह्रास, घाटा, मूल्यापकर्ष, अपकर्ष,मोल घट्नु
+describe; वर्णन
+destination; गन्तव्य
+detail; विस्तृत, खुलस्त, बेलीविस्तार, नालीवेली
+development; विकाश
+deviation; विचलन
+device; यन्त्र(n), उपकरण
+diagonal; विकर्ण #math
+dialog; संवाद(n)
+direct; निर्देशन, प्रत्यक्ष, सीधा
+director; निर्देशक
+disable; अक्षम, असक्षम
+disallow; बन्देज
+discard; त्याग
+disclaimer; अस्वीकार, छाड्नु, अस्वीकार्त्व
+discovere; आविष्कार(n)
+dismiss; खारेज
+distribute; वितरण
+dividend; लाभांश #finance, भाजक #math
+divisor; भाजक #math, भाज्य #math
+divorce; पर पचुरो
+document; कागजात
+documentation; कागजीकरण
+dog; कुकुर #animal
+domain; प्रयोगक्षेत्र
+done; सम्पन्न
+door; ढोका(n)
+dot; थोप्ला
+down; तल
+draft; मस्यौंदा
+drop; खसाल्नु
+during; दौरानमा
+earning; कीर्ति
+earthworm; गड्यौंला #animal
+edge; किनारा
+editor; सम्पादक
+effect; प्रभाव(n)
+eggplant; भाण्टा #food
+electronic; विद्युतीय
+elephant; हात्ती #animal
+eligible; लायक, योग्य
+email; पत्र, पत्राचार, सन्देश
+embed; गाभ्न
+empty; खाली
+enable; लागु, सुचारु
+end; समाप्त, अन्त्य
+energy; उर्जा
+engagement; टीकाटालो, सम्बन्धन
+english; अंग्रेजी #language
+environment; पर्यावरण, वातावरण
+equal; उतिकै, समान
+erase; मेटाउनु
+error; भूल, गल्ती, त्रुटी
+estimate; अनुमान
+evaluate; मूल्यांकन
+evening; बेलुका, सन्ध्या
+event; घटना
+every; सबै, प्रतेक
+exact; ठ्याक्कै
+excerpt; अंश(n)
+execute; कार्यान्वयन
+exist; उपलब्ध, विद्यमान
+existing; चल्ति
+expand; विस्तृत
+expect; अपेक्षित
+expected; अपेक्षित
+experimental; प्रयोगात्मक, परीक्षण
+expire; म्याद #time
+exploit; उपयोग गर्नु, शोषण गर्नु, अन्वेषण
+exploits; शोषण
+explore; अन्वेषण
+export; निर्यात
+exposure; खुल्ला गरिएको समय
+extention; लम्ब्याउनु
+extreme; चरम
+facilitate; सजिलो बनाउनु, अगाडि लैजानु, सुगम पार्नु
+factory; कारखाना
+fade; बिलिन
+fail; विफल, अनउत्तिर्ण, असमर्थ
+failure; असफल
+feature; विशेषता, सुविधा
+feedback; प्रतिक्रिया
+field; क्षेत्र, फाँट(n)
+file; फाईल
+financial; वित्तीय
+fire; अागो
+first; पहिलो
+fish; माछा
+flight; उडान
+floor; भूईँ
+follow; अनुसरण, पालना
+force; बाध्यता
+foreground; अग्रभूमि
+forever; सदाका लागि
+format; ढाँचा, प्रारूप
+formula; सुत्र, विधी
+forum; फोरम
+foundation; जग, संस्थापन
+fourth; चौंथो
+free; स्वतन्त्र, निशुल्क, मुक्त
+freedom; स्वतन्त्रता
+friday; शुक्रवार
+frozen; स्तिर
+fullstop; पूर्णविराम #punctuation
+function; प्रकार्य
+game; खेल
+generation; पिढी
+generic; सामान्य, साधारण, व्यापक
+glossary; कम्प्युटर सम्बन्धी शब्दकोश
+go; जानुहोस्
+good; राम्रो, उत्तम, शुभ
+granularity; विघटन
+gray; खरानी #color
+green; हरियो #color
+group; समूह(n)
+guarantee; जिम्मेवारी
+guardian; संरक्षक
+guide; सलाकार, मार्गदर्शक मार्गदर्शी, निर्देशन
+gun; बन्दुक
+handwriting; हस्तलेख
+header; शीर्षक
+health; स्वास्थ
+height; उँचाई
+hello; नमस्कार
+help; सहयोग, मद्दत, गुहार
+high; उच्च
+historical; ऐतिहासिक
+history; ईतिहस
+hold; पकड, समात्नु
+holder; वाहक
+home; घर, गृह
+horizontal; तेर्सो
+hosting; सेवा प्रदायक
+hover; प्रतिगत, माउस लानुहोस्
+ice; बरफ
+icon; प्रतिमा
+id; परिचय
+idea; विचार(n)
+identify; पहिचान, परिचय
+ignore; उपेक्षा, बेवास्ता
+illegal; गयर कानुनी, अनियमित
+image; छवि(n)
+immediate; तत्काल
+impact; असर
+impliment; लागु, कार्यान्वयन
+import; आयात
+important; महत्वपूर्ण
+improve; सुधार
+inbox; पत्र टोकरी
+include; समावेश
+incoming; आगमन
+incomplete; अधूरो
+incorrect; गलत
+increase; वृद्धि
+indent; ठाँउ छोड्नुस्
+index; अनुक्रमणिका
+indicate; सूचक, देखाउनु, जनाउनु, खुट्याउनु, औंल्याउनु
+infinity; अनन्त,  अनगिन्ती, असंख्य, अगण्य
+information; सूचना
+infrastructure; पुर्वाधारमा
+infringe; उल्लंधन
+initialization; थालनी
+ink; मसि
+inning; पारी
+input; निवेश, दिखिल
+insert; सम्मिलित, घुसाउनु
+integrate; एकीकरण
+interact; अन्तर्क्रिया
+interest; [इन्'टरिस्ट्] ना. र क्रि, स्वार्थ, हित, चाख, लाभ, हक, अधिकार, सरोकार, रुचि, कुतूहल, ब्याज, मतलव, वास्ता, चासो, परवाह, रोचक
+interface; अवरण प्रणाली
+interfere; हस्तक्षेप
+intersect; प्रतिच्छेद
+introduction; परिचय
+intuitive; सहज ज्ञान
+invalid; अबैध
+invite; निम्तो
+issuer; वितरक
+italic; छड्के, तेर्सो
+join; जोड
+journey; यात्रा
+keyword; मुख्य शब्द
+kite; चँगा
+lamp; बत्ती
+land; भुमी, घरती, जमीन
+landing; अवतर्ण
+landscape; परिदृश्य
+language; भाषा
+last; पोहोर, अन्तिम
+later; पछि
+launch; प्रक्षपण
+layout; रूपरेखा
+leader; नाइके, नायकक, अगुवा, नेता
+left; बाँया
+legacy; विभुती, विरासत
+length; लम्बाई
+letter; चिठ्ठी(n), वर्ण
+level; स्तर, श्रेणी, तह
+liable; जबाफदेही, उत्तरदायी
+library; पुस्तकालय, संग्रह
+licence; <wonder>
+license; अनुमतिपत्र, अनुज्ञा 
+life; जीवन
+like; इछुक्क, चाहना, मेल खाने
+list; सुची
+live; प्रत्यक्ष
+local; स्थानीय
+locale; स्थानीय
+location; स्थान
+log; दर्ता प्रतिबेदन
+logarithm; लघुगणक #math
+look; आवरण, देखाई, हेर्नु
+loop; फेरी
+lucky; भाग्यमानी
+main; मुख्य
+make; बनाउनु
+malware; हानिकारक अनुप्रयोग
+man; मान्छे, मानिस #animal
+manage; समायोजन, व्यवस्थापन
+manual; हातले गरेको, अस्वचालित, निर्देशन पुस्तिका
+margin; सिमाना, सीमान्त
+mark; अङ्कित, चिन्ह
+math; गणित #math
+mature; परिपक्व
+maximize; वृद्धि
+may; सायद
+maybe; सायद, सम्भाव्य
+me; म
+medicine; अौषधी
+medium; मध्यम
+memory; स्मृति
+merge; विलय
+message; सन्देश
+micro; सूक्षम
+middle; मध्य
+migration; प्रवास, सर्नु, सार्नु
+mine; मेरो
+minimize; न्यूनिकरण, लुकाउनुहोस्
+miscellaneous; विविधता
+mislead; भ्रामिक
+miss; हराएको
+mode; प्रकार
+model; नमुना
+moderate; मध्यस्थकर्ता, परिमार्जन
+modify; परिमार्जन, संसोधन
+monday; सोमवार #time
+monitor; अनुगमन, निगरानी
+month; माहिना #time
+monthly; मासिक #time
+mood; भाव, अवस्था
+morning; बिहान, प्रभात #time
+motive; प्रेरणा, उद्देश्य
+mount; चढाउनु
+move; चाल, सर्नु, स्थानन्तरण
+movie; चलचित्र
+must; निक्ष्चित
+mute; मौन, शान्त गर्नुहोस्
+name; नाम(n)
+navigate; पथ प्रदर्शक, निर्देशन
+navigation; दिशानिर्देश, निर्देशन
+negative; कम, नराम्रो, होईन, फोटो रिल, नकारात्मक
+network; संजाल, सञ्जाल(n)
+new; नयाँ
+news; समाचार, खबरहरु
+next; अर्को
+nice; राम्रो
+night; राती #time
+none; कुनै पनि होइन
+nose; नाक
+notable; चर्चित
+notice; सुचना
+notification; अधिसूचना
+numbering; क्रमाङ्कन(n)
+numeric; संङ्यात्मक
+object; भैतिक, वस्तु
+objective; लक्ष्य
+occupy; ओगट्नु
+off; निस्क्रिय
+old; पुरानो
+on; सक्रिय
+operation; सञ्चालन, कार्य संचालन
+operator; सञ्चालक, परिचालक, कारवाई
+option; विकल्प
+or; अथवा
+orange; सुन्तला
+order; क्रमबद्ध, शासन, अनुक्रम, हुकुम, आदेश, माग
+organization; संस्था
+organize; व्यवस्थापन, संगठित
+organized; व्यवस्थित
+orientation; अभिमुखिकरण
+outline; रुपरेखा
+output; निकास, निक्‍‍र्योल
+ownership; स्वामित्व
+ox; साँडे #animal
+package; पोका
+page; पृष्ठ
+panel; पट्टी
+paper; कागज
+paragraph; अनुच्छेद(n)
+parent; अभिभावक
+part; हिस्सा, खण्ड, अंश
+partially; आंशिक
+paste; टाँस्नु
+path; मार्ग
+pattern; ढाँचा
+pause; रोक्नु
+pay; [पे], बदला, मुल्य, दान, किस्ता, तलब
+payback; तिर्नु
+payoff; भुक्तानी, चुक्ती, चुक्ता
+payment; भुक्तानी(n), चुक्ता, चुक्ती
+pending; थाँति
+people; मानिसहरु
+percentage; प्रतिशत
+perform; सम्पन्न
+permission; स्वीकृति, अनुमति, ईजाजत
+phishing; छक्काउनु
+phrase; पदावली
+picture; तस्वीर
+pie; वृत्तांश(n) #math #food
+pink; गुलाबी #color
+piracy; चोरि पैठारि
+plain; साधारण
+plan; योजना
+play; चलाउनु
+point; बिन्दु #math
+police; प्रहरि
+policy; बिधान, नीति
+polygon; बहुभुज(n) #math
+popular; चर्चित
+popularity; लोकप्रियता
+position; स्थान
+positive; थप, हुन्छ, सहमति, राम्रो
+powered; संचालित
+preference; वरियता, प्राथमिक्ता
+presentation; प्रस्तुती, प्रस्तुतिकरण
+press; पत्रकार, थिच्नु
+preview; पूर्ववलोकन
+previous; अघिल्लो
+principles; सिद्धान्त
+print; छपाइ, मुद्रण
+priority; प्राथमिकता
+private; निजी
+privilege; विशेषाधिकार(n)
+probability; सम्भावयता
+problem; सम्स्या
+procedural; कार्यविधीसम्बन्धी
+process; प्रणाली, पद्दति, प्रक्रिया
+product; उत्पादन
+profit; नाफा, लाभांश
+progress; प्रगति
+project; परियोजना
+promise; क्रिया
+promotion; प्रचार
+property; विशेषता, गुण
+proportionally; समानुपातिक
+protection; सुरक्षा
+provider; प्रदाता
+public; सार्वजनिक
+punch; मुक्का
+pure; शुद्ध
+purple; बैजनी, प्याजी
+purpose; प्रयोजन
+quality; गुणस्तर
+queen; रानि
+query; जिज्ञासा, प्रश्‍न
+quick; द्रुत, छरितो
+quote; उद्वरण
+rate; मूल्याङ्कन, दर
+raw; कोरा, कच्ची, अप्रशोधित
+recent; हालै, बर्तामान, भरखरै
+recommend; सिफारिस
+record; अभिलेख, कागजपत्र
+recover; पुन प्राप्ति
+recycle; पुन:प्रयोग
+redeem; प्रायस्चित, निविकरण, दावेदारी
+reference; सन्दर्भ
+refresh; नविकरण
+refurbished; राम्रो बनाउनु
+regards; सम्मान
+register; दर्ता, पंजीकरण(कृत)
+reject; अस्वीकृत(n)
+relevance; सम्बन्धी
+reminder; अनुस्मारक
+remove; निष्कासन
+render; प्रतिपादन
+renovate; जिर्नसम्भार
+rent; भाँडा
+repair; मर्मत
+repeat; दोहर्याउ
+replace; बदल्नुहोस्, प्रतिस्थापन, विस्थापित
+report; उजुरी, प्रतिवेदन
+reposition; पुनस्थानाकरण
+represent; प्रतिनिध, देखाउनु
+representative; प्रतिनिधित्व
+request; अनुरोध
+reset; पुन:स्थापना
+resolution; संकल्प, समाधान
+response; प्रतिक्रिया
+restore; पुनर्स्थापना, पुन बहाली
+result; परिणाम
+resume; पुन: थाल्नु, जारी राख्नुहोस्
+reveal; प्रकट, प्रस्फुटन
+revenue; आय
+review; समीक्षा, पुन:अवलोकन
+revision; संशोधन
+revoke; रद्द, खारेज
+revolution; क्रान्ति
+right; दाँया, ठिक
+rights; अधिकार
+room; कोठा
+rose; गुलाफ #plant
+rotation; परिक्रमण
+round; गोलाकार
+row; पंक्ति, पङ्क्ति(n)
+royalty; राजस्व
+rsvp; असमर्थताको लागी
+run; सञ्चालन(n), चालु
+runtime; चालु अवधि
+saturday; शनिवार #time
+save; बचत(n), संचय, संग्रह, सुरक्षित
+scalable; मापनयोग्य
+scene; दृश्य
+schedule; समय तालिका #time
+science; विज्ञान
+script; लिपि
+search; खोज
+second; दोस्रो, सेकेण्ड #time
+section; खण्ड
+sector; भाग(n)
+see; हेर्नु
+seed; पुञ्ज
+segment; खण्ड(n)
+select; चयन
+selection; छनौट
+sensitive; सम्वेदनशील
+series; श्रृंखला
+service; सेवा
+session; सत्र
+set; स्थापना, मिलाउनु, तोक्नु
+shade; छायाँ(n)
+shadow; छायाँ
+shape; आकृति
+share; साझेदारी, बाँड्नु
+shipping; धुवाणी
+shirt; कमिज
+shopping; किनमेल
+simple; साधारण
+size; अाकार
+social; सामाजिक
+solid; ठोस
+solution; समाधन
+sort; क्रमबद्ध, अनुक्रम
+soundtrack; ध्वनिट्रयाक
+space; खाली, स्थान
+spare; जगेडा
+special; विशेष, विशिष्ट
+specific; निष्चित, निर्दिष्ट, उल्लेख
+speed; गति(n)
+spell; हिज्जे
+split; विभाजन
+square; वर्ग
+standard; स्तर, मानक
+start; आरम्भ
+state; राज्य, अवध
+stats; तथ्याङ्क, आंकडा
+status; वस्तुस्थिति(n)
+step; पाइला, कदम
+stop; बन्द गर्नु, रद्द
+store; भन्डार
+stream; प्रसारण
+string; अक्षर, घागो
+study; अध्ययन
+style; ढाँचा, शैली
+sub; उप #subsection
+subject; विषय
+submit; पेश, बुझाउने
+subscription; सदस्यता
+substance; तत्त्व
+suggestion; सुझाव
+summary; सारांश
+summer; ग्रीष्म ऋतु
+sunday; आइतवार #time
+supervise; निगरानी
+support; समर्थण, थाम्नु, टेवा , सहयोग
+sure; पक्का, निश्चित, ठोकुवा, नि:संशय, पक्कापक्की, निरापद, भरपर्दो, बिश्वानिय, नि:संदेह
+suspend; निलम्बित
+swap; साट्नु
+symbol; चिन्ह
+synchronize; संयोजन, एकत्तित्र गरि बँड्नुहोस्, समिकरण
+system; प्रणाली(n), पद्दति
+table; तालिका
+tamper; अनधिकार फेरबदल, बहकाउनु, भ्रष्ट
+tap; छुनु, घारा, टक्टकाउनुहोस्
+target; लक्ष्य
+team; टोली
+technology; प्रविधि(n)
+television; टेलिभिजन
+template; नमुना
+term; शब्द
+test; परिक्ष, जाँच
+text; पाठ
+theme; सामग्री, आवरण, विषयवस्तु
+thick; बाक्लो
+third; तेस्रो
+thursday; बिहिबार #time
+time; समय #time
+title; शीर्षक
+toggle; फेर बदल
+tool; उपकरण, औजार
+top; माथि, शीर्ष
+touch; स्पर्श
+tour; भ्रमण, पर्यटन
+track; अनुगमन
+traditional; परम्परागत
+transaction; लेनदेन
+transfer; स्थानान्तर
+transition; फेर्ने क्रम
+transparency; पारदर्शिता
+trapezoid; चतुर्भुज
+trash; फोहर
+trend; प्रचलन, चलन, प्रवृत्ति
+trip; यात्रा
+truncate; काटछाँट
+trust; विश्वस
+trusted; विश्वसनीय
+try; प्रयास, प्रयत्न
+tuesday; मङ्गलवार #time
+tutorial; पाठ्य सामग्रीहरू, पाठ्य क्रम
+type; प्रकार
+undo; पूर्ववत
+unexpected; अनुपेक्षित
+uninstall; निकाल्नुहोस्
+university; विश्वविद्यालय
+unknown; अज्ञात
+until; सम्म
+untitled; शीर्षक विहिन
+unusual; असाधारण
+up; माथी
+update; परिमार्जन, अद्यावधि
+user; प्रयोगकर्ता
+valid; मनासीब, सदर, जायज, पुष्टि
+validate; सदर गर्नु, थाम्नु, कायम गर्नु, प्रमाणिकरण
+value; [भ्या'ल्यू], मुल्य(n), महत्व(n), मान(n), भाउ, दर. मोल
+price; [प्राइस्], मुल्य(n), मान(n), भाउ, दर. मोल
+velvet; मखमली
+verify; प्रमाणित, रुजु, जाँच, निरीक्षण
+version; संस्करण
+vertical; ठाडो
+vibrate; काम्पना
+video; दृश्य
+view; अबलोकन, दृश्य
+visitor; अगान्तुक
+voila; ओहो
+wallpaper; भित्ते कागज
+warranty; जमानत
+waste; खेर
+watch; हेर्नु, घडी
+water; पानी
+wave; तरंग
+weather; मौसम
+wednesday; बुधवार #time
+week; हप्ता, सप्ताह #time
+weekly; साप्ताहिक #time
+welcome; स्वागत
+wepond; हतियार
+white; सेतो
+whoops; लाऽऽ
+width; चौडाइ
+wind; हावा
+wing; पखेटा
+word; शब्द
+work; कम, कार्य
+world; विश्व, संसार
+year; वर्ष #time
+yearly; वार्षिक #time
+yellow; पहेंलो #color
+yield; प्रतिफल
+you; तपाईँ
+zone; क्षेत्र
+synthesis; संश्लेषण
+determine; निर्धारण
+deploy; वितरण
+personal; व्यक्तिगत
+font; वर्ण
+organizer; आयोजक
+keyboard; कुञ्जीपाटी
+emotion; भाव
+ray; किरण
+beam; किरण, दलिन
+sun; सुर्य, घाम
+instruction; निर्देशन
+owner; घनी, मालिक
+survey; सर्वेक्षण, नापी
+meeting; बैठक
+driving; हाँक्नु
+transit; परागमन
+decimal; दशमलव #math
+binary; दोवर, द्विगुनीय #math
+octal; अष्ट अाधार #math
+hexadecimal; षोडश आधार, सोह्रनिय #math
+drawing; चित्रण
+mail; पत्र
+party; पक्ष
+acceleration; द्रुत सन्चालन
+age; बर्ष
+vegetable; तरकारी
+milk; दुध
+rice; घान, भात, चमल
+bid; बोलपत्र
+hell; नरक
+significance; अर्थ, महत्त्व, सार्थता
+significant; सार्थ, अर्थयुक्त
+silence; मौन, मौनता, चुप
+dandruff; चाया
+condition; अवस्था, शर्त, हालचाल, नियम
+brave; विर
+bear; भालु
+bag; भोला
+define; परिभाषा, व्याख्या, किटान
+degree; पद, श्रेणी, दर्जा, उपाधि, मात्रा, तापमान
+either; कुनै पनि
+array; बिन्यास, रचना
+more; थप, अतिरिक्त, बढि
+direction; दिशा
+flag; झण्डा
+kitten; ङ्याउरो, बिरालोको छाउरो
+issue; जारी, निर्णय, प्रश्‍न, विषय, मामला, मुद्दा
+settlement; समझौता
+security; सुरक्षा, धितो #finance
+protect; सुरक्षा, बचाउनु
+maturity; परिपक्वता
+indicator; सुचक
+principle; साँवा #finance
+separate; बिभाजित
+protocol; कूटनैतिक लेख, सन्धित्र, मसौदा, बडापत्र, लालमोहर, प्रशस्ति
+conference; सम्मेलन
+please; कृपया
+band; बन्देज
+great; बडा, बिशाल, महा, माहान्, बृहत, हपार, ठूलो, श्रेष्ठता, बडाइ
+return; फर्काउनु, प्रत्यावर्तन, बदला, तिर्नु
+discount; छूट #finance
+divide; भाग, बिभाजन #math
+quotation; उद्धरण
+appreciating; अधिमूल्यन
+complementary; पूरक
+maximum; अधिकतम
+minimum; न्यूनतम
+multiply; गुणा(n) #math, गुणन(v) #math, बढाउनु,
+sum; योगफल, जम्मा
+varience; असंगति #math #stats
+wireless; बेतार, तार रहित
+wire; तार(n)
+witch; बोक्सी(n)
+whole; सम्पुर्ण, समग्र, सिंगो, पूर्ण, पूरा
+otherwise; अन्यथा
+compare; दाँज्न, तौलनु, तुलना
+strict; तीक्ष्ण, तीब्र, कडा, कट्टर, दह्रो, दृढ
+serious; सख्त
+minister; मन्त्री
+different; फरक
+optional; वैकल्पिक
+rules; प्रावधान
+request; अनुरोध, विनति, बिन्ति, प्रार्थना, माग, याचना, इच्छा, आकांक्षा
+route; जाने बाटो
+topic; विषय, प्रसंग, विषय वस्तु
+equation; समीकरण
+provision; प्रबन्ध, व्यवस्था, बन्दोबस्त, तयारी, विधान, कानुनी व्यवस्था, प्रावधान
+resource; आवश्यकता, स्रोत, उपाय, साधन
+unique; अनुपम(n), बेजोडा(n), अद्धितीय(n)
+master; मालिक(n), प्रभु(n), गुरु(n), स्वामी(n), हर्ताकर्ता(n), आचार्य(n), श्रेष्‍ठ(n), सानोकेटो(n), जित्‍नु(v), हराउनु(v), अधीनमा ल्याउनु(v), ज्ञान आर्जन गर्नु(v), निपुण हुनु(v)
+ascend; उक्लनु(v), चढ्नु(v), उकालो(n), उकाली(n)
+altitude; उचाई
+atomic; आणविक
+installment; किस्ता
+yeild; उपज
+purchase; खरीद
+present; अहिले, उपहार, प्रस्तुत, वर्तमान
+general; सामान्य
+bill; कागते नोट
+temporary; अस्थाई
+dark; गाढा
+anchor; आड
+bond; ऋणपत्र
+inverse; प्रतिलोम #math
+hyperbolic; अतिपरवलयिक #math
+period; अवधि, नियमित, पूर्णविराम #punctuation
+origin; ना (व /प्रा/ भू /ग), उद्‍‍भव, उत्पत्ति, आरम्भ, मूलबीज हेतु, उत्पत्तिसूत्र, आविर्भाव
+inclusive; निहित
+quartile; चतुर्थको
+minature; लघु
+odd; बिजोड
+factorial; क्रमागुणित
+compare; तुलना
+numeric; सांख्यिक
+non; गैर
+depretiation; अवमूल्यन
+expression; अभिव्यक्ति
+irregular; अनियमित
+death; शेष
+real; वास्तविक
+if; यदि
+else; अन्यथा
+opposite; उल्टो, बिपरित
+certainty; ना (ग), निश्‍चितता
+means; उपाय, चारा, साधन; आर्थक स्थिति, गल्छे, औकात, अर्थ
+amount; [अमाउण्ट्'], मात्रा, रकम(n), राशि(n), परिमाण(n), धन(n),  पूँजी
+annuity; [अन्यु'इटि], जीउनी(n), भत्ता(n), बार्षिकी
+number; [नम्'बर्], सङ्ख्या(n), अङ्क, गन्ती, गिनती, गणना, राशि, लगत, पटक
+salvage; [स्याल्'भज्], उद्धार, निस्तरण, माल जोगाउनु, बचाउनु
+periodic; [पअ^रिअ'डिक्], यथाक्रम, नित्य, सामयिक, आवधिकता, नियमित
+future; [फ्यू'चर्], भविष्‍य, पछि, परन्तु, कालकला, भावी
+invest; [इन्‌भेस्ट्'] लगानी
+investor; [इन्‌भेस्ट्‌र] लगानीकर्ता
+investment; [इन्‌भेस्ट्‌मेन्ट], प्रतिष्ठापन, निक्षेप
+effective; [एफेक्‌'टिभ्], घतलाग्दो, प्रभाकारी, कार्यसाधक, निष्पादक
+desire; [डिजायर्], कल्पनु, इच्छा, रहर, चाहनु, मनसाय, धीत,आकांक्षा, अभिलाषा
+cumulative; [क्यु'म्युलेटिभ्], सञ्चिति
+against; [अगेन्स्ट्'] उ, विपरीत, विरूद्ध, उल्टो, बाङगो
+after; [आफ्'टर] तत्पश्चात्, अनि, उपरान्त, पछि, उप्रान्त, भावी
+loan; [लोन्], रिन(n), ऋण(n), सापट(n), पैचो(n), कर्जी(n), उधार(n)
+buy; [बाइ], किन्नु
+buyer; [बाइयर्], क्रेता, खरिदकर्ता
+install; [इन्स्'‌टाल्'], स्थापना, स्थापित, प्रतिष्‍ठा
+parameter; [पञ्या'मिटर्], सिमा, परामिति
+treasury; [ट्र'झरि], ढुकुटी, भाण्डागार
+relative; [रि'लेटिभ्], वि, ना, सापेक्ष, सापेक्षिक, आपेक्षिक, अपेक्षाकृत, सम्बन्धित, नातावाल, साइनेहरू; बान्धव, सगोत्री, जाति बारादरी, कुल कुटुम्ब, नातागोता, स्वजन, आफन्त; (ने.) थथिति, फुकी।</Text>
+frequency; [फ्रि'क्वेन्सि], ना, नित्यता, बहुतायत, पटक, आवृति, छिटोछिटो, धाउनु, तारन्तार
+tournament; [टुअ^र्‌-,टुअ^र्‌'नमेन्ट्], ना, तमाशा, खेल, प्रतियोगिता
+round; [राउन्ड्], डल्लो, गोल, वर्तुल, वृत्ताकार, मण्डल, फन्को, वरिपरि, घुमाएर
+logic; [लजिक्], ना. तर्कशास्त्र, वैशेषिकशास्त्र, युक्ति, जोर, यौक्तिक
+compute; [कम्प्‍यूट्'] क्रि, गन्नु, हिसाब गर्नु, गणन(n)
+fit; [फिट्], ना, वि, क्रि, ठिक्क, लायक, सुहाँउदो; मिलाउनु, ठिक्क, छाँट्नु, योग्यता, स्वस्थता
+probability; [प्रँ' बबिलिज्म्], ना(ग/र/व), आर्षोक्तिवाद, सम्भाव्यता
+limit; [लि'मिट्], ना, क्रि, सीमा, हद, परिधि, दायरा, बन्देज, मात्रा, हुनसम्मको, पराकाष्‍ठा, हकबन्दी, असह्यय, म्याद, रोक, हदबन्दी
+mean; [मीन्], ना, वि, क्रि, मध्यमान,  मध्यम, बीचको, जाबो, तुच्छ
+correspond; [करेस्‌पण्ड्], ल्रि, अनुरूप हुनु, संगत हुनु, चिट्ठीपत्र, संवाददाता, सम्पर्क
+predict; [प्रिडिक्ट्'], क्रि, भविष्यवाणी
+skew; [स्क्यू], वि,ना, तेर्सो, बाङ्गो टाँड परेको
+duplicate; [डयू'प्‍लिकेट्], वि, ना, क्रि, नकल, दोहोरो,  नकल्ली(n)
+interpret; [इन्‌टअ^र्'प्रेट्], व्याख्‍या, अर्थाउनु, दोभाषे, विवेचन
+random; [र्‍यान्‌'डम्], ना, वि, फाटफुट, बेसुर, यादृच्छिकीकरण, आकस्मिक
+balance; [ब्या'लन्स्], ना, क्रि, तराजु, सन्तुलन, बाँकी, मौज्दात, पूँजी, वासलात #finance
+map; [म्याप्], ना, क्रि. नक्शा, मानचित्र
+interval; [इन्'टर्‌भल्], ना, मध्यान्तर, अंतर, विराम, अंतरावधि
+repeat; [रिपील्'], क्रि, ना, दोहोर्‍याउनु, घोक्नु,  पुनरावृति, वारंवार, लगातार
+constant; [कन'स्टयाण्ट्], वि, ना, स्थिर, अचल, स्थायी, शाश्‍वत, नियत, नित्य, स्थायी
+remainder; [रि'मेन्'डर्], ना (का), उबार, बाँकी, बक्यौता, मौजदात, बचेको
+remain; [रिमेन्'], क्रि, ना, बच्नु, बाँकी, जोगिनु; रहनु, वास गर्नु, हुनु, चलिरहनु, भइरहनु, बाँकी, बचत, अवशेष, लाश, मृत शरीर; कसर, थेग्रो, निचोड, जगेर्ना
+coerce; [कोअ^र्‌स्], क्रि, नत्थ्याउनु, करेप्नु, बलजफ्त, जवरजस्ती, करलगाउने
+notation; [नोटे'श्‍न्] ना, अङ्का, विद्दा; संख्या, परिमाण, संकेतलिपि
+element; [ऐलिमेन्‌'ट], वि,  तत्त्व, वायु, अग्‍नि, जलको; सारभूत, सरल, बिना यौगिक, निम्न, वस्तु
+unit; [यू'निट्] ना, समूह, एकाइ, इकाइ, अदत, टुकडी, टोली, परिणाम, संख्या, एकांकी #unit
+range; [रेञ्‍ज्], क्रि, ना. पर्वत, लाइन, खण्ड, श्रेणी, स्‍िथति, दूरी, ढाक्नु, दायरा, श्रृंखला, सीमा
+key; [की], ना, क्रि. साँचो, कुञ्जी, मुख्य
+he; उ
+she; उनी
+match; [म्याच्], ना, क्रि, जोडा, प्रतिद्वन्दी, सामान, प्रतियोगिता, खेल, मिलाउनु, जोडा सिद्ध हुनु, लडाउनु, जुधाउनु, बेजोडा, अजोड, मेल
+fact; तथ्यहरू
+consider; [कनसि्डर्], विचारशील, वास्ता
+provide; प्रदान
+mode; [मोड्], ना, रीति, विधि, काइदा, तरीका, पद्धति, ढाँचा
+separator; विभाजक
+case; खण्ड
+variance; असंगति
+pass; पार
+worst; चुत्थो
+best; सर्वोत्तम
+transparent; पारदर्शी
+inherit; वंशागत
+dictation; श्रुतिलेखन
+hate; निकृष्ट
+impression; अभिब्यक्ती
+remote; दुर्गम
+demo; छोटो प्रदर्शन गर्नु
+republic; गणराज्य
+better; सुधार
+proprietary; हकदावी
+configuration; विन्यास, छनोट
+command; आदेश
+tax; कर
+income; आय
+example; उदाहरण
+scroll; सार्नु
+pocket; गोजी
+functional; कार्यात्मक
+super; अत्भुत
+pressure; दबाव
+convocation; दिक्षान्त
+initial; प्रारम्भिक
+verification; प्रमाणिकरण
+generate; निकाल्दा
+statistical; सांख्यिकीय #stats
+confuse; अलमलिनु(v), रल्ल्याउनु, गोलमाल
+vote; मत
+constitution; संविधान
+election; निर्वाचन
+delivery; प्रसुत्ती
+hushed; नम्र हुँदै
+sweat; पसिना
+capture; खिच्दै
+disappointed; निराश #emotion
+flushed; चुरिफुरि #emotion
+scared; डराएको #emotion
+pouting; अमिलिदै
+grimacing; दाँह्राकिट्दै #emotion
+grinning; दाह्राकित्त्दै #emotion
+winking; झिम्काउँदै #emotion
+neutral; तटस्थ
+anguish; ना. बह, मर्म, विरह, वेदना, रनाहा #emotion
+dizzy; [डि'जि] वि. रिंगटा लागेको, ना. रिंगटा, चक्कर, भाउन्ना, रन्थनिनु
+smirk; [स्मर्क्] क्रि, ना, नआएको हाँसो गर्नु, मसक्क पर्नु, मक्ख, स्वाँग पार्नु #emotion
+heart; हृदय, मन
+raise; उठाउँनु
+pensive; चिन्ताग्रस्त #emotion
+confound; अलमल्ल #emotion
+relieve; राहत #emotion
+unamuse; विच्किनु #emotion
+astonish; चकित #emotion
+scream; चिच्याँउनु #emotion
+worry; चिन्ता #emotion
+weary; थकित #emotion
+fearful; भयभीत #emotion
+sleep; सुत्दै
+cry; रूनु #emotion
+angry ; रिसाउनु #emotion
+confuse; दुबिधा #emotion
+keep; जारी, राख्नु
+multiplicand; गुण्य #math
+expression; अभिव्यञ्जन #math
+quotation; उद्धरण #math
+power; घाताङ्कमा #math
+minuend; वियोज्य #math
+derive; प्रत्युपादन
+product; गुणाफल #math
+logical; तार्किक #logic #math
+logarithm; लघुगणक #math
+retain; [रिटे'न्], कायम, थाम्नु, नहराउनु
+instance; [इन्'स्टन्स्] ना. र क्रि. दृष्‍टान्त, उदाहरण, अनुरोध
+pressure; [प्रे'श्‌र्] ना. पीडन, बल, शक्ति, भार, थिचाइ, चटारो, धपेडी, दवाव, चाप, कष्ट
+experience; [एक्सपि'य्‍िरएन्स्] अनुभूति, अनुभव, मेलो, अनुभोग, चेत. ज्ञान, पाको।
+extreme; [इक्स्ट्रीम्'] वि. उग्र, घनघोर, कट्टर, चरम, पराकाष्‍ठा
+occure; [अकअर्'] क्रि हुनु, पाइनु, रहनु, मनमा आउनु, घट्नु, पर्नु
+motion; [मो'शन्] ना. क्रि. चाल, प्रस्ताव
+track; [ट्रयाक्] ना क्रि, बाटो, मार्ग, गोरेटो
+inherit; [इन्‌हे'रिट्] क्रि. वंशागत, परम्परागत, उत्तराधिकार
+disruption; अवरोध
+design; [डिजाइन्] n क्रि. परिकल्पना, योजना, बुट्टा
+smart; [स्मार्ट्] क्रि, n तीक्ष्ण, तेज, चलाक, सिपालु, टाठो, बाठो
+enter; दर्ज
+method; विधि
+fluction; उतार चढाव
+privacy; गोपनीयता
+partial; आंशिक
+seamless; समेकित
+warehouse; गोदाम
+abandon; त्याग्‍नु, छोड्नु
+pregnant; गर्भावस्था
+weight; भार
+abrupt; अचानक
+voice; आवाज
+fast; चाँडो, छिटो
+sets; अस्ताउनु
+executive; कार्यकारी
+statement; विवरण
+reply; [रिप्लाइ] क्रि, ना जवाफ दिनु, प्रतिउत्तर गर्नु, उत्तर
+discuss; [डिस्‌कस] क्रि, छलफल, चर्चा, विवाद गर्नु, बहस(n)
+sensor; [सेन्‌'सर] ना, सचेतक
+count; [काउन्ट] क्रि, ना, गन्नु, गन्ती, गणना
+countdown;  उल्टोगन्ती
+accuracy; सटीकता
+clockwise; [क्लँक्'वाइज्] दक्षिणावर्त
+counter-clockwise; [काउण्टवर्-क्लँक्'वाइज्] क्रि. वि. वामावर्त
+offer; [अफर्] क्रि, ना, प्रस्ताव, चढाउनु, टक्रयाउनु, बलि, अर्पण, सौगात, उपहार
+tough; [टफ] वि, ना चाम्रो, कडा, द‌‌ृढ, बलियो, कडा, सख्त, गुन्डा
+dependent; आश्रित
+pane; फलक
+research; अनुसन्धान
+market; बजार
+drawer; [ड्राअयर] ना. घर्रा
+underline; रेखाङ्कन
+strikethrough; बिचबाट काट्नु
+line; [लाइन्] ना क्रि, लाम, रेखा, पंक्त, रेखा, सूत्र, लाइन, क्रम, तार, वंश, धर्को, पंक्ति
+times; चोटि, पटक
+lodging; बास
+museum; संग्रहालय
+short; संक्षिप्त
+opinion; विचारहरु
+confirm; साँचि
+expert; [एक्स् पअ र्‌ट] ना. विशेषज्ञ, सिपालु, जान्ने, पारखी, खपीस, दक्ष, निपुण, विज्ञ, पोख्‍त
+deal; [डील्] ना, क्रि. कारोबार, लेनदेन
+treat; [ट्रिट] क्रि, ना. व्यवहार गर्नु; बेहोर्नु; उपयोग, सेवन
+understand; बुझाउने
+professional; [प्रो] उ, ना पेशावर
+natural; प्राकृतिक, नैसर्गिक
+persian; फारसी
+contribute; [कन्‌ट्रब्युट्] क्रि. दिनु, तिर्नु, चन्दा, दान, देन, अनुदान, अवदान, योगदान, दाय, दत्त
+appropriate; [अप्रो'प्रिएट्] क्रि, वि. उचित, समुचित
+grammar; व्याकरण
+technical; प्राविधिक
+fluent; पोख्त
+tourist; पर्यटन
+cast; प्रसारण
+achievement; उपलब्धि
+gift; उपहार
+wish; इच्छा
+invitation; निमन्त्रण
+scoreboard; अङ्कतालिका
+abuse; [अब्युस्] ना, क्रि,दुरूपयोग,निन्दा, तथानाम, दुव्र्यवहार गाली गर्नु, झपार्नु, हप्काउनु
+associate; अनुबन्ध
+config; तैयार
+dimension; [डिमेन्'श्‌न] ना. आयाम, परिमाण
+escape; [एस्‌केप] क्रि, ना. उम्कनु, फुत्किनु, जोगिनु, सुइँकिनु, कुर्कुच्चा ठोक्नु, सट्किनु, भाग्नु, पलायन
+promote; बढुवा
+deactive; निष्क्रिय
+sign; [साइन्] ना, चिनु, चिन्ह, इशारा, लक्षण, संकेत, भाउ, हस्ताक्षर, निशाना, दस्तखत, सही
+prefer; [प्रिफअर्] क्रि, रुचाउनु, छनौटे
+depend; निर्भर
+face-to-face; साक्षात
+regular; नियमित
+refund; [रिफन्ड्] क्रि, ना. खर्च फिर्ता, वापसी 
+refund; वापसी
+risk; जोखिम
+behalf; मार्थमा
+criteron; [क्राइटिय्'रिअन्] ना. सिद्धान्त, आदर्श, लक्षण, पहिचान, मापदंड
+criteria; मापदंड
+kindergarten; [किन्'डरगाअ^र्‌टन] न, शिशुशाला, शिशुउद्यान
+student; [स्ट्यू'डेन्ट्] ना, विद्यार्थी, छात्र, शिष्य
+scholorship; छात्रवृत्ति
+education; शिक्षा
+toddler; बामे सर्न बच्चा
+partner; [पार्‌ट्'नर्] ना. र क्रि. साथी, हिस्सेदार, साझेदार, सम्झौटा, सहभागी, भागी
+functionality; कार्यक्षमता
+role; भूमिका
+link; [लिङ्क] ना, क्रि. कडी, बन्धन, श्रृङ्खला, साँग्लो; राँको,  जोर्नु, संलग्न गराउनु
+require; अनिवार्य
+need; आवश्यक
+restrict; प्रतिबन्ध
+co-workers; सहकर्मी
+overall; समग्र
+individual; [इन्डिभि'ड्‌यूअल्] ना, वि, व्यक्ति, विशिष्‍ट्, व्यक्तिगत, जनही
+decrease; गिरावट
+avoid; [अभाँयड्] क्रि. छल्नु, टार्नु, त्याग्नु
+tip; सुझाव
+fix; [फिक्स्] ना, क्रि जडान, सुधार, हल, सुद्यृत
