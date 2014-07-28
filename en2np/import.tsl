@@ -1,37 +1,62 @@
 data; डेटा
-browser; ब्राउजर
 chocolate; चकलेटी
-computer; कम्पूटर
-download; डाउन्लोड
-drive; ड्राइभ
 engine; इन्जिन
 extention; एक्सटेंशन
 filter; फिल्टर
 focus; फोकस
-folder; फोल्डर
 gallery; ग्यालरी
-keyboard; किबोर्ड
 media; मेडिया, संचार
 mobile; मोबाइल
-monitor; मनिटर
-nepali; नेपाली
 phone; फोन
 record; रेकर्ड #media
 roaming; रोमिङ
 screen; स्क्रिन
 second; सेकेण्ड
-server; सर्भर
 setting; सेटिङ्ग, तैयार, @set*
-slide; स्लाइड
-software; सफ्टवेयर
 switch; n(स्वीच)
 tablet; ट्याबलेट
 traffic; ट्रफिक
-wifi; वाई-फाई
 icon; आइकन
-link; लिङ्क
 charging; चार्जिङ्
 bank; बैंक
 february; फेब्रुअरी
-june; जुन
-nepal; नेपाल
+june; n(जुन)
+nepal; n(नेपाल) #country
+nepalese; नेपाली @nepal*
+program; प्रोग्राम #computer
+bit; बिट #computer
+monitor; मनिटर
+server; सर्भर  #computer
+slide; स्लाइड #computer
+software; सफ्टवेयर #computer
+space; स्पेस #computer
+key; किई #computer
+browser; ब्राउजर #computer
+computer; कम्पूटर #computer
+folder; फोल्डर #computer
+keyboard; किबोर्ड #computer
+download; डाउन्लोड #computer
+drive; ड्राइभ #computer
+wifi; वाई-फाई #computer
+link; लिङ्क #computer
+lens; लेन्स
+guitar; गितार #music
+school; स्कूल
+ringtone; रिङ्गटोन
+dragon; ड्रागन
+joker; जोकर
+jersy; जर्सी
+trophy; त्रफि
+whale; ह्वल
+penguin; पेगुईन
+panda; पान्डा
+boot; बुँट
+bomb; बम्म
+briefcase; ब्रिफकेस
+camera; क्यामरा
+televison; टिमी
+radio; रेडियो
+pi; पाइ #math #greek
+phi; फाई #math #greek
+budget; बजेट
+remote; रिमोट
