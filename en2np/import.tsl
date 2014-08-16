@@ -1,6 +1,6 @@
 data; डेटा
 chocolate; चकलेटी
-engine; इन्जिन
+engine; इञ्‍जिन
 extention; एक्सटेंशन
 filter; फिल्टर
 focus; फोकस
@@ -12,10 +12,10 @@ record; रेकर्ड #media
 roaming; रोमिङ
 screen; स्क्रिन
 second; सेकेण्ड
-setting; सेटिङ्ग, तैयार, @set*
-switch; n(स्वीच)
+setting; सेटिङ्ग, @set*
+switch; n(स्विच)
 tablet; ट्याबलेट
-traffic; ट्रफिक
+traffic; ट्राफिक
 icon; आइकन
 charging; चार्जिङ्
 bank; बैंक
@@ -32,12 +32,12 @@ software; सफ्टवेयर #computer
 space; स्पेस #computer
 key; किई #computer
 browser; ब्राउजर #computer
-computer; कम्पूटर #computer
+computer: कम्प्युटर
 folder; फोल्डर #computer
 keyboard; किबोर्ड #computer
-download; डाउन्लोड #computer
+download; डाउनलोड #computer
 drive; ड्राइभ #computer
-wifi; वाई-फाई #computer
+wifi; वाइ-फाइ #computer
 link; लिङ्क #computer
 lens; लेन्स
 guitar; गितार #music
@@ -60,3 +60,4 @@ pi; पाइ #math #greek
 phi; फाई #math #greek
 budget; बजेट
 remote; रिमोट
+file: फाइल
