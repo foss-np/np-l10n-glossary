@@ -1,63 +1,63 @@
-data; डेटा
+bank; बैंक
+bit; बिट #computer
+bomb; बम्म
+boot; बुँट
+briefcase; ब्रिफकेस
+browser; ब्राउजर #computer
+budget; बजेट
+camera; क्यामरा
+charging; चार्जिङ्
 chocolate; चकलेटी
+computer: कम्प्युटर
+data; डेटा
+download; डाउनलोड #computer
+dragon; ड्रागन
+drive; ड्राइभ #computer
 engine; इञ्‍जिन
 extention; एक्सटेंशन
+february; फेब्रुअरी
+file: फाइल
 filter; फिल्टर
 focus; फोकस
+folder; फोल्डर #computer
 gallery; ग्यालरी
+guitar; गितार #music
+icon; आइकन
+jersy; जर्सी
+joker; जोकर
+june; n(जुन)
+key; किई #computer
+keyboard; किबोर्ड #computer
+lens; लेन्स
+link; लिङ्क #computer
 media; मेडिया, संचार
 mobile; मोबाइल
-phone; फोन
-record; रेकर्ड #media
-roaming; रोमिङ
-screen; स्क्रिन
-second; सेकेण्ड
-setting; सेटिङ्ग, @set*
-switch; n(स्विच)
-tablet; ट्याबलेट
-traffic; ट्राफिक
-icon; आइकन
-charging; चार्जिङ्
-bank; बैंक
-february; फेब्रुअरी
-june; n(जुन)
+monitor; मनिटर
 nepal; n(नेपाल) #country
 nepalese; नेपाली @nepal*
+panda; पान्डा
+penguin; पेगुईन
+phi; फाई #math #greek
+phone; फोन
+pi; पाइ #math #greek
 program; प्रोग्राम #computer
-bit; बिट #computer
-monitor; मनिटर
+radio; रेडियो
+record; रेकर्ड #media
+remote; रिमोट
+ringtone; रिङ्गटोन
+roaming; रोमिङ
+school; स्कूल
+screen; स्क्रिन
+second; सेकेण्ड
 server; सर्भर  #computer
+setting; सेटिङ्ग, @set*
 slide; स्लाइड #computer
 software; सफ्टवेयर #computer
 space; स्पेस #computer
-key; किई #computer
-browser; ब्राउजर #computer
-computer: कम्प्युटर
-folder; फोल्डर #computer
-keyboard; किबोर्ड #computer
-download; डाउनलोड #computer
-drive; ड्राइभ #computer
-wifi; वाइ-फाइ #computer
-link; लिङ्क #computer
-lens; लेन्स
-guitar; गितार #music
-school; स्कूल
-ringtone; रिङ्गटोन
-dragon; ड्रागन
-joker; जोकर
-jersy; जर्सी
+switch; n(स्विच)
+tablet; ट्याबलेट
+televison; टिमी
+traffic; ट्राफिक
 trophy; त्रफि
 whale; ह्वल
-penguin; पेगुईन
-panda; पान्डा
-boot; बुँट
-bomb; बम्म
-briefcase; ब्रिफकेस
-camera; क्यामरा
-televison; टिमी
-radio; रेडियो
-pi; पाइ #math #greek
-phi; फाई #math #greek
-budget; बजेट
-remote; रिमोट
-file: फाइल
+wifi; वाइ-फाइ #computer
