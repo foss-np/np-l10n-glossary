@@ -5,10 +5,10 @@ boot; बुँट
 briefcase; ब्रिफकेस
 browser; ब्राउजर #computer
 budget; बजेट
-camera; क्यामरा
-charging; चार्जिङ्
-chocolate; चकलेटी
-computer; कम्प्युटर
+camera; n(क्यामरा, क्यामेरा)
+charging; v(चार्जिङ्)
+chocolate; n(चकलेटी)
+computer; n(कम्प्युटर)
 data; डेटा
 download; डाउनलोड #computer
 dragon; ड्रागन
@@ -35,8 +35,8 @@ mobile; मोबाइल
 monitor; मनिटर
 nepal; n(नेपाल) #country
 nepalese; नेपाली @nepal*
-panda; पान्डा
-penguin; पेगुईन
+panda; पान्डा #animal
+penguin; पेगुईन #animal
 phi; फाई #math #greek
 phone; फोन
 pi; पाइ #math #greek
@@ -46,8 +46,8 @@ record; रेकर्ड #media
 remote; रिमोट
 ringtone; रिङ्गटोन
 roaming; रोमिङ
-school; स्कूल
-screen; स्क्रिन
+school; n(स्कूल)
+screen; n(स्क्रिन)
 second; सेकेण्ड
 server; सर्भर  #computer
 setting; सेटिङ्ग, @set*
@@ -55,8 +55,8 @@ slide; स्लाइड #computer
 software; सफ्टवेयर #computer
 space; स्पेस #computer
 switch; n(स्विच)
-tablet; ट्याबलेट
-televison; टिमी
+tablet; n(ट्याबलेट)
+televison; n(टिमी)
 traffic; ट्राफिक
 trophy; त्रफि
 whale; ह्वल
@@ -65,8 +65,8 @@ form; फारम
 slide; स्लाइड्
 ticket; टिकेट
 charge; चार्ज #physics
-bottle; बोतल
-mouse; माउस #computer
+bottle; n(बोतल)
+mouse; n(माउस) #computer
 bluetooth; ब्लुटुथ #computer
 lollipop; ललीपप #food
 cup; कप
@@ -78,3 +78,5 @@ hero; हिरो
 spring; स्प्रिग #device
 furniture; फर्नीचर
 table; टेबुल
+abacus; n(अब्याकस)
+cycle; n(साइकल)
