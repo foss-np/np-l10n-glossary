@@ -1,0 +1,27 @@
+#+TITLE: np-l10n-glossary
+
+public glossary maintained by foss-np community.
+
+* Format
+  Separater is semicolon(;) since nepali has the : character.
+
+* Transliteration
+
+  ह्रस्व मात्रा (vowel modifiers) is should be used.
+
+  For example,
+  #+BEGIN_EXAMPLE
+  screen ; स्क्रिन
+  stream ; स्ट्रिम
+  beta   ; बिटा
+  #+END_EXAMPLE
+
+  Similarly, where there is “sh”, श should be used.
+
+  For example,
+  #+BEGIN_EXAMPLE
+  spreadsheet ; स्प्रेडशिट
+  stylesheet  ; स्टायलशिट
+  shortcut    ; शर्टकट
+  shell       ; शेल
+  #+END_EXAMPLE
