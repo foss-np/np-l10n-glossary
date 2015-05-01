@@ -1,27 +1,40 @@
+abacus; n(अब्याकस)
 bank; बैंक
 bit; बिट #computer
-bomb; बम्म
+bluetooth; ब्लुटुथ #computer
+bomb; बम
 boot; बुँट
+bottle; n(बोतल)
 briefcase; ब्रिफकेस
 browser; ब्राउजर #computer
 budget; बजेट
 camera; n(क्यामरा, क्यामेरा)
+charge; चार्ज #physics
 charging; v(चार्जिङ्)
 chocolate; n(चकलेटी)
+codecs; कोडेक
 computer; n(कम्प्युटर)
+cup; कप
+cycle; n(साइकल)
 data; डेटा
 download; डाउनलोड #computer
 dragon; ड्रागन
 drive; ड्राइभ #computer
 engine; इञ्‍जिन
 extention; एक्सटेंशन
+facebook; फेसबुक #.com
 february; फेब्रुअरी
 file; फाइल
 filter; फिल्टर
 focus; फोकस
 folder; फोल्डर #computer
+form; फारम
+format; फरम्याट
+furniture; फर्नीचर
 gallery; ग्यालरी
+google; गुगल #.com
 guitar; गितार #music
+hero; हिरो
 icon; आइकन
 jersy; जर्सी
 joker; जोकर
@@ -30,9 +43,13 @@ key; किई #computer
 keyboard; किबोर्ड #computer
 lens; लेन्स
 link; लिङ्क #computer
+lollipop; ललीपप #food
+matrix; म्याट्रिक्स
+may; मे #time
 media; मेडिया, संचार
 mobile; मोबाइल
 monitor; मनिटर
+mouse; n(माउस) #computer
 nepal; n(नेपाल) #country
 nepalese; नेपाली @nepal*
 panda; पान्डा #animal
@@ -41,6 +58,7 @@ phi; फाई #math #greek
 phone; फोन
 pi; पाइ #math #greek
 program; प्रोग्राम #computer
+proxy; प्रोक्सी
 radio; रेडियो
 record; रेकर्ड #media
 remote; रिमोट
@@ -50,37 +68,20 @@ school; n(स्कूल)
 screen; n(स्क्रिन)
 second; सेकेण्ड
 server; सर्भर  #computer
-setting; सेटिङ्ग, @set*
+setting; सेटिङ्, @set*
+sketch; स्केच
 slide; स्लाइड #computer
+slide; स्लाइड्
 software; सफ्टवेयर #computer
 space; स्पेस #computer
+spring; स्प्रिग #device
 switch; n(स्विच)
+table; टेबुल
 tablet; n(ट्याबलेट)
-televison; n(टिमी)
+televison; n(टिभी)
+ticket; टिकेट
 traffic; ट्राफिक
 trophy; त्रफि
-whale; ह्वल
-wifi; वाइ-फाइ #computer
-form; फारम
-slide; स्लाइड्
-ticket; टिकेट
-charge; चार्ज #physics
-bottle; n(बोतल)
-mouse; n(माउस) #computer
-bluetooth; ब्लुटुथ #computer
-lollipop; ललीपप #food
-cup; कप
-facebook; फेसबुक #.com
-google; गुगल #.com
 twitter; ट्‌वीटर #.com
-may; मे #time
-hero; हिरो
-spring; स्प्रिग #device
-furniture; फर्नीचर
-table; टेबुल
-abacus; n(अब्याकस)
-cycle; n(साइकल)
-sketch; स्केच
-codecs; कोडेक
-proxy; प्रोक्सी
-matrix; म्याट्रिक्स
+whale; n(ह्वल) #animal
+wifi; वाइ-फाइ #computer
