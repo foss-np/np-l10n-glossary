@@ -1,29 +1,113 @@
-one; एक
-two; दुई
-three; तीन
-four; चार
-five; पाँच
-six; छ
-seven; सात
-eight; आठ
-nine; नौ
-ten; दश
-eleven; एघार
-twelve; बाह्र
-thirteen; तेह्र
-fourteen; चौध
-fifteen; पँन्ध्र
-sixteen; सोह्र
-seventeen; सत्र
-eighteen; अठार
-nineteen; उन्‍नाइस
-twenty; बिस
-thirty; तिस
-fourty; चालिस
-fifty; पचास
-sixty; साठी
-seventy; सत्तरी
-eighty; अस्सि
-ninety; नब्बे
-hundred; सय
-thousand; हजार
+zero; [जेरो] n(शून्य), {0}
+one; [वन्] n(एक), n(एक्क), {1}
+two; [टू] n(दुई), n(दुवा), {2}
+three; [थ्री] n(तीन), n(तिर्की), {3}
+four; [फोर] n(चार), n(चौका), {4}
+five; [फाइव] n(पाँच), n(पंजा), j(पञ्‍च), {5}
+six; [सिक्स] n(छ), n(छक्का), {6}
+seven; [सेभन] n(सात), n(सत्ता), {7}
+eight; [एइट] n(आठ), n(अठ्ठा), j(अष्ट), {8}
+nine; [नाइन] n(नौ), n(नहर), {9}
+ten; [टेन] n(दश), n(दहर), {10}
+eleven; [इलेवन] n(एघार), {11}
+twelve; [ट्वेल्भ] n(बाह्र), {12}
+thirteen; [थर्टीन] n(तेह्र), {13}
+fourteen; [फोर्टीन] n(चौध), {14}
+fifteen; [फिफ्टीन] n(पँन्ध्र), {15}
+sixteen; [सिक्सटीन] n(सोह्र), {16}
+seventeen; [सेभ्नेटीन] n(सत्र), {17}
+eighteen; [एटीन] n(अठार), {18}
+nineteen; [नाइनटीन] n(उन्‍नाईस), {19}
+twenty; [ट्वान्टि] n(बीस), {20}
+twenty one; n(एकाइस), {21}
+twenty two; n(बाइस), {22}
+twenty three; n(तेइस), {23}
+twenty four; n(चौबीस), {24}
+twenty five; n(पचीस), {25}
+twenty six; n(छबीस), {26}
+twenty seven; n(सत्ताइस), {27}
+twenty eight; n(अठाइस), {28}
+twenty nine; n(उन्‍नत्तीस), {29}
+thirty; [थर्टि] n(तीस), {30}
+thirty one; n(एकतीस), {31}
+thirty two; n(बत्तीस), {32}
+thirty three; n(तेत्तीस), {33}
+thirty four; n(चौंतीस), {34}
+thirty five; n(पैंतीस), {35}
+thirty six; n(छत्तीस), {36}
+thirty seven; n(सैंतीस), {37}
+thirty eight; n(अठतीस), {38}
+thirty nine; n(उनान्चालीस, उन्‍नचालीस), {39}
+forty; [फोर्टि] n(चालीस), {40}
+forty one; n(एकचालीस), {41}
+forty two; n(बयालीस, बैयालीस), {42}
+forty three; n(त्रिचालीस), {43}
+forty four; n(चवालीस), {44}
+forty five; n(पैंतालीस), {45}
+forty six; n(छयालीस), {46}
+forty seven; n(सतचालीस), {47}
+forty eight; n(अठचालीस), {48}
+forty nine; n(उनञ्‍चास), {49}
+fifty; [फिफ्टि] n(पचास), {50}
+fifty one; n(एकौन्‍न,एकावन्‍न), {51}
+fifty two; n(बाउन्‍न), {52}
+fifty three; n(त्रिपन्‍न), {53}
+fifty four; n(चौवन्‍न), {54}
+fifty five; n(पचपन्‍न), {55}
+fifty six; n(छप्पन्‍न), {56}
+fifty seven; n(सन्ताउन्‍न), {57}
+fifty eight; n(आन्ठाउन्‍न), {58}
+fifty nine; n(उनसाठ्ठी), {59}
+sixty; [सिक्स्टि] n(साठ्ठी), {60}
+sixty one; n(एकसाठ्ठी), {61}
+sixty two; n(बैसाठ्ठी), {62}
+sixty three; n(त्रीसाठ्ठी), {63}
+sixty four; n(चौसाठ्ठी), {64}
+sixty five; n(पैंसाठ्ठी), {65}
+sixty six; n(छैसाठ्ठी), {66}
+sixty seven; n(सतसाठ्ठी), {67}
+sixty eight; n(अठसाठ्ठी), {68}
+sixty nine; n(उन्‍नसत्तरी), {69}
+seventy; [सेभन्टि] n(सत्तरी), {70}
+seventy one; n(एकहत्तर, एक्तर), {71}
+seventy two; n(बहत्तर), {72}
+seventy three; n(त्रिहत्तर), {73}
+seventy four; n(चौहत्तर), {74}
+seventy five; n(पचहत्तर), {75}
+seventy six; n(छैहत्तर, छहत्तर), {76}
+seventy seven; n(सतहत्तर), {77}
+seventy eight; n(अठहत्तर), {78}
+seventy nine; n(उन्‍नसी, उन्‍नाअसी), {79}
+eighty; [एइट्टि] n(अस्सी), {80}
+eighty one; n(एकासी), {81}
+eighty two; n(बयासी, बैयासी), {82}
+eighty three; n(त्रियासी), {83}
+eighty four; n(चौरासी, चौवासी), {84}
+eighty five; n(पचासी), {85}
+eighty six; n(छयासी), {86}
+eighty seven; n(सतासी), {87}
+eighty eight; n(अठसी), {88}
+eighty nine; n(उनान्‍नब्बे), {89}
+ninety; [नाइन्टि] n(नब्बे), {90}
+ninety one; n(एकान्‍नब्बे), {91}
+ninety two; n(बयान्‍नब्बे, बैयान्‍नब्बे), {92}
+ninety three; n(त्रियान्‍नब्बे), {93}
+ninety four; n(चौरान्‍नब्बे), {94}
+ninety five; n(पंचान्‍नब्बे), {95}
+ninety six; n(छयान्‍नब्बे), {96}
+ninety seven; n(संतान्‍नब्बे), {97}
+ninety eight; n(अंठान्‍नब्बे), {98}
+ninety nine; n(उनान्सए, उनान्सय), {99}
+hundred; [हन्ड्रेड] n(सय), {100}
+thousand; [थाउज्याण्ड] n(हजार), {1000}
+ten thousand; n(दश हजार), {10,000}
+hundred thousand; n(लाख), {1,00,000}
+million; [मिल्यन] n(दश लाख), {10,00,000|10^6}
+ten million; n(करोड), {1,00,00,000|10^7}
+hundred million; n(दश करोड), {10,00,00,000|10^8}
+billion; [बिलियन] n(अरब), j(असङ्ख्य), {1,00,00,00,000|10^9}
+trillion; {10^12}
+quadrillion; {10^15}
+quintillion; {10^18}
+googol; {10^100}
+googolplex; {10^(10^100)}
