@@ -1,28 +1,39 @@
 #+TITLE: np-l10n-glossary
+#+DATE: Saturday, Aug 15 2015
+#+STARTUP: content
 
 Public glossary maintained by foss-np community.
 
+* Disclaimer
+  The information contained in this page is for attempt to collect
+  data for the translation glossary. Information provided doesn't
+  claim to be complete, accurate or reliable. Any reliance you place
+  on such information is therefore strictly at your own risk.
+
+  However we have tried our best to give the correct information with
+  our resources and capability, you will be liable any direct,
+  indirect or consequential damage cause by the use of this
+  information.
+
 * Introduction
 
-  Nepali language (aka: Pahadiya, Parbatiya, Khaskura) is Indo-Aryan
-  language developed from its roots of Sanskrit and simplification
-  over the time and getting influenced by Tibeto-Burman Languages.
+  Nepali language (aka: Pahadiya ne:पाहडिया, Parbatiya ne:पर्वतिय, Khas
+  Kura/Bhasa ne:खास कुरा/भाषा) is Indo-Aryan language developed from
+  its roots of Sanskrit ne:संस्कृत and simplification over the time and
+  getting influenced by Tibeto-Burman Languages.
 
-  Spoken Area:
-  - Nepal: Official language, lingua franca
-  - India: North-east, Sikkim, Darjeeling
-  - Bhutan
-  - Myanmar
+** Spoken Area
 
-  Script:
-  - Devanagari
+   | Nepal   | Official language, Lingua franca          |
+   | India   | Spoken in North-East                      |
+   | Bhutan  | Spoken by more than 30% of the population |
+   | Myanmar | around 300,000 speakers                   |
 
-  ISO Codes:
-  - ISO 639-1 ne
-  - ISO 639-2 nep
-  - ISO 639-3 nep
-
-  NEPALI OR NEPALESE
+** Character Set:
+   ISO Codes:
+   - ISO 639-1 ne
+   - ISO 639-2 nep
+   - ISO 639-3 nep
 
 * What is l10n/i18n/g11n
 
@@ -39,109 +50,34 @@ Public glossary maintained by foss-np community.
   localzation, making any product or service global, with simultaneous
   release in relevant markets.
 
-* About Language
+* Glossary
+** Format
+   Separater is semicolon(;) since nepali has the : character.
 
-** Character Set
+** Transliteration
+   ह्रस्व मात्रा (vowel modifiers) is should be used.
 
-   We use Devanagari Scripts similar to that of Hindi, Marathi and
-   Sanskrit, but there are some variations as follows :
+   For example,
+   #+BEGIN_EXAMPLE
+   screen ; स्क्रिन
+   stream ; स्ट्रिम
+   beta   ; बिटा
+   #+END_EXAMPLE
 
-   - Nepali writing does not use nukta or Nuqta  the under dot(.)
-   - Nepali writing system uses ZWJ and ZWNJ for example to produce
-     pareli-ra पर्‌यो , गर्‌यो  , भर्‌याङ , र्‌याल
-   - Nepali writing system explicitly use vocalic rr and vocalic l,ll
-     sound except ऋ ।
+   Similarly, where there is "sh", श should be used.
 
-** Currency
+   For example,
+   #+BEGIN_EXAMPLE
+   spreadsheet ; स्प्रेडशिट
+   stylesheet  ; स्टायलशिट
+   shortcut    ; शर्टकट
+   shell       ; शेल
+   #+END_EXAMPLE
 
-   Nepali Rupees
+** Acronyms/Abbreviations
+   Acronyms/Abbreviations are generally transliterated or left in
+   English. i.e. UNICEF is localized as युनिसेफ.
 
-   Rs.
-
-** Gender
-   There are three genders in Nepali
-
-   - Feminine
-   - Masculine
-   - Neuter
-
-   Most of the time Masculine nouns end at (a) or (aa) sound and
-   feminine nouns end at (i) or (ii) you can rely on that up to some
-   extent but relying on that only is a problematic concept.
-
-   eg.
-   पाठो/पाठी
-   केटो/केटी
-   बाख्रो/बाख्री
-   राँगो/भैँसी
-   मत्ता/ढोइ
-   पुरुष/महिला
-   हिरो/हिरोनी
-
-
-** Metric Unit
-
-   | English    | Nepali {short}    |
-   |------------+-------------------|
-   | millimeter | मिलीमिटर {ml}     |
-   | centimeter | सेन्टी मिटर {सेमी}   |
-   | meter      | मिटर {मि}         |
-   |------------+-------------------|
-   | Inches     | इन्च {इन्च}         |
-   | Feet, ft   | फिट {फिट}         |
-   | Inch       | इन्च {इन्च}         |
-   |------------+-------------------|
-   | degrees    | डिग्री {डिग्री}     |
-   |------------+-------------------|
-   | kilobyte   | किलोबाइट {केबी/KB} |
-   | megabyte   | मेगाबाइट {मेबी/MB}  |
-   |------------+-------------------|
-   | kilogram   | किलोग्राम {केजी}    |
-   |------------+-------------------|
-   | liter      | लिटर {लि}         |
-
-
-
-
-* Format
-  Separater is semicolon(;) since nepali has the : character.
-
-* Transliteration
-
-  ह्रस्व मात्रा (vowel modifiers) is should be used.
-
-  For example,
-  #+BEGIN_EXAMPLE
-  screen ; स्क्रिन
-  stream ; स्ट्रिम
-  beta   ; बिटा
-  #+END_EXAMPLE
-
-  Similarly, where there is “sh”, श should be used.
-
-  For example,
-  #+BEGIN_EXAMPLE
-  spreadsheet ; स्प्रेडशिट
-  stylesheet  ; स्टायलशिट
-  shortcut    ; शर्टकट
-  shell       ; शेल
-  #+END_EXAMPLE
-
-
-* Common rules
-
-  isolated verbs like गरी, भनी should have दीर्घ इकार endings.
-
-** Acronyms
-   Acronyms should either be transliterated or left in English
-   depending on general convention and usage. It is usually acceptable
-   to not translate the acronym.  e.g. UNICEF is localized as युनिसेफ.
-
-** Abbreviations
-   Sometimes it may be necessary to use the abbreviated form of a
-   noun, for example, Dec in place of December. You might need to
-   abbreviate some words in the UI (mainly buttons or options names)
-   due to lack of space. There could be two main ways for
-   abbreviation, by taking the first letter of each word (for example
-   USA), or by taking first few characters of a long word (for
-   example, Sun for Sunday).
+* FAQ
+** Nepali OR Nepalese
+   Inside Nepal, use Nepali, outside Nepalese.
