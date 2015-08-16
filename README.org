@@ -5,15 +5,14 @@
 Public glossary maintained by foss-np community.
 
 * Disclaimer
-  The information contained in this page is for attempt to collect
-  data for the translation glossary. Information provided doesn't
-  claim to be complete, accurate or reliable. Any reliance you place
-  on such information is therefore strictly at your own risk.
+  The information contained in here is an attempt to collect data for
+  the translation glossary. Information provided doesn't claim to be
+  complete, accurate or reliable.
 
-  However we have tried our best to give the correct information with
-  our resources and capability, you will be liable any direct,
-  indirect or consequential damage cause by the use of this
-  information.
+  However, We have tried our best for correctness and completeness
+  with our resources and capability. You will at your own risk and
+  liable for any direct, indirect or consequential damage cause by the
+  use of this content.
 
 * Introduction
 
