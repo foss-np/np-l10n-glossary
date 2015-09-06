@@ -1,6 +1,6 @@
 apple; [एप्पल] n(स्याउ) #fruit {Malus sylrestris}
 apricot; [ऐप्रिकाट] n(खुर्पानी, अञ्‍जीर) #fruit {Prunus armenica L}
-asparagus; n(निगालो)
+asparagus; n(निगालो) #vegetable
 avocado; [एभोकाडो] n(घीउफल, रुचिरा) #fruit {Persea americana}
 banana; n(केरा), n(<bunch> कांग्यो, म्वाय) #fruit {Musa paradisiaca}
 barberry; [बार्बेरि] n(दारुहल्दी) #fruit {Berberis aristata Dc}
@@ -11,21 +11,20 @@ berry raspberry himalayan;  n(<yellow, red, black> ऐंसेलु) {Rubus el
 black plum; ~(java plum)
 blackberry; [ब्ल्याक बेरि] n(ऐंसेलु) #fruit
 blueberry; [ब्ल्याक बेरि] n(नीलो ऐसेलु) #fruit
-cardamom; n(अलैंची)
+cardamom; n(अलैंची) #fruit
 cashew; [क्याश्यु], n(काजु)
-cherry; [चेरि] n(पैयुँ {Prunus cerasoides D. Don} #fruit), n(<japan> चेरी वृक्ष)
-chicken; कुखुरा
-chickpea; चना @gram
-cinnamon; [सिनामन्], n(दालचीनी, तेजपात) #plant #spice
-coconut; [कोकोनट] n(नरिवल #fruit {Cocos nucifera L}) n(टाउको)
+cherry; [चेरि] n(पैयुँ {Prunus cerasoides D. Don} #fruit)
+chicken; n(कुखुरा) #meat
+chickpea; n(चना @gram)
+cinnamon; [सिनामन्], n(दालचीनी, तेजपात) #spice
+coconut; [कोकोनट] n(नरिवल) #fruit {Cocos nucifera L}
 corn; n(मकै)
-custard apple; n(सरीफा) {Annona squamosa L.}
+custard apple; n(सरीफा) #fruit {Annona squamosa L.}
 date; [डेट] n(<hard>@खजूर #fruit {Phoenix sylvestris Roxb.}), n(<soft>@छोहरा #fruit)
 egg; n(अण्डा)
-eggplant; n(भाण्टा)
-fruit; [फ्रूट] n(फल, फलफूल), n(परिणाम, नतीजा, उपजाउ)
-garlic; लसुन
-ginger; n(अदुवा)
+eggplant; n(भाण्टा) #vegetable
+garlic; n(लसुन) #spice
+ginger; n(अदुवा) #spice
 gojiberry; [गोजी बेरी] #fruit {Lycium barbarum}
 gooseberry; [गूस बेरि] n(अमला, काँडे गुलि) #fruit {Emblica officinalis}
 grape; [ग्रेप] (अंगुर, दाख, #fruit {Vitis vinifera L})
@@ -46,42 +45,48 @@ lichi; ~lychee
 lime; [लाइम ] n(<green>@कागती {Citrus aurantifolia Swingle}), n(<sweet>@चाक्सी {Citrus limettioides Tanaka}) #fruit
 loquat; n(लौकाट) #fruit {Eribotrya eliptica}
 mango; n(आँप) #fruit {Mangifera indica L}
-milk; दूध
-noodle; [नूडल] चाउचाउ
+milk; n(दूध)
+noodle; [नूडल] n(चाउचाउ)
 oleaster; n(मदिलो) #fruit {Elaeagnus latifolia L}
 orange keep; <Spur Orange, Bitter Orange> n(कीप) #fruit {Citrus aurantium L}
 orange; <Mandarin, Tangerine, Satsuma orange, Loose skin Orange> सुन्तला  #fruit {Citrus reticulata Blanco}
 orange; <sweet or Malta orange> (मौशम्बी) #fruit {Citrus sinensis Osbeck}
 orange; n(जुनार) #fruit {Citrus sinensis}
-orange; सुन्तला
+orange; n(सुन्तला)
 papaya; n(पपिता, मेवा) #fruit {Carica papaya L}
 peach; n(आरु) #fruit {Prunus persica Stokes}
 pear chinese; n(चिनिया नासपाती) #fruit {Pyrus: pyrifolia Nakai}
 pear; n(नास्पाती) #fruit {Pyrus communis L.}
-pepper; मरिच
+pepper; n(मरिच) #spice
 persimmon; n(हलुवाबेद) #fruit {Diospyros virginiana L.Physalis/Japanese persimmon - Diospyros kaki}
-pickle; n(अचार)
 pineapple; n(भुइँ कटहर) #fruit {Ananas Comosus}
 plum; [प्लम] n(बयर, बैर)
 plum; n(आलुबखडा) #fruit {Prunus domestica}
 pomegranate; n(अनार , दारिम) #fruit {Punica granatum L}
 pomilo; n(भोगटे) #fruit {Citrus grandis Osbeck}
-potato; n(आलु)
-pummelo; ~pomilo
+potato; n(आलु) #vegetable
+pummelo; =pomilo
 quince; (नेपाली स्याउ) #fruit {Cydonia oblonga Mill}
-rice; n(घान, भात, चमल )
-saffron; n(केशर)
+rice; n(घान, भात, चमल)
+saffron; n(केशर) #spice
 salt; n(नुन)
-shake; n(पेय)
 spondias axillaris; n(<Nepalese>@लप्सी)
 starfruit; n(कन्तरा) #fruit {Carambola}
 strawberry; [स्ट्रबेरी] n(स्ट्रबेरी) #fruit {Fragaria ananassa}
-sugar apple; ~(custard apple)
-sugar; चिनी
+sugar apple; =(custard apple)
+sugar; s(चिनी)
 sweets; n(मिठाई)
-tea; चिया
-vegetable; तरकारी
+tea; n(चिया)
 walnut; n(हाडेओखर) #fruit {Juglans regia L}
 water melon; n(खर्बुजा) #fruit {Cucumis melo L}
 wild pear; n(मयल) #fruit {Pyrus pashia Buch-Ham}
 wood apple; n(बेल) #fruit {Aegle marmelos Corrg}
+cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा) #vegetable
+moringa; n(सैजन, सहिजन, सजिवन) {Moringa oleifera}
+drumstick tree; =moringa
+cucumber; [क्युकम्बर] n(काँक्रो, खीरा)
+cumin; [क्यूमिन] n(<seed> जीरा) #spice
+coriander; [कोरीऐन्डर] (धनियाँ, धनिया) #spice
+onion; [अनियन] n(प्याज), n(छयापी) #spice
+tomato; [टोमाटो ] n(गोलभेंडा, टमाटर) #fruit
+pumpkin; [पम्पकिन] n(फर्सी, कद्‌दू] #vegetable
