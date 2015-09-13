@@ -11,6 +11,7 @@ berry raspberry himalayan;  n(<yellow, red, black> ऐंसेलु) {Rubus el
 black plum; ~(java plum)
 blackberry; [ब्ल्याक बेरि] n(ऐंसेलु) #fruit
 blueberry; [ब्ल्याक बेरि] n(नीलो ऐसेलु) #fruit
+cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा) #vegetable
 cardamom; n(अलैंची) #fruit
 cashew; [क्याश्यु], n(काजु)
 cherry; [चेरि] n(पैयुँ {Prunus cerasoides D. Don} #fruit)
@@ -18,9 +19,13 @@ chicken; n(कुखुरा) #meat
 chickpea; n(चना @gram)
 cinnamon; [सिनामन्], n(दालचीनी, तेजपात) #spice
 coconut; [कोकोनट] n(नरिवल) #fruit {Cocos nucifera L}
+coriander; [कोरीऐन्डर] (धनियाँ, धनिया) #spice
 corn; n(मकै)
+cucumber; [क्युकम्बर] n(काँक्रो, खीरा)
+cumin; [क्यूमिन] n(<seed> जीरा) #spice
 custard apple; n(सरीफा) #fruit {Annona squamosa L.}
 date; [डेट] n(<hard>@खजूर #fruit {Phoenix sylvestris Roxb.}), n(<soft>@छोहरा #fruit)
+drumstick tree; =moringa
 egg; n(अण्डा)
 eggplant; n(भाण्टा) #vegetable
 garlic; n(लसुन) #spice
@@ -46,8 +51,10 @@ lime; [लाइम ] n(<green>@कागती {Citrus aurantifolia Swingle}), 
 loquat; n(लौकाट) #fruit {Eribotrya eliptica}
 mango; n(आँप) #fruit {Mangifera indica L}
 milk; n(दूध)
+moringa; n(सैजन, सहिजन, सजिवन) {Moringa oleifera}
 noodle; [नूडल] n(चाउचाउ)
 oleaster; n(मदिलो) #fruit {Elaeagnus latifolia L}
+onion; [अनियन] n(प्याज), n(छयापी) #spice
 orange keep; <Spur Orange, Bitter Orange> n(कीप) #fruit {Citrus aurantium L}
 orange; <Mandarin, Tangerine, Satsuma orange, Loose skin Orange> सुन्तला  #fruit {Citrus reticulata Blanco}
 orange; <sweet or Malta orange> (मौशम्बी) #fruit {Citrus sinensis Osbeck}
@@ -66,6 +73,7 @@ pomegranate; n(अनार , दारिम) #fruit {Punica granatum L}
 pomilo; n(भोगटे) #fruit {Citrus grandis Osbeck}
 potato; n(आलु) #vegetable
 pummelo; =pomilo
+pumpkin; [पम्पकिन] n(फर्सी, कद्‌दू] #vegetable
 quince; (नेपाली स्याउ) #fruit {Cydonia oblonga Mill}
 rice; n(घान, भात, चमल)
 saffron; n(केशर) #spice
@@ -77,16 +85,8 @@ sugar apple; =(custard apple)
 sugar; s(चिनी)
 sweets; n(मिठाई)
 tea; n(चिया)
+tomato; [टोमाटो ] n(गोलभेंडा, टमाटर) #fruit
 walnut; n(हाडेओखर) #fruit {Juglans regia L}
 water melon; n(खर्बुजा) #fruit {Cucumis melo L}
 wild pear; n(मयल) #fruit {Pyrus pashia Buch-Ham}
 wood apple; n(बेल) #fruit {Aegle marmelos Corrg}
-cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा) #vegetable
-moringa; n(सैजन, सहिजन, सजिवन) {Moringa oleifera}
-drumstick tree; =moringa
-cucumber; [क्युकम्बर] n(काँक्रो, खीरा)
-cumin; [क्यूमिन] n(<seed> जीरा) #spice
-coriander; [कोरीऐन्डर] (धनियाँ, धनिया) #spice
-onion; [अनियन] n(प्याज), n(छयापी) #spice
-tomato; [टोमाटो ] n(गोलभेंडा, टमाटर) #fruit
-pumpkin; [पम्पकिन] n(फर्सी, कद्‌दू] #vegetable
