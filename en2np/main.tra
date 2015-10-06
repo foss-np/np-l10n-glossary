@@ -186,6 +186,7 @@ associate; अनुबन्ध, j(आबद्ध)
 assume; v(अड्कल्, मानिलिनु, धारण लिनु)
 asthma; [अयाज्मा] n(दम, स्वाँ स्वाँ , श्वास रोग) ##✗as-tha-maa
 astonish; चकित #emotion
+astrology; ज्योतिषि शास्त्र
 asynchronous; j(अतुल्यकालिन)
 at; मा
 atomic; आणविक
@@ -989,7 +990,7 @@ fog; कुहिरो ~mist
 follow; v(अनुसरण गर्नु, पालना गर्नु), v(पछ्याउनु)
 follower; [फलोअर] n(अनुगामी, अनुचर, अनुयायी), n(शिष्य, अनुसरणकर्ता)
 font; वर्ण
-food; n(खाना, खाद्य, आहार), n(अन्‍न)
+food; n(खाना, खाद्य, खाद्यान्‍न, आहार), n(अन्‍न)
 fool; सिल्ली, मुर्ख, उल्लु
 foot; पाउ, पैताला #body n(<singular>@feet #unit)
 for; का लागि, यसका लागि
@@ -1050,6 +1051,7 @@ garden; बगैँचा, बगान
 gas; हवा
 gate; ढोका, द्वार ~door
 geese; [गीस] <singular>@goose
+gem; रत्न
 gemini; n(मिथुन #astrology)
 genealogy; वंशावली
 general; [जेनर्ल] j(सामान्य, आम, साधारण, सर्वव्यापी), n(रथी, जर्नेल, योद्धा)
@@ -2457,7 +2459,7 @@ toy; n(खेलैना)
 track; [ट्रयाक] n(बाटो, मार्ग, पटरी, गोरेटो, रेलजाने बाटो), v(अनुगमन, पछ्‌याउनु)
 tradition; रिति रिवाज
 traditional; परम्परागत
-traffic; यातायात
+traffic; [ट्राफिक] n(यातायात, आवागमन), v(बेचबिखन गर्नु
 trail; सानो बाटो
 train; n(रेल), v(अभ्यास)
 transaction; लेनदेन
@@ -2468,6 +2470,7 @@ translate; अनुवाद, उल्था
 transmit; v(प्रसारण)
 transparency; [ट्रान्सपरेनसी] j(रिपारदर्शिता) ~opacity
 transparent; j(पारदर्शी, खुलापन)
+transport; ढुवानी
 trapezoid; n(चतुर्भुज #math)
 trash; फोहर
 trasport; ~move ~shit
