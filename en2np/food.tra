@@ -1,3 +1,4 @@
+almond; n(बदाम)
 apple; [एप्पल] n(स्याउ) #fruit {Malus sylrestris}
 apricot; [ऐप्रिकाट] n(खुर्पानी, अञ्‍जीर) #fruit {Prunus armenica L}
 asparagus; n(निगालो) #vegetable
@@ -11,12 +12,17 @@ berry raspberry himalayan;  n(<yellow, red, black> ऐंसेलु) {Rubus el
 black plum; ~(java plum)
 blackberry; [ब्ल्याक बेरि] n(ऐंसेलु) #fruit
 blueberry; [ब्ल्याक बेरि] n(नीलो ऐसेलु) #fruit
+bread; [ब्रेड्] n(पाउरोटी)
+butter; n(मखन)
 cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा) #vegetable
 cardamom; n(अलैंची) #fruit
+carrot; [क्यारट] n(गाँजर)
 cashew; [क्याश्यु], n(काजु)
+cauliflower; [काँलिफ्लावर] n(काउली, फूलकोबी)
 cherry; [चेरि] n(पैयुँ {Prunus cerasoides D. Don} #fruit)
 chicken; n(कुखुरा) #meat
 chickpea; n(चना @gram)
+chilli; [चिल्‍ली] n(खुर्सानि)
 cinnamon; [सिनामन्], n(दालचीनी, तेजपात) #spice
 coconut; [कोकोनट] n(नरिवल) #fruit {Cocos nucifera L}
 coriander; [कोरीऐन्डर] (धनियाँ, धनिया) #spice
@@ -36,6 +42,7 @@ grape; [ग्रेप] (अंगुर, दाख, #fruit {Vitis vinifera L})
 grapefruit; [ग्रेपफ्रूट] n(संखत्रो) #fruit {Citrus paradisi Macf}
 grapevine; [ग्रेपभाइन] n(अङ्गूरको लहरा #fruit), n(हल्‍ला)
 guava; [ग्वाभा] n(अम्बा) #fruit {Psidium guajava L}
+himalayan black salt; n(बिरे नुन), {Fe₃S₄}
 hog plum; =(spondias axillaris)
 honey; n(मह)
 jack fruit; [फ्रूट] n(रुख कटहर) #fruit {Artocarpus heterophylla Lamk}
@@ -75,6 +82,7 @@ potato; n(आलु) #vegetable
 pummelo; =pomilo
 pumpkin; [पम्पकिन] n(फर्सी, कद्‌दू] #vegetable
 quince; (नेपाली स्याउ) #fruit {Cydonia oblonga Mill}
+radish; [र्‍याडिश] n(मूला)
 rice; n(घान, भात, चमल)
 saffron; n(केशर) #spice
 salt; n(नुन)
