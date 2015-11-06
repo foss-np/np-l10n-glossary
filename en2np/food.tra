@@ -57,7 +57,7 @@ lichi; ~lychee
 lime; [लाइम ] n(<green>@कागती {Citrus aurantifolia Swingle}), n(<sweet>@चाक्सी {Citrus limettioides Tanaka}) #fruit
 loquat; n(लौकाट) #fruit {Eribotrya eliptica}
 mango; n(आँप) #fruit {Mangifera indica L}
-milk; n(दूध)
+milk; [मिल्क] n(दूध)
 moringa; n(सैजन, सहिजन, सजिवन) {Moringa oleifera}
 noodle; [नूडल] n(चाउचाउ)
 oleaster; n(मदिलो) #fruit {Elaeagnus latifolia L}
@@ -98,3 +98,11 @@ walnut; n(हाडेओखर) #fruit {Juglans regia L}
 water melon; n(खर्बुजा) #fruit {Cucumis melo L}
 wild pear; n(मयल) #fruit {Pyrus pashia Buch-Ham}
 wood apple; n(बेल) #fruit {Aegle marmelos Corrg}
+tangerine; n(सुन्तला)
+jerky; n(सुकुटी)
+meat; [मीट्] n(मासु, मांस)
+wheat; [वीट्] n(गहूँ) #crop, wiki{Wheat}
+wheatbuck; [वीट्बक] n(फापर) #crop, wiki{Buckwheat}
+millet; [मिलेट्] n(बाजरा) #crop
+finger millet; [फिंगर मिलेट्] n(कोदो) #crop, wiki{Eleusine_coracana}
+flour; [फ्वलार] n(<wheat> पीठो), n(<wheat with pith> आँटा), मैदा, सूजी, अपुँगो, पिष्‍ट, चूर्ण, (जौको) चिक्कस, ललाङ्
