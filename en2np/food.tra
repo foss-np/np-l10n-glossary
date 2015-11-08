@@ -34,6 +34,8 @@ date; [डेट] n(<hard>@खजूर #fruit {Phoenix sylvestris Roxb.}), n(<s
 drumstick tree; =moringa
 egg; n(अण्डा)
 eggplant; n(भाण्टा) #vegetable
+finger millet; [फिंगर मिलेट्] n(कोदो) #crop, wiki{Eleusine_coracana}
+flour; [फ्वलार] n(<wheat> पीठो), n(आँटा), मैदा, सूजी, अपुँगो
 garlic; n(लसुन) #spice
 ginger; n(अदुवा) #spice
 gojiberry; [गोजी बेरी] #fruit {Lycium barbarum}
@@ -47,6 +49,7 @@ hog plum; =(spondias axillaris)
 honey; n(मह)
 jack fruit; [फ्रूट] n(रुख कटहर) #fruit {Artocarpus heterophylla Lamk}
 java plum; n(जामुन) #fruit {Eugenia jambolana Lamk}
+jerky; n(सुकुटी)
 kumquat; n(मुन्तला) {Fortunella joponica Swingle}
 lemon chook-amilo; n(कालो ज्यामीर) #fruit {Citrus junos Tanaka}
 lemon citron; n(बिमिरो) #fruit {Citrus medica L}
@@ -58,6 +61,7 @@ lime; [लाइम ] n(<green>@कागती {Citrus aurantifolia Swingle}), 
 loquat; n(लौकाट) #fruit {Eribotrya eliptica}
 mango; n(आँप) #fruit {Mangifera indica L}
 milk; [मिल्क] n(दूध)
+millet; [मिलेट्] n(बाजरा) #crop
 moringa; n(सैजन, सहिजन, सजिवन) {Moringa oleifera}
 noodle; [नूडल] n(चाउचाउ)
 oleaster; n(मदिलो) #fruit {Elaeagnus latifolia L}
@@ -92,17 +96,12 @@ strawberry; [स्ट्रबेरी] n(स्ट्रबेरी) #fruit 
 sugar apple; =(custard apple)
 sugar; s(चिनी)
 sweets; n(मिठाई)
+tangerine; n(सुन्तला)
 tea; n(चिया)
 tomato; [टोमाटो ] n(गोलभेंडा, टमाटर) #fruit
 walnut; n(हाडेओखर) #fruit {Juglans regia L}
 water melon; n(खर्बुजा) #fruit {Cucumis melo L}
-wild pear; n(मयल) #fruit {Pyrus pashia Buch-Ham}
-wood apple; n(बेल) #fruit {Aegle marmelos Corrg}
-tangerine; n(सुन्तला)
-jerky; n(सुकुटी)
-meat; [मीट्] n(मासु, मांस)
 wheat; [वीट्] n(गहूँ) #crop, wiki{Wheat}
 wheatbuck; [वीट्बक] n(फापर) #crop, wiki{Buckwheat}
-millet; [मिलेट्] n(बाजरा) #crop
-finger millet; [फिंगर मिलेट्] n(कोदो) #crop, wiki{Eleusine_coracana}
-flour; [फ्वलार] n(<wheat> पीठो), n(<wheat with pith> आँटा), मैदा, सूजी, अपुँगो, पिष्‍ट, चूर्ण, (जौको) चिक्कस, ललाङ्
+wild pear; n(मयल) #fruit {Pyrus pashia Buch-Ham}
+wood apple; n(बेल) #fruit {Aegle marmelos Corrg}
