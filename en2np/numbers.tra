@@ -102,12 +102,12 @@ hundred; [हन्ड्रेड] n(सय), {100}
 thousand; [थाउज्याण्ड] n(हजार), {1000}
 ten thousand; n(दश हजार), {10,000}
 hundred thousand; n(लाख), {1,00,000}
-million; [मिल्यन] n(दश लाख), {10,00,000|10^6}
-ten million; n(करोड), {1,00,00,000|10^7}
-hundred million; n(दश करोड), {10,00,00,000|10^8}
-billion; [बिलियन] n(अरब), j(असङ्ख्य), {1,00,00,00,000|10^9}
-trillion; {10^12}
-quadrillion; {10^15}
-quintillion; {10^18}
-googol; {10^100}
+million; [मिल्यन] n(दश लाख), {10,00,000|10⁶}
+ten million; n(करोड), {1,00,00,000|10⁷}
+hundred million; n(दश करोड), {10,00,00,000|10⁸}
+billion; [बिलियन] n(अरब), j(असङ्ख्य), {1,00,00,00,000|10⁹}
+trillion; {10¹²}
+quadrillion; {10¹⁵}
+quintillion; {10¹⁸}
+googol; {10¹⁰⁰}
 googolplex; {10^(10^100)}

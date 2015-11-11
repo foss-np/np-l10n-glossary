@@ -1,6 +1,7 @@
 abacus; n(अब्याकस)
 antenna; n(एन्टेना)
 bank; बैंक
+bat; n(खेलको साधन)
 bit; बिट #computer
 bluetooth; ब्लुटुथ #computer
 bomb; बम
@@ -9,6 +10,7 @@ briefcase; ब्रिफकेस
 browser; ब्राउजर #computer
 brush; [ब्रस] n(ब्रुस)
 budget; बजेट
+cake; n(केक) #food
 camera; n(क्यामरा, क्यामेरा)
 cement; n(सिमेण्ट, सिमण्टी)
 centimeter; {cm} n(सेन्टिमिटर) #unit
@@ -17,6 +19,7 @@ charging; v(चार्जिङ्)
 chocolate; n(चकलेटी)
 codecs; कोडेक
 computer; n(कम्प्युटर)
+copy; n(कापी)
 cup; कप
 cycle; n(साइकल)
 data; डेटा
@@ -42,7 +45,7 @@ hotel; होटेल
 icon; आइकन
 jersy; जर्सी
 joker; जोकर
-june; n(जुन)
+june; n(जुन) #time
 key; किई #computer
 keyboard; किबोर्ड #computer
 kilometer; {km} n(किलोमिटर) #unit
@@ -51,6 +54,8 @@ lollipop; ललीपप #food
 matrix; म्याट्रिक्स
 may; मे #time
 media; मेडिया, संचार
+mike; =microphone
+minute; n(मिनिट) #time
 mobile; मोबाइल
 monitor; मनिटर
 mouse; n(माउस) #computer
@@ -71,11 +76,12 @@ ringtone; रिङ्गटोन
 roaming; रोमिङ
 school; n(स्कूल)
 screen; n(स्क्रिन)
-second; सेकेण्ड
+second; n(सेकेण्ड) #time
 server; सर्भर  #computer
 setting; सेटिङ्, @set*
 sketch; स्केच
 slide; स्लाइड #computer
+smiley; स्माइली
 software; सफ्टवेयर #computer
 space; स्पेस #computer
 spring; स्प्रिग #device
