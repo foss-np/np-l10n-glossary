@@ -48,7 +48,7 @@ ginger; n(अदुवा) #spice
 gojiberry; [गोजी बेरी] #fruit sci{Lycium barbarum}
 gooseberry; [गूस बेरि] n(अमला, काँडे गुलि) #fruit sci{Emblica officinalis}
 grape; [ग्रेप] n(अंगुर) #fruit sci{Vitis vinifera L}
-grapefruit; [ग्रेपफ्रूट] n(संखत्रो) #fruit sci{Citrus paradisi Macf}
+grapefruit; [ग्रेपफ्रूट] n(संखत्रो, भोगटे) sci{Citrus paradisi Macf}, wiki{Grapefruit} #fruit
 grapevine; [ग्रेपभाइन] n(अङ्गूरको लहरा #fruit), n(हल्‍ला)
 green mustard; [ग्रीन मस्टर्ड] n(<leaves>रायोको साग #vegetable), sci{Brassica juncea}, wiki{Brassica_juncea}
 guava; [ग्वाभा] n(अम्बा) #fruit sci{Psidium guajava L}
@@ -68,9 +68,11 @@ lichi; ~lychee
 lime; [लाइम ] n(<green>@कागती sci{Citrus aurantifolia Swingle}), n(<sweet>@चाक्सी {Citrus limettioides Tanaka}) #fruit
 loquat; n(लौकाट) #fruit sci{Eribotrya eliptica}
 mango; n(आँप) #fruit sci{Mangifera indica L}
+melon; मेवा
 milk; [मिल्क] n(दूध)
 millet; [मिलेट्] n(बाजरा) #crop
 moringa; n(सैजन, सहिजन, सजिवन) sci{Moringa oleifera}
+mushroom; च्याउ
 noodle; [नूडल] n(चाउचाउ)
 oleaster; n(मदिलो) #fruit sci{Elaeagnus latifolia L}
 onion; [अनियन] n(प्याज), n(छयापी) #spice
@@ -98,12 +100,15 @@ raisin; [रेजिन] n(किसमिस, दाख, बेदाना)
 rice; n(घान, भात, चमल)
 saffron; n(केशर) #spice
 salt; n(नुन)
-spondias axillaris; n(<Nepalese>@लप्सी)
+soyabean; भटमास
+spinach; पालूँगो
+spondias axillaris; n(<Nepalese> लप्सी)
 starfruit; n(कन्तरा) #fruit {Carambola}
 strawberry; [स्ट्रबेरी] n(स्ट्रबेरी) #fruit sci{Fragaria ananassa}
 sugar apple; =(custard apple)
 sugar; s(चिनी)
 sweets; n(मिठाई)
+tamarind; [टयामरिन्ड] n(तितरी, अमिलो, इम्ली, तितिसिपाउँ, तित्री)
 tangerine; n(सुन्तला)
 tea; n(चिया)
 tomato; [टोमाटो] n(गोलभेंडा, टमाटर) #fruit
