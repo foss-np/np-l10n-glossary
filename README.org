@@ -10,7 +10,7 @@ Public glossary maintained by foss-np community.
   complete, accurate or reliable.
 
   However, We have tried our best for correctness and completeness
-  with our resources and capability. You will at your own risk and
+  with our resources and capability. You will be at your own risk and
   liable for any direct, indirect or consequential damage cause by the
   use of this content.
 
