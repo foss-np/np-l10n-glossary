@@ -17,7 +17,9 @@ centimeter; {cm} n(सेन्टिमिटर) #unit
 charge; चार्ज #physics
 charging; v(चार्जिङ्)
 chocolate; n(चकलेटी)
+circus; सरकस
 codecs; कोडेक
+coffee; n(कफी) #food
 computer; n(कम्प्युटर)
 copy; n(कापी)
 cup; कप
@@ -64,20 +66,21 @@ nepalese; @nepali
 panda; पान्डा #animal
 parking; पार्किंङ
 penguin; पेगुईन #animal
-phi; फाई #math #greek
-phone; फोन
-pi; पाइ #math #greek
+phi; फाई #math.greek
+pi; पाइ #math.greek
+pizza; [पिज्जा] n(इटालियाली खाना जुन मोटो रोटीको माथी चीज र सामाग्री हालेर बनाइन्छ)
 program; प्रोग्राम #computer
-proxy; प्रोक्सी
+proxy; प्रोक्सी #computer.network
 radio; रेडियो
 record; रेकर्ड #media
 remote; रिमोट
+restaurant; n(रेस्टुरेन्ट)
 ringtone; रिङ्गटोन
 roaming; रोमिङ
 school; n(स्कूल)
 screen; n(स्क्रिन)
 second; n(सेकेण्ड) #time
-server; सर्भर  #computer
+server; सर्भर  #computer.network
 setting; सेटिङ्, @set*
 sketch; स्केच
 slide; स्लाइड #computer
@@ -88,12 +91,11 @@ spring; स्प्रिग #device
 switch; n(स्विच)
 table; टेबुल
 tablet; n(ट्याबलेट)
+telephone; n(टेलिफोन)
 televison; n(टिभी)
 ticket; टिकेट
 traffic; ट्राफिक
 transparency; ट्रान्सपरेन्सी
 twitter; ट्‌वीटर #.com
 whale; n(ह्वल) #animal
-wifi; वाइ-फाइ #computer
-restaurant; n(रेस्टुरेन्टको)
-coffee; n(कफी) #food
+wifi; वाइ-फाइ #computer.network

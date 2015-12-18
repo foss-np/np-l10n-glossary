@@ -25,6 +25,7 @@ cardamom; n(अलैंची) #fruit
 carrot; [क्यारट] n(गाँजर)
 cashew; [क्याश्यु], n(काजु), sci{Anacardium occidentale L.} wiki{Cashew}
 cauliflower; [काँलिफ्लावर] n(काउली, फूलकोबी)
+cheese; n(दुग्धसार)
 cherry; [चेरि] n(पैयुँ), sci{Prunus cerasoides D. Don} #fruit
 chickpea; n(चना @gram)
 chilli; [चिल्‍ली] n(खुर्सानी, खोर्सानी) #spice
@@ -94,7 +95,7 @@ potato; n(आलु) #vegetable
 pummelo; =pomilo
 pumpkin; [पम्पकिन] n(फर्सी, कद्‌दू) #vegetable
 quince; n(नेपाली स्याउ) #fruit sci{Cydonia oblonga Mill}
-radish; [र्‍याडिश] n(मूला)
+radish; [र्‍याडिश] n(मूला) #vegetable
 raisin; [रेजिन] n(किसमिस, दाख, बेदाना)
 rice; n(घान, भात, चमल)
 saffron; n(केशर) #spice
@@ -117,4 +118,3 @@ wheat; [वीट्] n(गहूँ) #crop, wiki{Wheat}
 wheatbuck; [वीट्बक] n(फापर) #crop, wiki{Buckwheat}
 wild pear; n(मयल) #fruit sci{Pyrus pashia Buch-Ham}
 wood apple; n(बेल) #fruit sci{Aegle marmelos Corrg}
-cheese; n(दुग्धसार)
