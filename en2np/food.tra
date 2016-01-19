@@ -18,8 +18,8 @@ blackberry; [ब्ल्याक बेरि] n(ऐंसेलु) #fruit
 blueberry; [ब्ल्याक बेरि] n(नीलो ऐसेलु) #fruit
 bread; [ब्रेड्] n(पाउरोटी)
 brinjal; [ब्रीञ्‍जल्] =eggplant
-butter; n(मखन)
-cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा) #vegetable
+butter; n(मखन, नौनी)
+cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा, गोबी) #vegetable
 capsicum; [क्याप्सिकम] n(भिंडे/भेडे खुर्सानी), sci{Capsicum Anuum Group}, wiki{Bell_pepper}
 cardamom; n(अलैंची) #fruit
 carrot; [क्यारट] n(गाँजर)
@@ -118,3 +118,5 @@ wheat; [वीट्] n(गहूँ) #crop, wiki{Wheat}
 wheatbuck; [वीट्बक] n(फापर) #crop, wiki{Buckwheat}
 wild pear; n(मयल) #fruit sci{Pyrus pashia Buch-Ham}
 wood apple; n(बेल) #fruit sci{Aegle marmelos Corrg}
+bead plum; [विड प्लम] n(हाडेवयर) {Zizyphus incurva Roxb}
+pestachio nut; पेस्ता
