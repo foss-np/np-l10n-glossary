@@ -7,6 +7,7 @@ banana; n(केरा), n(<bunch> कांग्यो, म्वाय) #frui
 barberry; [बार्बेरि] n(दारुहल्दी) #fruit sci{Berberis aristata Dc}
 barley; [बारले] n(जौ) #crop
 bayberry; [बेबेरि] n(काफल) #fruit sci{Myrica esculenta}
+bead plum; [विड प्लम] n(हाडेवयर) {Zizyphus incurva Roxb}
 bell pepper; =capsicum
 bengal quince; ~(wood apple)
 berberry; [बारबेरि] n(चुत्रो) #fruit
@@ -75,6 +76,7 @@ moringa; n(सैजन, सहिजन, सजिवन) sci{Moringa oleifera}
 mushroom; च्याउ
 noodle; [नूडल] n(चाउचाउ)
 oleaster; n(मदिलो) #fruit sci{Elaeagnus latifolia L}
+omelet; [अँम्लेट्] n(अण्डाको परिकार)
 onion; [अनियन] n(प्याज), n(छयापी) #spice
 orange keep;  n(<Spur/Bitter Orange>कीप) #fruit sci{Citrus aurantium L}
 orange; n(<Mandarin, Tangerine, Satsuma orange, Loose skin Orange> सुन्तला) #fruit sci{Citrus reticulata Blanco}
@@ -86,6 +88,7 @@ pear chinese; n(चिनिया नासपाती) #fruit sci{Pyrus: pyri
 pear; n(नास्पाती) #fruit sci{Pyrus communis L.}
 pepper; n(मरिच) #spice
 persimmon; n(हलुवाबेद) #fruit sci{Diospyros virginiana L.Physalis/Japanese persimmon - Diospyros kaki}
+pestachio nut; पेस्ता
 pineapple; n(भुइँ कटहर) #fruit sci{Ananas Comosus}
 plum; [प्लम] n(बयर, बैर)
 plum; n(आलुबखडा) #fruit sci{Prunus domestica}
@@ -118,5 +121,3 @@ wheat; [वीट्] n(गहूँ) #crop, wiki{Wheat}
 wheatbuck; [वीट्बक] n(फापर) #crop, wiki{Buckwheat}
 wild pear; n(मयल) #fruit sci{Pyrus pashia Buch-Ham}
 wood apple; n(बेल) #fruit sci{Aegle marmelos Corrg}
-bead plum; [विड प्लम] n(हाडेवयर) {Zizyphus incurva Roxb}
-pestachio nut; पेस्ता

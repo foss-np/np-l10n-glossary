@@ -10,6 +10,7 @@ briefcase; ब्रिफकेस
 browser; ब्राउजर #computer
 brush; [ब्रस] n(ब्रुस)
 budget; बजेट
+cache; क्यास #computer.memory
 cake; n(केक) #food
 camera; n(क्यामरा, क्यामेरा)
 cement; n(सिमेण्ट, सिमण्टी)
@@ -42,8 +43,10 @@ format; फरम्याट
 furniture; फर्नीचर
 gallery; ग्यालरी
 google; [गूगल] खोज्नु #.com
+gram; ग्राम<तौल> #unit.weight
 guitar; गितार #music
 hotel; होटेल
+hurray; हुर्रे
 icon; आइकन
 jersy; जर्सी
 joker; जोकर
@@ -56,6 +59,7 @@ lollipop; ललीपप #food
 matrix; म्याट्रिक्स
 may; मे #time
 media; मेडिया, संचार
+menu; मेनु
 mike; =microphone
 minute; n(मिनिट) #time
 mobile; मोबाइल
