@@ -111,4 +111,5 @@ trillion; {10¹²}
 quadrillion; {10¹⁵}
 quintillion; {10¹⁸}
 googol; {10¹⁰⁰}
-googolplex; {10^(10^100)}
+googolplex; {10^10^100}
+googolplexian; {10^10^10^100}
