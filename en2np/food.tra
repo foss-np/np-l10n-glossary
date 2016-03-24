@@ -22,7 +22,8 @@ brinjal; [ब्रीञ्‍जल्] =eggplant
 butter; n(मखन, नौनी)
 cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा, गोबी) #vegetable
 capsicum; [क्याप्सिकम] n(भिंडे/भेडे खुर्सानी), sci{Capsicum Anuum Group}, wiki{Bell_pepper}
-cardamom; n(अलैंची) #fruit
+cardamom; n(अलैंची) #fruit, सुकुमेल
+cardamon; =cardamom
 carrot; [क्यारट] n(गाँजर)
 cashew; [क्याश्यु], n(काजु), sci{Anacardium occidentale L.} wiki{Cashew}
 cauliflower; [काँलिफ्लावर] n(काउली, फूलकोबी)
@@ -31,6 +32,7 @@ cherry; [चेरि] n(पैयुँ), sci{Prunus cerasoides D. Don} #fruit
 chickpea; n(चना @gram)
 chilli; [चिल्‍ली] n(खुर्सानी, खोर्सानी) #spice
 cinnamon; [सिनामन्], n(दालचीनी, तेजपात) #spice
+clove; n(ल्वाङ) #spice
 coconut; [कोकोनट] n(नरिवल) #fruit sci{Cocos nucifera L}
 coriander; [कोरीऐन्डर] n(धनियाँ, धनिया) #spice
 corn; n(मकै)
@@ -69,6 +71,7 @@ lichee; n(लिची) #fruit sci{Nephelium litchi camp}
 lichi; ~lychee
 lime; [लाइम ] n(<green>@कागती sci{Citrus aurantifolia Swingle}), n(<sweet>@चाक्सी {Citrus limettioides Tanaka}) #fruit
 loquat; n(लौकाट) #fruit sci{Eribotrya eliptica}
+maize; =corn
 mango; n(आँप) #fruit sci{Mangifera indica L}
 melon; मेवा
 milk; [मिल्क] n(दूध)
@@ -80,9 +83,7 @@ oleaster; n(मदिलो) #fruit sci{Elaeagnus latifolia L}
 omelet; [अँम्लेट्] n(अण्डाको परिकार)
 onion; [अनियन] n(प्याज), n(छयापी) #spice
 orange keep;  n(<Spur/Bitter Orange>कीप) #fruit sci{Citrus aurantium L}
-orange; n(<Mandarin, Tangerine, Satsuma orange, Loose skin Orange> सुन्तला) #fruit sci{Citrus reticulata Blanco}
-orange; n(<sweet or Malta orange>मौशम्बी) #fruit sci{Citrus sinensis Osbeck}
-orange; n(जुनार) #fruit sci{Citrus sinensis}
+orange; n(<Loose skin> Mandarin, Tangerine, Satsuma orange सुन्तला sci{Citrus reticulata Blanco}), n(<sweet> Malta orange मौशम्बी sci{Citrus sinensis Osbeck}), n(जुनार sci{Citrus sinensis}) #fruit
 papaya; n(पपिता, मेवा) #fruit sci{Carica papaya L}
 peach; n(आरु) #fruit sci{Prunus persica Stokes}
 pear chinese; n(चिनिया नासपाती) #fruit sci{Pyrus: pyrifolia Nakai}
@@ -91,8 +92,7 @@ pepper; n(मरिच) #spice
 persimmon; n(हलुवाबेद) #fruit sci{Diospyros virginiana L.Physalis/Japanese persimmon - Diospyros kaki}
 pestachio nut; पेस्ता
 pineapple; n(भुइँ कटहर) #fruit sci{Ananas Comosus}
-plum; [प्लम] n(बयर, बैर)
-plum; n(आलुबखडा) #fruit sci{Prunus domestica}
+plum; [प्लम] n(आलुबखडा sci{Prunus domestica}), n(बयर, बैर) #fruit
 pomegranate; n(अनार , दारिम) #fruit sci{Punica granatum L}
 pomilo; n(भोगटे) #fruit sci{Citrus grandis Osbeck}
 potato; n(आलु) #vegetable
