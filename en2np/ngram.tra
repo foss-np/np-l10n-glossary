@@ -1,37 +1,37 @@
-Ante Meridiem; {AM} उत्तरार्ध #time
-Black & White; {BW} n(श्यामश्वेत)
-Blank Carbon Copy; {BCC} n(गुप्त बोधार्थ प्रतिलिपि) #mail
-Carbon Copy; {CC} बोधार्थ प्रतिलिपि #mail
-Chief District Officer; प्रमुख जिल्‍ला अधिकारी
+Ante Meridiem; abbr{AM} उत्तरार्ध #time
+Black & White; abbr{BW} n(श्यामश्वेत)
+Blank Carbon Copy; abbr{BCC} n(<mail> गुप्त बोधार्थ प्रतिलिपि)
+Carbon Copy; abbr{CC} n(<mail> बोधार्थ प्रतिलिपि)
+Chief District Officer; abbr{CDO} प्रमुख जिल्‍ला अधिकारी
 Fast forward; कुदाउनुहोस्
-Frequently Asked Questions; {FAQ} धेरै सोधिएका प्रश्नहरू
-Head Quarters; {HQ} मुख्यालय
-Information Technology; {IT} सूचना प्रविधि
-Least Common Multiple; अधिक पूर्णाङ्कहरूको लघुत्तम #stats
-Non Available; {N/A} उपल्बध छैन
-Post Meridiem; {PM} अपरान्ह #time
+Frequently Asked Questions; abbr{FAQ} धेरै सोधिएका प्रश्नहरू
+Head Quarters; abbr{HQ} मुख्यालय
+Information Technology; abbr{IT} सूचना प्रविधि
+Least Common Multiple; abbr{LCM} अधिक पूर्णाङ्कहरूको लघुत्तम #math.stats
+Non Available; abbr{N/A} उपल्बध छैन
+Post Meridiem; abbr{PM} अपरान्ह #time
 Q & A; ~discuss
-Short Message Service; {SMS} [य्सय्मय्स] #phone
+Short Message Service; abbr{SMS} [य्सय्मय्स] m(send text message from phone)
 accurd interest; मिश्रित ब्याज, आवधिक ब्याज #finance
 arm pit; n(काखि) #body
 arrow bullet; बुँदा
 aspect ratio; n(आकार अनुपात)
 brother in law; सालो #relation
-bus stop; बस बिसैना
+bus stop; बस बिसौना
 cardinal number; आधारभूत सङ्ख्या #math
 catch up; भ्याउनु
 compound interest; चक्रवृद्धि/चक्रवृर्ती ब्याज #finance
 daughter in law; बुहारी #relation
 double-declining balance method; अंकगणितीय दोब्बर-घट्दो मौज्दात #finance
 effective interest; प्रभावकारी ब्याज #finance
-exchange rate; @(foreign exchange)
+exchange rate; @(foreign exchange) #finance
 face to face; साक्षात
 father in law; ससुरा #relation
 ferris wheel; n(रोटेपिङ्)
 fire engine; n(दमकल)
-foreign exchange; {forex} विनिमय दर @(exchange rate)
+foreign exchange; {forex} विनिमय दर @(exchange rate) #finance
 forest fire; डढयौलो
-forex; @(foreign exchange)
+forex; @(foreign exchange) #finance
 forward mail; अग्रेषित
 got it; बुँझें
 heart attack; हृदय धात
@@ -47,8 +47,9 @@ never mind; छाडिदेउ, वास्ता नगर्नुहो�
 no entry; प्रवेश निषेध
 no longer; अब उप्रान्त, अब देखी
 oh no!; लौं न नि
-optical disk; चक्का
+optical disk; चक्का #computer #tech
 post office; हुलाक
+pre-register; अग्रिम दर्ता
 public address speaker; आकशवाणी
 read hot; जल्दो बल्दो
 record office; किताबखाना
@@ -60,6 +61,7 @@ son-in-law; ज्वाँई #relation
 spinal cord; मेरुदण्ड #body
 square root; वर्गमूल #math
 standard deviation; औसत विचलन #math #stats
+stay in the loop; जानकार रहनुहोस्
 that's all; यत्ति नै
 top hat; जादुगरको टोपी
 total profit; कुल नाफा

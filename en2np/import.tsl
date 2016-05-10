@@ -14,7 +14,7 @@ cache; क्यास #computer.memory
 cake; n(केक) #food
 camera; n(क्यामरा, क्यामेरा)
 cement; n(सिमेण्ट, सिमण्टी)
-centimeter; {cm} n(सेन्टिमिटर) #unit
+centimeter; abbr{cm} n(सेन्टिमिटर) #unit.distance
 charge; चार्ज #physics
 charging; v(चार्जिङ्)
 chocolate; n(चकलेटी)
@@ -23,6 +23,7 @@ codecs; कोडेक
 coffee; n(कफी) #food
 computer; n(कम्प्युटर)
 copy; n(कापी)
+cricket; n(क्रिकेट) #game
 cup; कप
 cycle; n(साइकल)
 data; डेटा
@@ -32,7 +33,7 @@ drive; ड्राइभ #computer
 email; [इमेल] पत्र, पत्राचार, सन्देश
 engine; इञ्‍जिन
 extention; एक्सटेंशन
-facebook; फेसबुक #.com
+facebook; फेसबुक #com.www
 february; फेब्रुअरी
 file; फाइल
 filter; फिल्टर
@@ -42,7 +43,7 @@ form; फारम
 format; फरम्याट
 furniture; फर्नीचर
 gallery; ग्यालरी
-google; [गूगल] खोज्नु #.com
+google; [गूगल] खोज्नु #com.www
 gram; ग्राम<तौल> #unit.weight
 guitar; गितार #music
 hotel; होटेल
@@ -53,11 +54,11 @@ joker; जोकर
 june; n(जुन) #time
 key; किई #computer
 keyboard; किबोर्ड #computer
-kilometer; {km} n(किलोमिटर) #unit
+kilometer; {km} n(किलोमिटर) #unit.distance
 lens; लेन्स
 lollipop; ललीपप #food
 matrix; म्याट्रिक्स
-may; मे #time
+may; मे, m(अंग्रेजी सालको पाँचौ महिना) #time
 media; मेडिया, संचार
 menu; मेनु
 mike; =microphone
@@ -69,14 +70,14 @@ nepal; n(नेपाल) #country
 nepalese; @nepali
 panda; पान्डा #animal
 parking; पार्किंङ
-penguin; पेगुईन #animal
+penguin; n(पेगुईन) #animal.bird
 phi; फाई #math.greek
 pi; पाइ #math.greek
 pizza; [पिज्जा] n(इटालियाली खाना जुन मोटो रोटीको माथी चीज र सामाग्री हालेर बनाइन्छ)
 program; प्रोग्राम #computer
 proxy; प्रोक्सी #computer.network
 radio; रेडियो
-record; रेकर्ड #media
+record; n(<media> रेकर्ड)
 remote; रिमोट
 restaurant; n(रेस्टुरेन्ट)
 ringtone; रिङ्गटोन
@@ -100,6 +101,6 @@ televison; n(टिभी)
 ticket; टिकेट
 traffic; ट्राफिक
 transparency; ट्रान्सपरेन्सी
-twitter; ट्‌वीटर #.com
-whale; n(ह्वल) #animal
+twitter; ट्‌वीटर #com.www
+whale; n(ह्वल) #animal.aqua
 wifi; वाइ-फाइ #computer.network
