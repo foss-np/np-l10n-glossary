@@ -14,26 +14,6 @@ Public glossary maintained by foss-np community.
   liable for any direct, indirect or consequential damage cause by the
   use of this content.
 
-* Introduction
-
-  Nepali language (aka: Pahadiya ne:पाहडिया, Parbatiya ne:पर्वतिय, Khas
-  Kura/Bhasa ne:खास कुरा/भाषा) is Indo-Aryan language developed from
-  its roots of Sanskrit ne:संस्कृत and simplification over the time and
-  getting influenced by Tibeto-Burman Languages.
-
-** Spoken Area
-
-   | Nepal   | Official language, Lingua franca          |
-   | India   | Spoken in North-East                      |
-   | Bhutan  | Spoken by more than 30% of the population |
-   | Myanmar | around 300,000 speakers                   |
-
-** Character Set:
-   ISO Codes:
-   - ISO 639-1 ne
-   - ISO 639-2 nep
-   - ISO 639-3 nep
-
 * What is l10n/i18n/g11n
 
   *Localization* (l10n) is the process of translating and adapting a
@@ -49,34 +29,17 @@ Public glossary maintained by foss-np community.
   localzation, making any product or service global, with simultaneous
   release in relevant markets.
 
-* Glossary
+* About Language
+
+  Nepali language (aka: Pahadiya ne:पाहडिया, Parbatiya ne:पर्वतिय, Khas
+  Kura/Bhasa ne:खास कुरा/भाषा) is Indo-Aryan language developed from
+  its roots of Sanskrit ne:संस्कृत and simplification over the time and
+  getting influenced by Tibeto-Burman Languages.
+
+  more information in [about.org]
+
+* Contribution
+
 ** Format
-   Separater is semicolon(;) since nepali has the : character.
-
-** Transliteration
-   ह्रस्व मात्रा (vowel modifiers) is should be used.
-
-   For example,
-   #+BEGIN_EXAMPLE
-   screen ; स्क्रिन
-   stream ; स्ट्रिम
-   beta   ; बिटा
-   #+END_EXAMPLE
-
-   Similarly, where there is "sh", श should be used.
-
-   For example,
-   #+BEGIN_EXAMPLE
-   spreadsheet ; स्प्रेडशिट
-   stylesheet  ; स्टायलशिट
-   shortcut    ; शर्टकट
-   shell       ; शेल
-   #+END_EXAMPLE
-
-** Acronyms/Abbreviations
-   Acronyms/Abbreviations are generally transliterated or left in
-   English. i.e. UNICEF is localized as युनिसेफ.
-
-* FAQ
-** Nepali OR Nepalese
-   Inside Nepal, use Nepali, outside Nepalese.
+   Separater is semicolon(;) since devnagari has similar colon(:)
+   character <unicode>

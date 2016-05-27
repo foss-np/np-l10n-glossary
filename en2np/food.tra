@@ -33,7 +33,7 @@ cheese; n(दुग्धसार)
 cherry; [चेरि] n(पैयुँ), sci{Prunus cerasoides D. Don} #fruit
 chickpea; n(चना @gram)
 chilli; [चिल्‍ली] n(खुर्सानी, खोर्सानी) #spice
-cinnamon; [सिनामन्], n(दालचीनी) n(<leaf>तेजपात) #spice
+cinnamon; [सिनामन्], n(दालचीनी) n(<leaf>तेजपात ~"bay leaf") #spice
 clove; n(ल्वाङ) #spice
 coconut; [कोकोनट] n(नरिवल), sci{Cocos nucifera L.} #fruit
 coriander; [कोरीऐन्डर] n(धनियाँ/धनिया) #spice
@@ -84,10 +84,10 @@ moringa; n(सैजन, सहिजन, सजिवन) sci{Moringa oleifera}
 mushroom; n(च्याउ)
 noodle; [नूडल] n(चाउचाउ)
 nutmeg; [नटमेग] n(जायफल/जाइफल)
-oats; [ओट्स] n(जौ) #crop
+oat; [ओट्] n(जौ, उवा) #crop
 oleaster; n(मदिलो), sci{Elaeagnus latifolia L} #fruit
 olive; [अलिभ] n(जेतुन, अण्डीर)
-omelet; [अँम्लेट्] n(अण्डाको परिकार)
+omelet; [अँम्लेट्] m(अण्डाको परिकार)
 onion; [अनियन] n(प्याज), n(छयापी) #spice
 orange keep;  n(<Spur/Bitter Orange>कीप), sci{Citrus aurantium L} #fruit
 orange; n(<Loose skin> Mandarin, Tangerine, Satsuma orange, सुन्तला, sci{Citrus reticulata Blanco}), n(<sweet> Malta orange, मौशम्बी, sci{Citrus sinensis Osbeck}), n(जुनार, sci{Citrus sinensis}) #fruit
