@@ -105,10 +105,10 @@ hundred thousand; n(लाख), num{<10⁵>100000}
 million; [मिल्यन] n(दश लाख), num{<10⁶>1000000}
 ten million; n(करोड), num{<10⁷>10000000}
 hundred million; n(दश करोड), num{<10⁸>100000000}
-billion; [बिलियन] n(अरब), j(असङ्ख्य), num{<10⁹>1000000000}
-ten billion; n(दश अरब), num{<10¹⁰>10000000000}
-hundred billion; n(खरब), num{<10¹¹>100000000000}
-trillion; n(दश खरब) num{<10¹²>1000000000000}
+billion; [बिलियन] n(अरब/अर्ब), j(असङ्ख्य), num{<10⁹>1000000000}
+ten billion; n(दश अरब/अर्ब), num{<10¹⁰>10000000000}
+hundred billion; n(खरब/खर्ब), num{<10¹¹>100000000000}
+trillion; n(दश खरब/खर्ब) num{<10¹²>1000000000000}
 quadrillion; num{<10¹⁵>}
 quintillion; num{<10¹⁸>}
 sextillion; num{<10²¹>}
