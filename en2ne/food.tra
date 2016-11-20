@@ -1,15 +1,16 @@
-almond; n(हाडे बदाम)
-apple; [एप्पल] n(स्याउ), sci{Malus sylrestris}
+Asian/Japanese persimmon; n(हलुवाबेद/हलुवाबेत), sci{Diospyros kaki} #fruit
+almond; n(हाडे बदाम) #nuts
+apple; [एप्पल] n(स्याउ), sci{Malus sylrestris} #fruit
 apricot; [ऐप्रिकाट] n(खुर्पानी, अञ्‍जीर), sci{Prunus armenica L} #fruit
 asparagus; [अयास्प्यारगस्] n(कुरिलो, कुरिल) #vegetable
 avocado; [एभोकाडो] n(घीउफल, रुचिरा), sci{Persea americana} #fruit
 banana; n(केरा), n(<bunch> कांग्यो, म्वाय), sci{Musa paradisiaca} #fruit
 barberry; [बार्बेरि] n(दारुहल्दी), sci{Berberis aristata Dc} #fruit
-barley; [बारले] n(जौ) #crop
-basil; [ब्याजिल्] n(तुलसी, तुलसीपत्र)
+barley; [बारले] n(जौ) #grain #crop
+basil; [ब्याजिल्] n(तुलसी, तुलसीपत्र) #spice
 bay leaf; n(तेजपात) #spice
 bayberry; [बेबेरि] n(काफल), sci{Myrica esculenta} #fruit
-bead plum; [विड प्लम] n(हाडेवयर) {Zizyphus incurva Roxb}
+bead plum; [विड प्लम] n(हाडेवयर) sci{Zizyphus incurva Roxb} #fruit
 bell pepper; =capsicum
 bengal quince; ~(wood apple)
 berberry; [बारबेरि] n(चुत्रो) #fruit
@@ -23,12 +24,12 @@ bread; [ब्रेड्] n(पाउरोटी)
 brinjal; [ब्रीञ्‍जल्] =eggplant #vegetable
 butter; n(मखन, नौनी)
 cabbage; [क्याबेज्] n(बन्दाकोबी, बन्दा, गोबी) #vegetable
-capsicum; [क्याप्सिकम] n(भिंडे/भेडे खुर्सानी), sci{Capsicum Anuum Group}, wiki{Bell_pepper}
-cardamom; n(<black>अलैंची), n(<green> सुकुमेल) #spice
+capsicum; [क्याप्सिकम] n(भिंडे/भेडे खुर्सानी), sci{Capsicum Anuum Group}, wiki{Bell_pepper} #vegetable
+cardamom; n(<black/brown>अलैंची), n(<green>सुकुमेल) #spice
 cardamon; =cardamom
-carrot; [क्यारट] n(गाँजर)
-cashew; [क्याश्यु], n(काजु), sci{Anacardium occidentale L.} wiki{Cashew}
-cauliflower; [काँलिफ्लावर] n(काउली, फूलकोबी)
+carrot; [क्यारट] n(गाँजर) #vegetable
+cashew; [क्याश्यु], n(काजु), sci{Anacardium occidentale L.} wiki{Cashew} #nuts
+cauliflower; [काँलिफ्लावर] n(काउली, फूलकोबी) #vegitable
 cheese; n(दुग्धसार)
 cherry; [चेरि] n(पैयुँ), sci{Prunus cerasoides D. Don} #fruit
 chickpea; n(चना @gram)
@@ -37,18 +38,18 @@ cinnamon; [सिनामन्], n(दालचीनी) n(<leaf>तेजप
 clove; n(ल्वाङ) #spice
 coconut; [कोकोनट] n(नरिवल), sci{Cocos nucifera L.} #fruit
 coriander; [कोरीऐन्डर] n(धनियाँ/धनिया) #spice
-corn; n(मकै)
-cucumber; [क्युकम्बर] n(काँक्रो, खीरा)
+corn; n(मकै) #grain
+cucumber; [क्युकम्बर] n(काँक्रो, खीरा) #vegetable
 cumin; [क्यूमिन] n(<seed> जीरा) #spice
 curd; [कर्ड] n(दही)
 custard apple; n(सरीफा), sci{Annona squamosa L.} #fruit
 date; [डेट] n(<hard> खजूर, sci{Phoenix sylvestris Roxb.}), n(<soft> छोहरा) #fruit
 drumstick tree; =moringa
-egg; n(अण्डा)
+egg; n(अण्डा, फुल)
 eggplant; n(n(भन्टा, बैगन), wiki{Eggplant} #vegetable
 fenugreek; [फेनुग्रीक] n(मेथी) #spice
-fig; [फिग] n(अञ्‍जीर, अन्जिर, नेभारो, खुर्पानी), sci{Ficus carica L}, wiki{Common_fig}
-finger millet; [फिंगर मिलेट्] n(कोदो), wiki{Eleusine_coracana} #crop
+fig; [फिग] n(अञ्‍जीर, अन्जिर, नेभारो, खुर्पानी), sci{Ficus carica L}, wiki{Common_fig} #fruit
+finger millet; [फिंगर मिलेट्] n(कोदो), wiki{Eleusine_coracana}  #crop
 flaxseed; आलस, wiki{Flax}
 flour; [फ्वलार] n(<wheat> पीठो), n(आँटा), मैदा, सूजी, अपुँगो
 garlic; n(लसुन) #spice
@@ -58,7 +59,7 @@ gooseberry; [गूस बेरि] n(अमला, काँडे गुल�
 grape; [ग्रेप] n(अंगुर), sci{Vitis vinifera L} #fruit
 grapefruit; [ग्रेपफ्रूट] n(संखत्रो, भोगटे) sci{Citrus paradisi Macf}, wiki{Grapefruit} #fruit
 grapevine; [ग्रेपभाइन] n(अङ्गूरको लहरा) #fruit
-green mustard; [ग्रीन मस्टर्ड] n(<leaves>रायोको साग #vegetable), sci{Brassica juncea}, wiki{Brassica_juncea}
+green mustard; [ग्रीन मस्टर्ड] n(<leaves>रायोको साग), sci{Brassica juncea}, wiki{Brassica_juncea} #vegetable
 guava; [ग्वाभा] n(अम्बा), sci{Psidium guajava L} #fruit
 himalayan black salt; n(बिरे नुन), chem{Fe₃S₄}
 hog plum; =(spondias axillaris)
@@ -97,8 +98,8 @@ peach; n(आरु), sci{Prunus persica Stokes} #fruit
 pear chinese; n(चिनिया नासपाती), sci{Pyrus: pyrifolia Nakai} #fruit
 pear; n(नास्पाती), sci{Pyrus communis L.} #fruit
 pepper; n(मरिच) #spice
-persimmon; n(हलुवाबेद) sci{Diospyros virginiana L.Physalis/Japanese persimmon - Diospyros kaki} #fruit
-pestachio nut; पेस्ता
+persimmon; [पर्सिमन्] sci{Diospyros virginiana L. Physalis}, wiki{Persimmon} #fruit
+pestachio nut; n(पेस्ता)
 pineapple; n(भुइँ कटहर), sci{Ananas Comosus} #fruit
 plum; [प्लम] n(आलुबखडा, sci{Prunus domestica}), n(बयर, बैर) #fruit
 pomegranate; n(अनार , दारिम), sci{Punica granatum L} #fruit
@@ -116,7 +117,7 @@ salt; n(नुन)
 soyabean; भटमास
 spinach; पालूँगो
 spondias axillaris; n(<Nepalese> लप्सी)
-starfruit; n(कन्तरा) {Carambola}, #fruit
+starfruit; n(कन्तरा) sci{Carambola}, #fruit
 strawberry; [स्ट्रबेरी] n(स्ट्रबेरी), sci{Fragaria ananassa} #fruit
 sugar apple; =(custard apple) #fruit
 sugar; s(चिनी)

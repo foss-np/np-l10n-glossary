@@ -13,108 +13,105 @@ eleven; [इलेवन] n(एघार), num{11}
 twelve; [ट्वेल्भ] n(बाह्र), num{12}
 thirteen; [थर्टीन] n(तेह्र), num{13}
 fourteen; [फोर्टीन] n(चौध), num{14}
-fifteen; [फिफ्टीन] n(पँन्ध्र, पन्ध्र १५), num{15}
+fifteen; [फिफ्टीन] n(पँन्ध्र, पन्ध्र), num{15}
 sixteen; [सिक्सटीन] n(सोह्र), num{16}
 seventeen; [सेभ्नेटीन] n(सत्र), num{17}
 eighteen; [एटीन] n(अठार), num{18}
 nineteen; [नाइनटीन] n(उन्‍नाईस), num{19}
 twenty; [ट्वान्टि] n(बीस), num{20}
-twenty one; n(एक्काईस, एकाईस), num{21}
-twenty two; n(बाइस), num{22}
-twenty three; n(तेइस), num{23}
-twenty four; n(चौबीस), num{24}
-twenty five; n(पच्चीस, पचीस), num{25}
-twenty six; n(छब्बीस,छबीस), num{26}
-twenty seven; n(सत्ताइस), num{27}
-twenty eight; n(अठाइस), num{28}
-twenty nine; n(उन्‍नतीस, उन्‍नत्तीस), num{29}
+twenty-one; n(एक्काईस, एकाईस), num{21}
+twenty-two; n(बाइस), num{22}
+twenty-three; n(तेइस), num{23}
+twenty-four; n(चौबीस), num{24}
+twenty-five; n(पच्चीस, पचीस), num{25}
+twenty-six; n(छब्बीस,छबीस), num{26}
+twenty-seven; n(सत्ताइस), num{27}
+twenty-eight; n(अठाइस), num{28}
+twenty-nine; n(उन्‍नतीस, उन्‍नत्तीस), num{29}
 thirty; [थर्टि] n(तीस), num{30}
-thirty one; n(एकतीस), num{31}
-thirty two; n(बत्तीस), num{32}
-thirty three; n(तेत्तीस), num{33}
-thirty four; n(चौंतीस), num{34}
-thirty five; n(पैंतीस), num{35}
-thirty six; n(छत्तीस), num{36}
-thirty seven; n(सैंतीस), num{37}
-thirty eight; n(अठतीस), num{38}
-thirty nine; n(उनान्चालीस, उन्‍नचालीस), num{39}
+thirty-one; n(एकतीस), num{31}
+thirty-two; n(बत्तीस), num{32}
+thirty-three; n(तेत्तीस), num{33}
+thirty-four; n(चौंतीस), num{34}
+thirty-five; n(पैंतीस), num{35}
+thirty-six; n(छत्तीस), num{36}
+thirty-seven; n(सैंतीस), num{37}
+thirty-eight; n(अठतीस), num{38}
+thirty-nine; n(उनान्चालीस, उन्‍नचालीस), num{39}
 forty; [फोर्टि] n(चालीस), num{40}
-forty one; n(एकचालीस), num{41}
-forty two; n(बयालीस, बैयालीस), num{42}
-forty three; n(त्रिचालीस), num{43}
-forty four; n(चवालीस), num{44}
-forty five; n(पैंतालीस), num{45}
-forty six; n(छयालीस), num{46}
-forty seven; n(सतचालीस, सत्चालीस), num{47}
-forty eight; n(अठचालीस), num{48}
-forty nine; n(उनञ्‍चास, उनन्चास), num{49}
+forty-one; n(एकचालीस), num{41}
+forty-two; n(बयालीस, बैयालीस), num{42}
+forty-three; n(त्रिचालीस), num{43}
+forty-four; n(चवालीस), num{44}
+forty-five; n(पैंतालीस), num{45}
+forty-six; n(छयालीस), num{46}
+forty-seven; n(सतचालीस, सत्चालीस), num{47}
+forty-eight; n(अठचालीस), num{48}
+forty-nine; n(उनञ्‍चास, उनन्चास), num{49}
 fifty; [फिफ्टि] n(पचास), num{50}
-fifty one; n(एकौन्‍न, एकावन्‍न, एकाउन्‍न), num{51}
-fifty two; n(बाउन्‍न), num{52}
-fifty three; n(त्रिपन्‍न), num{53}
-fifty four; n(चौवन्‍न, चवन्‍न), num{54}
-fifty five; n(पचपन्‍न, पच्पन्‍न), num{55}
-fifty six; n(छप्पन्‍न, छपन्‍न), num{56}
-fifty seven; n(सन्ताउन्‍न), num{57}
-fifty eight; n(आन्ठाउन्‍न), num{58}
-fifty nine; n(उनसाठ्ठी, उन्साठी), num{59}
+fifty-one; n(एकौन्‍न, एकावन्‍न, एकाउन्‍न), num{51}
+fifty-two; n(बाउन्‍न), num{52}
+fifty-three; n(त्रिपन्‍न), num{53}
+fifty-four; n(चौवन्‍न, चवन्‍न), num{54}
+fifty-five; n(पचपन्‍न, पच्पन्‍न), num{55}
+fifty-six; n(छप्पन्‍न, छपन्‍न), num{56}
+fifty-seven; n(सन्ताउन्‍न), num{57}
+fifty-eight; n(आन्ठाउन्‍न), num{58}
+fifty-nine; n(उनसाठ्ठी, उन्साठी), num{59}
 sixty; [सिक्स्टि] n(साठ्ठी), num{60}
-sixty one; n(एकसाठ्ठी, एकसठ्ठी), num{61}
-sixty two; n(बैसाठ्ठी, बैसठ्ठी), num{62}
-sixty three; n(त्रिसाठ्ठी, त्रिसठ्ठी), num{63}
-sixty four; n(चौसाठ्ठी, चौसठ्ठी), num{64}
-sixty five; n(पैंसाठ्ठी, पैंसठ्ठी), num{65}
-sixty six; n(छैसाठ्ठी, छैसठ्ठी), num{66}
-sixty seven; n(सतसाठ्ठी, सत्साठ्ठी सतसठ्ठी, सत्सठ्ठी), num{67}
-sixty eight; n(अठसाठ्ठी, अठसठ्ठी ६८), num{68}
-sixty nine; n(उन्‍नसत्तरी), num{69}
+sixty-one; n(एकसाठ्ठी, एकसठ्ठी), num{61}
+sixty-two; n(बैसाठ्ठी, बैसठ्ठी), num{62}
+sixty-three; n(त्रिसाठ्ठी, त्रिसठ्ठी), num{63}
+sixty-four; n(चौसाठ्ठी, चौसठ्ठी), num{64}
+sixty-five; n(पैंसाठ्ठी, पैंसठ्ठी), num{65}
+sixty-six; n(छैसाठ्ठी, छैसठ्ठी), num{66}
+sixty-seven; n(सतसाठ्ठी, सत्साठ्ठी सतसठ्ठी, सत्सठ्ठी), num{67}
+sixty-eight; n(अठसाठ्ठी, अठसठ्ठी), num{68}
+sixty-nine; n(उन्‍नसत्तरी), num{69}
 seventy; [सेभन्टि] n(सत्तरी), num{70}
-seventy one; n(एकहत्तर, एक्तर), num{71}
-seventy two; n(बहत्तर), num{72}
-seventy three; n(त्रिहत्तर), num{73}
-seventy four; n(चौहत्तर), num{74}
-seventy five; n(पचहत्तर), num{75}
-seventy six; n(छैहत्तर, छहत्तर), num{76}
-seventy seven; n(सतहत्तर), num{77}
-seventy eight; n(अठहत्तर), num{78}
-seventy nine; n(उन्‍नसी, उन्‍नाअसी), num{79}
+seventy-one; n(एकहत्तर, एक्तर), num{71}
+seventy-two; n(बहत्तर), num{72}
+seventy-three; n(त्रिहत्तर), num{73}
+seventy-four; n(चौहत्तर), num{74}
+seventy-five; n(पचहत्तर), num{75}
+seventy-six; n(छैहत्तर, छहत्तर), num{76}
+seventy-seven; n(सतहत्तर), num{77}
+seventy-eight; n(अठहत्तर), num{78}
+seventy-nine; n(उन्‍नसी, उन्‍नाअसी), num{79}
 eighty; [एइट्टि] n(अस्सी), num{80}
-eighty one; n(एकासी), num{81}
-eighty two; n(बयासी, बैयासी), num{82}
-eighty three; n(त्रियासी), num{83}
-eighty four; n(चौरासी, चौवासी), num{84}
-eighty five; n(पचासी), num{85}
-eighty six; n(छयासी), num{86}
-eighty seven; n(सतासी), num{87}
-eighty eight; n(अठ्ठासी), num{88}
-eighty nine; n(उनान्‍नब्बे), num{89}
+eighty-one; n(एकासी), num{81}
+eighty-two; n(बयासी, बैयासी), num{82}
+eighty-three; n(त्रियासी), num{83}
+eighty-four; n(चौरासी, चौवासी), num{84}
+eighty-five; n(पचासी), num{85}
+eighty-six; n(छयासी), num{86}
+eighty-seven; n(सतासी), num{87}
+eighty-eight; n(अठ्ठासी), num{88}
+eighty-nine; n(उनान्‍नब्बे), num{89}
 ninety; [नाइन्टि] n(नब्बे), num{90}
-ninety one; n(एकान्‍नब्बे, एकानब्बे), num{91}
-ninety two; n(बयान्‍नब्बे, बयानब्बे, बैयान्‍नब्बे, बैयानब्बे), num{92}
-ninety three; n(त्रियान्‍नब्बे, त्रियानब्बे), num{93}
-ninety four; n(चौरान्‍नब्बे, चौरानब्बे), num{94}
-ninety five; n(पंचान्‍नब्बे, पंचानब्बे), num{95}
-ninety six; n(छयान्‍नब्बे, छयानब्बे), num{96}
-ninety seven; n(संतान्‍नब्बे, संतानब्बे), num{97}
-ninety eight; n(अंठान्‍नब्बे, अंठानब्बे), num{98}
-ninety nine; n(उनान्सए, उनान्सय), num{99}
+ninety-one; n(एकान्‍नब्बे, एकानब्बे), num{91}
+ninety-two; n(बयान्‍नब्बे, बयानब्बे, बैयान्‍नब्बे, बैयानब्बे), num{92}
+ninety-three; n(त्रियान्‍नब्बे, त्रियानब्बे), num{93}
+ninety-four; n(चौरान्‍नब्बे, चौरानब्बे), num{94}
+ninety-five; n(पंचान्‍नब्बे, पंचानब्बे), num{95}
+ninety-six; n(छयान्‍नब्बे, छयानब्बे), num{96}
+ninety-seven; n(संतान्‍नब्बे, संतानब्बे), num{97}
+ninety-eight; n(अंठान्‍नब्बे, अंठानब्बे), num{98}
+ninety-nine; n(उनान्सए, उनान्सय), num{99}
 hundred; [हन्ड्रेड] n(सय), num{100}
-thousand; [थाउज्याण्ड] n(हजार), num{<10³>1000}
-ten thousand; n(दश हजार), num{<10⁴>10000}
-hundred thousand; n(लाख), num{<10⁵>100000}
-million; [मिल्यन] n(दश लाख), num{<10⁶>1000000}
-ten million; n(करोड), num{<10⁷>10000000}
-hundred million; n(दश करोड), num{<10⁸>100000000}
-billion; [बिलियन] n(अरब/अर्ब), j(असङ्ख्य), num{<10⁹>1000000000}
-ten billion; n(दश अरब/अर्ब), num{<10¹⁰>10000000000}
-hundred billion; n(खरब/खर्ब), num{<10¹¹>100000000000}
-trillion; n(दश खरब/खर्ब) num{<10¹²>1000000000000}
-quadrillion; num{<10¹⁵>}
-quintillion; num{<10¹⁸>}
-sextillion; num{<10²¹>}
-septillion; num{<10²³>}
-octillion; num{<10²⁶>}
-nonillion; num{<10²⁹>}
-googol; num{<10¹⁰⁰>}
-googolplex; num{<10^10^100>}
-googolplexian; {<10^10^10^100>}
+thousand; [थाउज्याण्ड] n(हजार), <10³>, num{1000}
+ten thousand; n(दश हजार), <10⁴>, num{10000}
+hundred thousand; n(लाख), <10⁵>, num{100000}
+million; [मिल्यन] n(दश लाख), <10⁶>, num{1000000}
+ten million; n(करोड), <10⁷>, num{10000000}
+hundred million; n(दश करोड), <10⁸>, num{100000000}
+billion; [बिलियन] n(अर्ब/अरब), j(असङ्ख्य), <10⁹>, num{1000000000}
+ten billion; n(दश अर्ब/अरब), <10¹⁰>, num{10000000000}
+hundred billion; n(खर्ब/खरब/), <10¹¹>, num{100000000000}
+trillion; [त्रीलियन] n(दश खर्ब/खरब), <10¹²>, num{1000000000000}
+ten trillion; n(नील), <10¹³>, num{10000000000000}
+hundred trillion; n(दश नील), <10¹⁴>, num{100000000000000}
+quadrillion; n(पदम), <10¹⁵>, num{1000000000000000}
+ten quadrillion; n(महा पदम), <10¹⁶>, num{10000000000000000}
+hundred quadrillion; n(शंख), <10¹⁷>, num{100000000000000000}
+quintillion; n(महा शंख), <10¹⁸>, num{1000000000000000000}

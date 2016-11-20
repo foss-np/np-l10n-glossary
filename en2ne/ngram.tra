@@ -1,4 +1,4 @@
-Ante Meridiem; abbr{AM} उत्तरार्ध #time
+Ante Meridiem; abbr{AM} उत्तरार्ध, पूर्वान्ह #time
 Black & White; abbr{BW} n(श्यामश्वेत)
 Blank Carbon Copy; abbr{BCC} n(<mail> गुप्त बोधार्थ प्रतिलिपि)
 Carbon Copy; abbr{CC} n(<mail> बोधार्थ प्रतिलिपि)
@@ -21,23 +21,29 @@ bus stop; बस बिसौना
 cardinal number; आधारभूत सङ्ख्या #math
 catch up; भ्याउनु
 compound interest; चक्रवृद्धि/चक्रवृर्ती ब्याज #finance
+connected to internet; [कनेक्टेट] v(जोडिएको)
 daughter in law; बुहारी #relation
 double-declining balance method; अंकगणितीय दोब्बर-घट्दो मौज्दात #finance
 effective interest; प्रभावकारी ब्याज #finance
+equilateral triangle; समद्विभुज #math.geometry.trigonometry
 exchange rate; @(foreign exchange) #finance
 face to face; साक्षात
 father in law; ससुरा #relation
 ferris wheel; n(रोटेपिङ्)
 fire engine; n(दमकल)
-foreign exchange; {forex} विनिमय दर @(exchange rate) #finance
+foreign exchange; abbr{forex} विनिमय दर @(exchange rate) #finance
 forest fire; डढयौलो
 forex; @(foreign exchange) #finance
 forward mail; अग्रेषित
+galavanized sheets; n(जस्ता पाता)
 got it; बुँझें
 heart attack; हृदय धात
+holiday hours; बिदाको दिन खुल्ने समय
+isoceles triangle; समद्विबाहु #math.geometry.trigonometry
 labor cost; ज्याला, पारिश्रमि
 living room; बैठक कोठा
 magnifying glass; आवर्धक लेन्स
+market captial; बजार पुँजीकरण
 marshal law; जंगी कानुन
 moral value; नैतिकता
 mother in law; सासु #relation
@@ -45,15 +51,19 @@ net profit; खुद नाफा
 never mind; छाडिदेउ, वास्ता नगर्नुहोस्
 no entry; प्रवेश निषेध
 no longer; अब उप्रान्त, अब देखी
+non profit; गैर नाफामूलक, नाफामुखी
 oh no!; लौं न नि
 optical disk; चक्का #computer #tech
 post office; हुलाक
 pre-register; अग्रिम दर्ता
 public address speaker; आकशवाणी
+rational numbers; सयुक्तिक #math
 read hot; जल्दो बल्दो
 record office; किताबखाना
 redemption amount; मुक्त राशि #finance
+right angled triangle; ऋजुकोणीय, समकोणीय #math.geometry.trigonometry
 round trip; दुईतर्फी
+scalene triangle; विसमभुज #math.geometry.trigonometry
 significant digit; आंकडा
 sister-in-law; साली #relation
 son-in-law; ज्वाँई #relation
@@ -68,8 +78,3 @@ traffic jam; चक्का जाम
 whistle blowing; पोल खोल्नु
 whole number; पूर्णाङ्क #math
 working hard; जोड्तोड्का साथ
-equilateral triangle; समद्विभुज #math.geometry.trigonometry
-isoceles triangle; समद्विबाहु #math.geometry.trigonometry
-scalene triangle; विसमभुज #math.geometry.trigonometry
-right angled triangle; ऋजुकोणीय, समकोणीय #math.geometry.trigonometry
-rational numbers; सयुक्तिक #math

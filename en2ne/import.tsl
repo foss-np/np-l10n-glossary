@@ -10,6 +10,7 @@ briefcase; ब्रिफकेस
 browser; ब्राउजर #computer
 brush; [ब्रस] n(ब्रुस)
 budget; बजेट
+bug; [बग] m(An error in a computer program or system)
 cache; क्यास #computer.memory
 cake; n(केक) #food
 camera; n(क्यामरा, क्यामेरा)
@@ -17,6 +18,7 @@ cement; n(सिमेण्ट, सिमण्टी)
 centimeter; abbr{cm} n(सेन्टिमिटर) #unit.distance
 charge; चार्ज #physics
 charging; v(चार्जिङ्)
+chimpanzee; [चिम्प्यान्जी] n(बाँदरको प्रजाती)
 chocolate; n(चकलेटी)
 circus; सरकस
 codecs; कोडेक
@@ -27,11 +29,13 @@ cricket; n(क्रिकेट) #game
 cup; [कप]
 cycle; n(साइकल)
 data; डेटा
+dinosaur; [डाइनोसर] m(पुर्वजको जमानाको चीज, रूढिवादी, रूढिवादी व्यक्ति)
 download; डाउनलोड #computer
 dragon; ड्रागन
 drive; ड्राइभ #computer
 email; [इमेल] पत्र, पत्राचार, सन्देश
 engine; इञ्‍जिन
+escalator; [एस्कलेटर्] m(मानिसहरूलाई तलमाथि लैजाने, चल्ने सिंढी)
 extention; एक्सटेंशन
 facebook; फेसबुक #com.www
 february; फेब्रुअरी
@@ -49,12 +53,13 @@ guitar; गितार #music
 hotel; होटेल
 hurray; हुर्रे
 icon; आइकन
+internet; [इन्टरनेट] m(कम्पुटरको सञ्‍जाल)
 jersy; जर्सी
 joker; जोकर
 june; n(जुन) #time.month
 key; किई #computer
 keyboard; किबोर्ड #computer
-kilometer; {km} n(किलोमिटर) #unit.distance
+kilometer; abbr{km} n(किलोमिटर) #unit.distance
 lens; लेन्स
 lollipop; ललीपप #food
 matrix; म्याट्रिक्स
@@ -102,6 +107,5 @@ ticket; टिकेट
 traffic; ट्राफिक
 transparency; ट्रान्सपरेन्सी
 twitter; ट्‌वीटर #com.www
-whale; n(ह्वल) #animal.aqua
+whale; n(ह्वल) #animal.aquatic
 wifi; वाइ-फाइ #computer.network
-escalator; [एस्कलेटर्] m(मानिसहरूलाई तलमाथि लैजाने, चल्ने सिंढी)
